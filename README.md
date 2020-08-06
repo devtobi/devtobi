@@ -51,7 +51,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
 </p>
 
-<a href="#">
+<a href="#" style="margin-bottom: 50px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtobi&layout=compact&hide=html" alt="devtobi" />
 </a>
 
