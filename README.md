@@ -51,9 +51,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtobi&layout=compact&hide=html" alt="devtobi" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true" alt="devtobi" />
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtobi&layout=compact&hide=html" alt="devtobi" />
+</a>
 
-
-
-
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true" alt="devtobi" />
+</a>
