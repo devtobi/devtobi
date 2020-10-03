@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [theisen-latex](https://github.com/devtobi/theisen-latex)
 
-- 📖 I’m currently learning: **Flutter**
+- 📖 I’m currently learning: **Spring Boot**
 
 - 💬 Ask me about: **HTML, CSS, JS, Vue and more**
 
