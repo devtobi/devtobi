@@ -13,7 +13,7 @@
 
 - 🎢 Fun fact: **I love rollercoasters**
 
-<h3>Tools and languages I'm really confident with:</h3>
+<h3>I'm really confident with:</h3>
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -27,7 +27,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </p>
 
-<h3>Tools I commonly use:</h3>
+<h3>I commonly use:</h3>
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
@@ -35,7 +35,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 </p>
 
-<h3>Tools I experimented with:</h3>
+<h3>I experimented with:</h3>
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
