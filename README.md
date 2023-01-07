@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on: -- My free time --
 
-- 📖 I’m currently learning: **Spring Boot**
+- 📖 I’m currently learning: **Cyber Security**
 
 - 💬 Ask me about: **HTML, CSS, JS, Vue and more**
 
-- 📫 How to reach me: **contact@tobi-stadler.de**
+- 📫 How to reach me: **---**
 
 - 🎢 Fun fact: **I love rollercoasters**
 
