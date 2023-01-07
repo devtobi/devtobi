@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtobi" alt="devtobi" /> </p>
 
-- 🔭 I’m currently working on: -- My free time --
+- 🔭 I’m currently working on: **Improving my template repository**
 
 - 📖 I’m currently learning: **Cyber Security**
 
