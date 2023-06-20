@@ -53,11 +53,15 @@
   <img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="swift" width="40" height="40"/>
 </p>
 
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtobi&layout=compact&hide=html" alt="devtobi" />
-  </a>
-  <br>
-  <br>
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true" alt="devtobi" />
-  </a>
+<!--<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtobi&layout=compact&hide=html" alt="devtobi" />
+</a>
+<br>
+<br>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true" alt="devtobi" />
+</a>-->
+
+<a href="https://roadmap.sh">
+  <img src="https://api.roadmap.sh/v1-badge/wide/6491e1c694a0234a65deed57?variant=dark" alt="roadmap.sh"/>
+</a>
