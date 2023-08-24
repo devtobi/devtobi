@@ -9,7 +9,7 @@
 <p align="center"><img alt="Coder GIF" width=50% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
 <!-- About me -->
-<h2 align="center">About me</h2>
+<h2 align="center">ℹ️ About me</h2>
 <ul>
   <li>🌱 I’m currently learning: <strong>Spring Boot Data JPA</strong></li>
   <li>👨‍💻 All of my projects are available at: <a href="https://github.com/devtobi/projects](https://github.com/devtobi/projects">https://github.com/devtobi/projects](https://github.com/devtobi/projects</a></li>
@@ -19,7 +19,7 @@
 </ul>
 
 <!-- Languages and Tools -->
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 <h4 align="center">Currently working with</h4>
 <p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="40" height="40"/> </a>
@@ -66,13 +66,13 @@
 <h4 align="center">Currently learning</h4>
 
 <!-- Recent activity -->
-<h2 align="center">Recent activity</h3>
+<h2 align="center">🕗 Recent activity</h3>
 <!--START_SECTION:activity-->
 TODO
 <!--END_SECTION:activity-->
 
 <!-- Contact -->
-<h2 align="center">Connect with me</h3>
+<h2 align="center">📫 Connect with me</h3>
 <p align="center">
   <a href="https://codepen.io/devtobi_" target="blank"><img align="center" src="https://cdn.simpleicons.org/codepen" alt="devtobi_" height="60" width="60" /></a>
   <a href="https://dev.to/devtobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev.to" alt="devtobi" height="60" width="60" /></a>
