@@ -12,7 +12,7 @@
 </p>
 
 <!-- About me -->
-<img align="right" alt="Random developer quote" width="30%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
+<img align="right" alt="Random developer quote" width="28%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
 <h2 align="center">ℹ️ About me</h2>
 <ul>
   <li>🔭 I’m currently working on: <strong>Backend development projects</strong></li>
@@ -103,9 +103,11 @@
 5. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
 <!--RECENT_ACTIVITY:end-->
 
+<em>
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, August 24th, 2023, 8:50:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+</em>
 
 <!-- Contact -->
 <h2 align="center">📫 Connect with me</h3>
