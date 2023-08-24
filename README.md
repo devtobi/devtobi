@@ -83,19 +83,27 @@ TODO
   <a href="https://stackoverflow.com/users/22441798" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="22441798" height="60" width="60" /></a>
 </p>
 
+<!-- Statistics -->
 <h2 align="center">📈 Statistics</h2>
 <!-- GitHub ReadMe Stats https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/devtobi">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true&locale=en&theme=nord" alt="devtobi" />
   </a>
-  <a href="https://github.com/devtobi">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&show_icons=true&locale=en&layout=compact&theme=nord" alt="devtobi" />
   </a>
 </p>
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtobi&" alt="devtobi" /></p>-->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtobi&theme=nord&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="devtobi" /></a> </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif"></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devtobi&theme=nord&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="devtobi" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://streak-stats.demolab.com">
+    <img align="center" src="https://streak-stats.demolab.com?user=devtobi&theme=nord" alt="devtobi" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif">
+</p>
