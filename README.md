@@ -1,3 +1,4 @@
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY2cjhxdmdxdjFpaWhodnZsNDg2Mjk4djdzZzRhZmtyZGpzbWh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Tobias</h1>
 <h3 align="center">A curious full stack developer from Munich, Germany 🇩🇪</h3>
 
@@ -82,6 +83,7 @@ TODO
   <a href="https://stackoverflow.com/users/22441798" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="22441798" height="60" width="60" /></a>
 </p>
 
+<h2 align="center">📈 Statistics</h2>
 <!-- GitHub ReadMe Stats https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/devtobi">
