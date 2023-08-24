@@ -107,3 +107,6 @@ TODO
 <p align="center">
   <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif">
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F343F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" alt="Typing SVG" /></a>
+</p>
