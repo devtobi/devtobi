@@ -12,7 +12,7 @@
 </p>
 
 <!-- About me -->
-<img align="right" alt="Random developer quote" width="25%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
+<img align="right" alt="Random developer quote" width="30%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
 <h2 align="center">ℹ️ About me</h2>
 <ul>
   <li>🔭 I’m currently working on: <strong>Backend development projects</strong></li>
@@ -92,7 +92,7 @@
 <!--<h4 align="center">Currently learning</h4>-->
 
 <!-- Recent activity -->
-<img align="right" alt="Coder GIF" width="45%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img align="right" alt="Coder GIF" width="35%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
