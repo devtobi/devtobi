@@ -20,6 +20,7 @@
 
 <!-- Languages and Tools -->
 <h2 align="center">Languages and Tools</h2>
+<h4 align="center">Currently working with</h4>
 <p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash" alt="bash" width="40" height="40"/> </a>
@@ -61,6 +62,8 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/webpack" alt="webpack" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd" alt="xd" width="40" height="40"/> </a> 
 </p>
+<h4 align="center">Previously worked with</h4>
+<h4 align="center">Currently learning</h4>
 
 <!-- Recent activity -->
 <h2 align="center">Recent activity</h3>
