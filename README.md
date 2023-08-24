@@ -87,10 +87,10 @@ TODO
 <!-- GitHub ReadMe Stats https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/devtobi">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true&locale=en&theme=aura_dark" alt="devtobi" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true&locale=en&theme=nord" alt="devtobi" />
   </a>
   <a href="https://github.com/devtobi">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="devtobi" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&show_icons=true&locale=en&layout=compact&theme=nord" alt="devtobi" />
   </a>
 </p>
 
