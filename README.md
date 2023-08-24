@@ -92,10 +92,15 @@
 <!--<h4 align="center">Currently learning</h4>-->
 
 <!-- Recent activity -->
+<img align="right" alt="Coder GIF" width="45%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <h2 align="center">🕗 Recent activity</h3>
-<img align="right" alt="Coder GIF" width="30%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+
 <!--START_SECTION:activity-->
-TODO
+1. 🚫 Nothing here yet...
+2. 🚫 Nothing here yet...
+3. 🚫 Nothing here yet...
+4. 🚫 Nothing here yet...
+5. 🚫 Nothing here yet...
 <!--END_SECTION:activity-->
 
 <!-- Contact -->
