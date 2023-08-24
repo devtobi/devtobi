@@ -95,13 +95,9 @@
 <img align="right" alt="Coder GIF" width="45%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <h2 align="center">🕗 Recent activity</h3>
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.1](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.1) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#104](https://github.com/jamesgeorge007/github-activity-readme/pull/104) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🔒 Closed issue [#99](https://github.com/jamesgeorge007/github-activity-readme/issues/99) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1627773520) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🔒 Closed issue [#96](https://github.com/jamesgeorge007/github-activity-readme/issues/96) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <!-- Contact -->
 <h2 align="center">📫 Connect with me</h3>
