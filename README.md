@@ -11,6 +11,7 @@
 <!-- About me -->
 <h2 align="center">ℹ️ About me</h2>
 <ul>
+  <li>🔭 I’m currently working on: <strong>Backend development projects</strong></li>
   <li>🌱 I’m currently learning: <strong>Spring Boot Data JPA</strong></li>
   <li>👨‍💻 All of my projects are available at: <a href="https://github.com/devtobi/projects](https://github.com/devtobi/projects">https://github.com/devtobi/projects](https://github.com/devtobi/projects</a></li>
   <li>💬 Ask me about: <strong>java, javascript, typescript, vue, spring</strong></li>
