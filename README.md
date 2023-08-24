@@ -1,11 +1,31 @@
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY2cjhxdmdxdjFpaWhodnZsNDg2Mjk4djdzZzRhZmtyZGpzbWh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Tobias</h1>
-<h3 align="center">A curious full stack developer from Munich, Germany 🇩🇪</h3>
+<h3 align="center">A curious full stack developer from Munich, Germany<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRkc3Z5ZDE4MDN5bDBzZmo0Y3FsNnRwYjVoanJsNGw1bnZpejQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y1qXsL95elvZwKXtPd/giphy.gif" width="50"></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devtobi&label=Profile%20views&color=4fafda&style=for-the-badge" alt="devtobi" />
   <!--<img alt="GitHub followers" src="https://img.shields.io/github/followers/devtobi?label=Followers&style=flat-square&logoColor=4fafda">-->
 </p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="center"><img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
+    </td>
+    <td valign="top" width="50%">
+      <!-- About me -->
+      <h2 align="center">ℹ️ About me</h2>
+      <ul>
+        <li>🔭 I’m currently working on: <strong>Backend development projects</strong></li>
+        <li>🌱 I’m currently learning: <strong>Spring Boot Data JPA</strong></li>
+        <li>👨‍💻 All of my projects are available at: <a href="https://github.com/devtobi/projects](https://github.com/devtobi/projects">https://github.com/devtobi/projects](https://github.com/devtobi/projects</a></li>
+        <li>💬 Ask me about: <strong>java, javascript, typescript, vue, spring</strong></li>
+        <li>📫 How to reach me: <strong>---</strong></li>
+        <li>⚡️ Fun fact: <strong>I love rollercoasters</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><img alt="Coder GIF" width=50% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
