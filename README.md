@@ -51,7 +51,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postman" alt="postman" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sass" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/spring" alt="spring" width="40" height="40"/> </a>  
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/spring" alt="spring" width="40" height="40"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/springboot" alt="springboot" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vite" alt="vite" width="40" height="40"/> </a>
   <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vitest" alt="vitest" width="40" height="40"/> </a>
