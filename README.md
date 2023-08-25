@@ -68,7 +68,6 @@
 <h4 align="center">Previously worked with</h4>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/amazonaws" alt="amazonaws" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3" alt="css3" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bootstrap" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bulma" alt="bulma" width="40" height="40"/> </a>
