@@ -116,7 +116,7 @@ Last Updated: Friday, August 25th, 2023, 10:18:08 AM
   <a href="https://dev.to/devtobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev.to" alt="devtobi" height="60" width="60" /></a>
   <a href="https://linkedin.com/in/tobias-stadler" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="tobias-stadler" height="60" width="60" /></a>
   <a href="https://stackoverflow.com/users/22441798" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="22441798" height="60" width="60" /></a>
-  <a href="https://x.com/nurdertobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="nurdertobi" height="60" width="60" /></a>
+  <!--<a href="https://x.com/nurdertobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="nurdertobi" height="60" width="60" /></a>-->
 </p>
 
 <!-- Statistics -->
