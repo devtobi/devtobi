@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [devtobi/homarr](https://github.com/devtobi/homarr) from [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 💬 Commented on [#1381](https://github.com/ajnart/homarr/issues/1381#issuecomment-1712284746) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ✔️ Closed issue [#1381](https://github.com/ajnart/homarr/issues/1381) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ❗️ Opened issue [#1385](https://github.com/ajnart/homarr/issues/1385) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💬 Commented on [#1381](https://github.com/ajnart/homarr/issues/1381#issuecomment-1711742997) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💪 Opened PR [#1386](https://github.com/ajnart/homarr/pull/1386) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/homarr](https://github.com/devtobi/homarr)<br>
+3. 🔱 Forked [devtobi/homarr](https://github.com/devtobi/homarr) from [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 💬 Commented on [#1381](https://github.com/ajnart/homarr/issues/1381#issuecomment-1712284746) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ✔️ Closed issue [#1381](https://github.com/ajnart/homarr/issues/1381) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 9th, 2023, 12:36:48 AM
+Last Updated: Saturday, September 9th, 2023, 1:13:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
