@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#135](https://github.com/Bee-Mar/mmpm/issues/135#issuecomment-1694693486) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)<br>
-2. 💪 Opened PR [#136](https://github.com/Bee-Mar/mmpm/pull/136) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/mmpm](https://github.com/devtobi/mmpm)<br>
-4. 🔱 Forked [devtobi/mmpm](https://github.com/devtobi/mmpm) from [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+1. ❗️ Opened issue [#1381](https://github.com/ajnart/homarr/issues/1381) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#135](https://github.com/Bee-Mar/mmpm/issues/135#issuecomment-1694693486) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)<br>
+3. 💪 Opened PR [#136](https://github.com/Bee-Mar/mmpm/pull/136) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/mmpm](https://github.com/devtobi/mmpm)<br>
+5. 🔱 Forked [devtobi/mmpm](https://github.com/devtobi/mmpm) from [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 8th, 2023, 3:37:03 PM
+Last Updated: Friday, September 8th, 2023, 4:13:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
