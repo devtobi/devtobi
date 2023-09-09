@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Fifteen15Studios/MMM-AutoDimmer](https://github.com/Fifteen15Studios/MMM-AutoDimmer)<br>
-2. ⭐ Starred [edward-shen/MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator)<br>
-3. ⭐ Starred [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages)<br>
-4. ⭐ Starred [ianperrin/MMM-ModuleScheduler](https://github.com/ianperrin/MMM-ModuleScheduler)<br>
-5. ⭐ Starred [MagicMirrorModules/MMM-GrafanaChart](https://github.com/MagicMirrorModules/MMM-GrafanaChart)<br>
+1. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
+2. ⭐ Starred [gotify/server](https://github.com/gotify/server)<br>
+3. ⭐ Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)<br>
+4. ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
+5. ⭐ Starred [goauthentik/authentik](https://github.com/goauthentik/authentik)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 9th, 2023, 1:36:58 PM
+Last Updated: Saturday, September 9th, 2023, 2:25:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
