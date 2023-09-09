@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shlinkio/shlink](https://github.com/shlinkio/shlink)<br>
-2. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
-3. ⭐ Starred [gotify/server](https://github.com/gotify/server)<br>
-4. ⭐ Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)<br>
-5. ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
+1. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
+2. ⭐ Starred [mattermost/mattermost](https://github.com/mattermost/mattermost)<br>
+3. ⭐ Starred [mattermost/focalboard](https://github.com/mattermost/focalboard)<br>
+4. ⭐ Starred [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee)<br>
+5. ⭐ Starred [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 9th, 2023, 11:36:37 PM
+Last Updated: Sunday, September 10th, 2023, 12:12:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
