@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
-2. ⭐ Starred [mattermost/mattermost](https://github.com/mattermost/mattermost)<br>
-3. ⭐ Starred [mattermost/focalboard](https://github.com/mattermost/focalboard)<br>
-4. ⭐ Starred [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee)<br>
-5. ⭐ Starred [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)<br>
+1. ❗️ Opened issue [#6941](https://github.com/wallabag/wallabag/issues/6941) in [wallabag/wallabag](https://github.com/wallabag/wallabag)<br>
+2. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
+3. ⭐ Starred [mattermost/mattermost](https://github.com/mattermost/mattermost)<br>
+4. ⭐ Starred [mattermost/focalboard](https://github.com/mattermost/focalboard)<br>
+5. ⭐ Starred [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 11th, 2023, 4:36:56 PM
+Last Updated: Monday, September 11th, 2023, 5:15:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
