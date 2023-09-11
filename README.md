@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#6941](https://github.com/wallabag/wallabag/issues/6941) in [wallabag/wallabag](https://github.com/wallabag/wallabag)<br>
-2. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
-3. ⭐ Starred [mattermost/mattermost](https://github.com/mattermost/mattermost)<br>
-4. ⭐ Starred [mattermost/focalboard](https://github.com/mattermost/focalboard)<br>
-5. ⭐ Starred [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee)<br>
+1. 💬 Commented on [#753](https://github.com/alexjustesen/speedtest-tracker/issues/753#issuecomment-1714092222) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)<br>
+2. ❗️ Opened issue [#753](https://github.com/alexjustesen/speedtest-tracker/issues/753) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)<br>
+3. ❗️ Opened issue [#6941](https://github.com/wallabag/wallabag/issues/6941) in [wallabag/wallabag](https://github.com/wallabag/wallabag)<br>
+4. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
+5. ⭐ Starred [mattermost/mattermost](https://github.com/mattermost/mattermost)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 11th, 2023, 5:36:51 PM
+Last Updated: Monday, September 11th, 2023, 6:19:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
