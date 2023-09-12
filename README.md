@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RaspiManu/MMM-FrameLight](https://github.com/RaspiManu/MMM-FrameLight)<br>
-2. 💬 Commented on [#753](https://github.com/alexjustesen/speedtest-tracker/issues/753#issuecomment-1714092222) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)<br>
-3. ❗️ Opened issue [#753](https://github.com/alexjustesen/speedtest-tracker/issues/753) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)<br>
-4. ❗️ Opened issue [#6941](https://github.com/wallabag/wallabag/issues/6941) in [wallabag/wallabag](https://github.com/wallabag/wallabag)<br>
-5. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
+1. ⭐ Starred [JosefJantzen/MMM-AlexaControl](https://github.com/JosefJantzen/MMM-AlexaControl)<br>
+2. ⭐ Starred [RaspiManu/MMM-FrameLight](https://github.com/RaspiManu/MMM-FrameLight)<br>
+3. 💬 Commented on [#753](https://github.com/alexjustesen/speedtest-tracker/issues/753#issuecomment-1714092222) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)<br>
+4. ❗️ Opened issue [#753](https://github.com/alexjustesen/speedtest-tracker/issues/753) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)<br>
+5. ❗️ Opened issue [#6941](https://github.com/wallabag/wallabag/issues/6941) in [wallabag/wallabag](https://github.com/wallabag/wallabag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 12th, 2023, 1:36:49 AM
+Last Updated: Tuesday, September 12th, 2023, 3:03:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
