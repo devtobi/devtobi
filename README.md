@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [surekap/MMM-ShairportMetadata](https://github.com/surekap/MMM-ShairportMetadata)<br>
-2. ⭐ Starred [Bee-Mar/MMM-Simple-Swiper](https://github.com/Bee-Mar/MMM-Simple-Swiper)<br>
-3. ⭐ Starred [joanaz/MMM-MirrorMirrorOnTheWall](https://github.com/joanaz/MMM-MirrorMirrorOnTheWall)<br>
-4. ⭐ Starred [dolanmiu/MMM-awesome-alexa](https://github.com/dolanmiu/MMM-awesome-alexa)<br>
-5. 💬 Commented on [#128](https://github.com/kevinatown/MMM-Screencast/issues/128#issuecomment-1717681453) in [kevinatown/MMM-Screencast](https://github.com/kevinatown/MMM-Screencast)<br>
+1. ⭐ Starred [Jacopo1891/MMM-GoogleTrafficTimes](https://github.com/Jacopo1891/MMM-GoogleTrafficTimes)<br>
+2. ⭐ Starred [EbenKouao/MMM-SmartTouch](https://github.com/EbenKouao/MMM-SmartTouch)<br>
+3. ⭐ Starred [Tom-Hirschberger/MMM-ProfileControl](https://github.com/Tom-Hirschberger/MMM-ProfileControl)<br>
+4. ⭐ Starred [tosti007/MMM-ProfileSwitcher](https://github.com/tosti007/MMM-ProfileSwitcher)<br>
+5. ⭐ Starred [jboucly/MMM-Pages-Screencast](https://github.com/jboucly/MMM-Pages-Screencast)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 4:37:02 PM
+Last Updated: Wednesday, September 13th, 2023, 5:15:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
