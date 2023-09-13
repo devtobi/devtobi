@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [justjim1220/MMM-HolidayLights](https://github.com/justjim1220/MMM-HolidayLights)<br>
-2. ⭐ Starred [paviro/MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition)<br>
-3. ⭐ Starred [normyx/MMM-Facial-Recognition-OCV3](https://github.com/normyx/MMM-Facial-Recognition-OCV3)<br>
-4. ⭐ Starred [nischi/MMM-Face-Reco-DNN](https://github.com/nischi/MMM-Face-Reco-DNN)<br>
-5. ⭐ Starred [mykle1/MMM-EARTH](https://github.com/mykle1/MMM-EARTH)<br>
+1. ⭐ Starred [yashatgit/MMM-Breathwork](https://github.com/yashatgit/MMM-Breathwork)<br>
+2. ⭐ Starred [jimbydude/MMM-Face-Multi-User-Recognition-SMAI](https://github.com/jimbydude/MMM-Face-Multi-User-Recognition-SMAI)<br>
+3. ⭐ Starred [PtrBld/MMM-Scrobbler](https://github.com/PtrBld/MMM-Scrobbler)<br>
+4. ⭐ Starred [raywo/MMM-NowPlayingOnSpotify](https://github.com/raywo/MMM-NowPlayingOnSpotify)<br>
+5. ⭐ Starred [richardfous/MMM-NameDay](https://github.com/richardfous/MMM-NameDay)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 6:39:07 PM
+Last Updated: Wednesday, September 13th, 2023, 7:13:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
