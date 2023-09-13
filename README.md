@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yashatgit/MMM-Breathwork](https://github.com/yashatgit/MMM-Breathwork)<br>
-2. ⭐ Starred [jimbydude/MMM-Face-Multi-User-Recognition-SMAI](https://github.com/jimbydude/MMM-Face-Multi-User-Recognition-SMAI)<br>
-3. ⭐ Starred [PtrBld/MMM-Scrobbler](https://github.com/PtrBld/MMM-Scrobbler)<br>
-4. ⭐ Starred [raywo/MMM-NowPlayingOnSpotify](https://github.com/raywo/MMM-NowPlayingOnSpotify)<br>
-5. ⭐ Starred [richardfous/MMM-NameDay](https://github.com/richardfous/MMM-NameDay)<br>
+1. ⭐ Starred [BenRoe/MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats)<br>
+2. ⭐ Starred [yashatgit/MMM-Breathwork](https://github.com/yashatgit/MMM-Breathwork)<br>
+3. ⭐ Starred [jimbydude/MMM-Face-Multi-User-Recognition-SMAI](https://github.com/jimbydude/MMM-Face-Multi-User-Recognition-SMAI)<br>
+4. ⭐ Starred [PtrBld/MMM-Scrobbler](https://github.com/PtrBld/MMM-Scrobbler)<br>
+5. ⭐ Starred [raywo/MMM-NowPlayingOnSpotify](https://github.com/raywo/MMM-NowPlayingOnSpotify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 7:36:38 PM
+Last Updated: Wednesday, September 13th, 2023, 8:19:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
