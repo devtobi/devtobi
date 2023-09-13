@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BrianHepler/MMM-WeatherBackground](https://github.com/BrianHepler/MMM-WeatherBackground)<br>
-2. ⭐ Starred [fewieden/MMM-voice](https://github.com/fewieden/MMM-voice)<br>
-3. ⭐ Starred [mykle1/Hello-Lucy](https://github.com/mykle1/Hello-Lucy)<br>
-4. ⭐ Starred [Jacopo1891/MMM-GoogleTrafficTimes](https://github.com/Jacopo1891/MMM-GoogleTrafficTimes)<br>
-5. ⭐ Starred [EbenKouao/MMM-SmartTouch](https://github.com/EbenKouao/MMM-SmartTouch)<br>
+1. ⭐ Starred [MarcLandis/MMM-PIR-Sensor](https://github.com/MarcLandis/MMM-PIR-Sensor)<br>
+2. ⭐ Starred [polarbearjngl/MMM-FastNotes](https://github.com/polarbearjngl/MMM-FastNotes)<br>
+3. ⭐ Starred [vanhoekd/MMM-AfterShip](https://github.com/vanhoekd/MMM-AfterShip)<br>
+4. ⭐ Starred [rseidt/MMM-bringList](https://github.com/rseidt/MMM-bringList)<br>
+5. ⭐ Starred [amitchone/MMM-birthdays](https://github.com/amitchone/MMM-birthdays)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 5:36:57 PM
+Last Updated: Wednesday, September 13th, 2023, 6:18:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
