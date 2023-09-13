@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#128](https://github.com/kevinatown/MMM-Screencast/issues/128#issuecomment-1717681453) in [kevinatown/MMM-Screencast](https://github.com/kevinatown/MMM-Screencast)<br>
-2. ❗️ Opened issue [#377](https://github.com/wallabag/docker/issues/377) in [wallabag/docker](https://github.com/wallabag/docker)<br>
-3. ⭐ Starred [JosefJantzen/MMM-AlexaControl](https://github.com/JosefJantzen/MMM-AlexaControl)<br>
-4. ⭐ Starred [RaspiManu/MMM-FrameLight](https://github.com/RaspiManu/MMM-FrameLight)<br>
-5. 💬 Commented on [#753](https://github.com/alexjustesen/speedtest-tracker/issues/753#issuecomment-1714092222) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)<br>
+1. ⭐ Starred [surekap/MMM-ShairportMetadata](https://github.com/surekap/MMM-ShairportMetadata)<br>
+2. ⭐ Starred [Bee-Mar/MMM-Simple-Swiper](https://github.com/Bee-Mar/MMM-Simple-Swiper)<br>
+3. ⭐ Starred [joanaz/MMM-MirrorMirrorOnTheWall](https://github.com/joanaz/MMM-MirrorMirrorOnTheWall)<br>
+4. ⭐ Starred [dolanmiu/MMM-awesome-alexa](https://github.com/dolanmiu/MMM-awesome-alexa)<br>
+5. 💬 Commented on [#128](https://github.com/kevinatown/MMM-Screencast/issues/128#issuecomment-1717681453) in [kevinatown/MMM-Screencast](https://github.com/kevinatown/MMM-Screencast)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 4:14:03 PM
+Last Updated: Wednesday, September 13th, 2023, 4:37:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
