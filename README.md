@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/christmas-present-2023](https://github.com/devtobi/christmas-present-2023)<br>
-2. 📔 Created new repository [devtobi/christmas-present-2023](https://github.com/devtobi/christmas-present-2023)<br>
-3. ⬆️ Pushed 2 commit(s) to [it-at-m/itm-prettier-codeformat](https://github.com/it-at-m/itm-prettier-codeformat)<br>
-4. ✔️ Closed issue [#32](https://github.com/it-at-m/itm-prettier-codeformat/issues/32) in [it-at-m/itm-prettier-codeformat](https://github.com/it-at-m/itm-prettier-codeformat)<br>
-5. 🎉 Merged PR [#33](https://github.com/it-at-m/itm-prettier-codeformat/pull/33) in [it-at-m/itm-prettier-codeformat](https://github.com/it-at-m/itm-prettier-codeformat)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/christmas-present-2023](https://github.com/devtobi/christmas-present-2023)<br>
+3. 📔 Created new repository [devtobi/christmas-present-2023](https://github.com/devtobi/christmas-present-2023)<br>
+4. ⬆️ Pushed 2 commit(s) to [it-at-m/itm-prettier-codeformat](https://github.com/it-at-m/itm-prettier-codeformat)<br>
+5. ✔️ Closed issue [#32](https://github.com/it-at-m/itm-prettier-codeformat/issues/32) in [it-at-m/itm-prettier-codeformat](https://github.com/it-at-m/itm-prettier-codeformat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 12th, 2024, 1:29:48 PM
+Last Updated: Friday, January 12th, 2024, 1:53:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
