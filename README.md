@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-2. ✔️ Closed issue [#29](https://github.com/it-at-m/digiwf-core-webcomponent/issues/29) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-3. 🎉 Merged PR [#30](https://github.com/it-at-m/digiwf-core-webcomponent/pull/30) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-4. 💪 Opened PR [#30](https://github.com/it-at-m/digiwf-core-webcomponent/pull/30) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-5. ⬆️ Pushed 7 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/ibm-data-science-capstone](https://github.com/devtobi/ibm-data-science-capstone)<br>
+2. 📔 Created new repository [devtobi/ibm-data-science-capstone](https://github.com/devtobi/ibm-data-science-capstone)<br>
+3. ⬆️ Pushed 8 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+4. ✔️ Closed issue [#29](https://github.com/it-at-m/digiwf-core-webcomponent/issues/29) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+5. 🎉 Merged PR [#30](https://github.com/it-at-m/digiwf-core-webcomponent/pull/30) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 17th, 2024, 9:36:50 PM
+Last Updated: Sunday, March 17th, 2024, 10:14:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
