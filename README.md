@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#34](https://github.com/it-at-m/digiwf-core-webcomponent/issues/34) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-2. 💬 Commented on [#28](https://github.com/it-at-m/digiwf-core-webcomponent/issues/28#issuecomment-2012635782) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-3. ✔️ Closed issue [#28](https://github.com/it-at-m/digiwf-core-webcomponent/issues/28) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-4. ⬆️ Pushed 4 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-5. 🎉 Merged PR [#33](https://github.com/it-at-m/digiwf-core-webcomponent/pull/33) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+1. 💪 Opened PR [#35](https://github.com/it-at-m/digiwf-core-webcomponent/pull/35) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+3. ❗️ Opened issue [#34](https://github.com/it-at-m/digiwf-core-webcomponent/issues/34) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+4. 💬 Commented on [#28](https://github.com/it-at-m/digiwf-core-webcomponent/issues/28#issuecomment-2012635782) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+5. ✔️ Closed issue [#28](https://github.com/it-at-m/digiwf-core-webcomponent/issues/28) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 22nd, 2024, 8:36:53 AM
+Last Updated: Friday, March 22nd, 2024, 9:18:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
