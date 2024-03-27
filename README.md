@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#32](https://github.com/it-at-m/digiwf-core-webcomponent/issues/32) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-2. ✔️ Closed issue [#34](https://github.com/it-at-m/digiwf-core-webcomponent/issues/34) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-3. 💬 Commented on [#32](https://github.com/it-at-m/digiwf-core-webcomponent/issues/32#issuecomment-2014891573) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-4. 💬 Commented on [#34](https://github.com/it-at-m/digiwf-core-webcomponent/issues/34#issuecomment-2014890046) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-5. ⬆️ Pushed 43 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+1. 🔱 Forked [devtobi/digiwf-core](https://github.com/devtobi/digiwf-core) from [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
+2. ✔️ Closed issue [#32](https://github.com/it-at-m/digiwf-core-webcomponent/issues/32) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+3. ✔️ Closed issue [#34](https://github.com/it-at-m/digiwf-core-webcomponent/issues/34) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+4. 💬 Commented on [#32](https://github.com/it-at-m/digiwf-core-webcomponent/issues/32#issuecomment-2014891573) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+5. 💬 Commented on [#34](https://github.com/it-at-m/digiwf-core-webcomponent/issues/34#issuecomment-2014890046) in [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 27th, 2024, 8:37:25 AM
+Last Updated: Wednesday, March 27th, 2024, 9:19:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
