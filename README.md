@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1570](https://github.com/it-at-m/digiwf-core/pull/1570#discussion_r1570288278) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
-2. ⬆️ Pushed 1 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
-3. 💬 Commented on [#1570](https://github.com/it-at-m/digiwf-core/pull/1570#discussion_r1568519564) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
-4. 💬 Commented on [#1570](https://github.com/it-at-m/digiwf-core/pull/1570#discussion_r1568517902) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
-5. ⬆️ Pushed 4 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+2. 💬 Commented on [#1570](https://github.com/it-at-m/digiwf-core/pull/1570#discussion_r1570288278) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
+3. ⬆️ Pushed 1 commit(s) to [it-at-m/digiwf-core-webcomponent](https://github.com/it-at-m/digiwf-core-webcomponent)<br>
+4. 💬 Commented on [#1570](https://github.com/it-at-m/digiwf-core/pull/1570#discussion_r1568519564) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
+5. 💬 Commented on [#1570](https://github.com/it-at-m/digiwf-core/pull/1570#discussion_r1568517902) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 18th, 2024, 11:38:22 AM
+Last Updated: Thursday, April 18th, 2024, 12:18:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
