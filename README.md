@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
-3. 💪 Opened PR [#1](https://github.com/devtobi/gh-actions-course/pull/1) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+5. 💪 Opened PR [#1](https://github.com/devtobi/gh-actions-course/pull/1) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 12th, 2024, 8:21:23 PM
+Last Updated: Sunday, May 12th, 2024, 8:37:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
