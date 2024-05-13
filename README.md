@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/devtobi/gh-actions-course/pull/1) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
-3. ❌ Closed PR [#2](https://github.com/devtobi/gh-actions-course/pull/2) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
-5. ⬆️ Pushed 2 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+4. ❌ Closed PR [#1](https://github.com/devtobi/gh-actions-course/pull/1) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 13th, 2024, 11:37:28 AM
+Last Updated: Monday, May 13th, 2024, 12:17:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
