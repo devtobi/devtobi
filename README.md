@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1685](https://github.com/it-at-m/digiwf-core/pull/1685) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
-2. ⭐ Starred [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
-3. 💪 Opened PR [#1683](https://github.com/it-at-m/digiwf-core/pull/1683) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/digiwf-core](https://github.com/devtobi/digiwf-core)<br>
-5. 🔱 Forked [devtobi/digiwf-core](https://github.com/devtobi/digiwf-core) from [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+4. 💪 Opened PR [#1685](https://github.com/it-at-m/digiwf-core/pull/1685) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
+5. ⭐ Starred [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 15th, 2024, 11:37:10 AM
+Last Updated: Wednesday, May 15th, 2024, 12:17:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
