@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+1. ✔️ Closed issue [#1682](https://github.com/it-at-m/digiwf-core/issues/1682) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
 3. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
-4. 💪 Opened PR [#1685](https://github.com/it-at-m/digiwf-core/pull/1685) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
-5. ⭐ Starred [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+5. 💪 Opened PR [#1685](https://github.com/it-at-m/digiwf-core/pull/1685) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 15th, 2024, 12:37:11 PM
+Last Updated: Wednesday, May 15th, 2024, 1:13:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
