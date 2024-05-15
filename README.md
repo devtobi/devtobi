@@ -111,10 +111,10 @@ Last Updated: Wednesday, May 15th, 2024, 11:37:10 AM
 <!-- Contact -->
 <h2 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="https://codepen.io/devtobi_" target="blank"><img align="center" src="https://cdn.simpleicons.org/codepen" alt="devtobi_" height="60" width="60" /></a>
-  <a href="https://dev.to/devtobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev.to" alt="devtobi" height="60" width="60" /></a>
+  <!--<a href="https://codepen.io/devtobi_" target="blank"><img align="center" src="https://cdn.simpleicons.org/codepen" alt="devtobi_" height="60" width="60" /></a>-->
+  <!--<a href="https://dev.to/devtobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev.to" alt="devtobi" height="60" width="60" /></a>-->
   <a href="https://linkedin.com/in/tobias-stadler" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="tobias-stadler" height="60" width="60" /></a>
-  <a href="https://stackoverflow.com/users/22441798" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="22441798" height="60" width="60" /></a>
+  <!--<a href="https://stackoverflow.com/users/22441798" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="22441798" height="60" width="60" /></a>-->
   <!--<a href="https://x.com/nurdertobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="nurdertobi" height="60" width="60" /></a>-->
 </p>
 
