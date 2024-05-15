@@ -95,7 +95,7 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+1. ❗️ Opened issue [#1682](https://github.com/it-at-m/digiwf-core/issues/1682) in [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 3. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
@@ -104,7 +104,7 @@
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 15th, 2024, 8:38:29 AM
+Last Updated: Wednesday, May 15th, 2024, 9:15:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
