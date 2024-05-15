@@ -15,7 +15,7 @@
 <img align="right" alt="Random developer quote" width="28%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
 <h2 align="center">ℹ️ About me</h2>
 <ul>
-  <<li>🔭 I’m currently working on: <strong>My neovim setup</strong></li>
+  <li>🔭 I’m currently working on: <strong>My neovim setup</strong></li>
   <li>🌱 I’m currently learning: <strong>GitHub actions</strong></li>
   <li>👨‍💻 All of my projects are available at: <a href="https://github.com/devtobi/projects">https://github.com/devtobi/projects</a></li>
   <li>💬 Ask me about: <strong>java, spring, javascript, typescript, vue, devops</strong></li>
