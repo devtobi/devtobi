@@ -95,7 +95,7 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+1. ⬆️ Pushed 4 commit(s) to [devtobi/digiwf-core](https://github.com/devtobi/digiwf-core)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 3. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
@@ -104,7 +104,7 @@
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 17th, 2024, 12:16:42 PM
+Last Updated: Friday, May 17th, 2024, 12:37:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
