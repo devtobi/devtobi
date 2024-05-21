@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5702](https://github.com/kamranahmedse/developer-roadmap/issues/5702) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-2. 💪 Opened PR [#10](https://github.com/devtobi/gh-actions-course/pull/10) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+1. ⭐ Starred [it-at-m/digiwf-core](https://github.com/it-at-m/digiwf-core)<br>
+2. ❗️ Opened issue [#5702](https://github.com/kamranahmedse/developer-roadmap/issues/5702) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+3. 💪 Opened PR [#10](https://github.com/devtobi/gh-actions-course/pull/10) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
-5. ❌ Closed PR [#9](https://github.com/devtobi/gh-actions-course/pull/9) in [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/gh-actions-course](https://github.com/devtobi/gh-actions-course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 21st, 2024, 9:37:12 AM
+Last Updated: Tuesday, May 21st, 2024, 10:20:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
