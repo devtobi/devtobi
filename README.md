@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/clean-commits](https://github.com/devtobi/clean-commits)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. 💬 Commented on [#994](https://github.com/commitizen/cz-cli/issues/994#issuecomment-2134145745) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)<br>
-4. ⭐ Starred [mipro98/schraegerWurf](https://github.com/mipro98/schraegerWurf)<br>
-5. 💬 Commented on [#994](https://github.com/commitizen/cz-cli/issues/994#issuecomment-2134092111) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+4. 💬 Commented on [#994](https://github.com/commitizen/cz-cli/issues/994#issuecomment-2134145745) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)<br>
+5. ⭐ Starred [mipro98/schraegerWurf](https://github.com/mipro98/schraegerWurf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 29th, 2024, 5:37:51 PM
+Last Updated: Wednesday, May 29th, 2024, 6:21:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
