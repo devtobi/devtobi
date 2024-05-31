@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/devtobi/cv/pull/3) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ❗️ Opened issue [#2](https://github.com/devtobi/cv/issues/2) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. 💬 Commented on [#994](https://github.com/commitizen/cz-cli/issues/994#issuecomment-2140929234) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)<br>
+3. 💪 Opened PR [#3](https://github.com/devtobi/cv/pull/3) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 31st, 2024, 7:15:19 PM
+Last Updated: Friday, May 31st, 2024, 7:36:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
