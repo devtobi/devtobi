@@ -95,8 +95,8 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#4](https://github.com/devtobi/cv/issues/4) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. 💬 Commented on [#3](https://github.com/devtobi/cv/pull/3#discussion_r1622971316) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ❗️ Opened issue [#4](https://github.com/devtobi/cv/issues/4) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
@@ -104,7 +104,7 @@
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 31st, 2024, 11:15:31 PM
+Last Updated: Friday, May 31st, 2024, 11:36:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
