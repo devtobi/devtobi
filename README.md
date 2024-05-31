@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/devtobi/cv/pull/3#discussion_r1622971316) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. ❗️ Opened issue [#4](https://github.com/devtobi/cv/issues/4) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 2 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ✔️ Closed issue [#2](https://github.com/devtobi/cv/issues/2) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 11 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#3](https://github.com/devtobi/cv/pull/3) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 31st, 2024, 11:36:41 PM
+Last Updated: Saturday, June 1st, 2024, 12:14:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
