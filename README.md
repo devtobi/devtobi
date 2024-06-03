@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#6](https://github.com/devtobi/clean-commits-example/issues/6) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
-2. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
-3. ❗️ Opened issue [#5](https://github.com/devtobi/cv/issues/5) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ⬆️ Pushed 2 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. ✔️ Closed issue [#2](https://github.com/devtobi/cv/issues/2) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+2. 🎉 Merged PR [#5](https://github.com/devtobi/clean-commits-example/pull/5) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+3. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+4. 🎉 Merged PR [#4](https://github.com/devtobi/clean-commits-example/pull/4) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+5. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 3rd, 2024, 8:23:05 PM
+Last Updated: Monday, June 3rd, 2024, 8:40:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
