@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. 🎉 Merged PR [#48](https://github.com/devtobi/cv/pull/48) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 👍 Approved [#48](https://github.com/devtobi/cv/pull/48#pullrequestreview-2110212720) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
-5. 🎉 Merged PR [#12](https://github.com/devtobi/clean-commits-example/pull/12) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+1. ⬆️ Pushed 3 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. 🎉 Merged PR [#50](https://github.com/devtobi/cv/pull/50) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. ⬆️ Pushed 2 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. 🎉 Merged PR [#48](https://github.com/devtobi/cv/pull/48) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 11th, 2024, 2:32:46 PM
+Last Updated: Tuesday, June 11th, 2024, 3:19:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
