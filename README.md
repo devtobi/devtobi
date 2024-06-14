@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. 🎉 Merged PR [#60](https://github.com/devtobi/cv/pull/60) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. 👍 Approved [#60](https://github.com/devtobi/cv/pull/60#pullrequestreview-2118754607) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+1. ❗️ Opened issue [#64](https://github.com/devtobi/cv/issues/64) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ❗️ Opened issue [#63](https://github.com/devtobi/cv/issues/63) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 3 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#61](https://github.com/devtobi/cv/pull/61) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. 👍 Approved [#61](https://github.com/devtobi/cv/pull/61#pullrequestreview-2118876539) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 14th, 2024, 6:39:52 PM
+Last Updated: Friday, June 14th, 2024, 7:16:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
