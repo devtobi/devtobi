@@ -96,15 +96,15 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed 5 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 🎉 Merged PR [#119](https://github.com/devtobi/cv/pull/119) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. 👍 Approved [#119](https://github.com/devtobi/cv/pull/119#pullrequestreview-2161502030) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. ⬆️ Pushed 3 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+3. ⬆️ Pushed 5 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#119](https://github.com/devtobi/cv/pull/119) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. 👍 Approved [#119](https://github.com/devtobi/cv/pull/119#pullrequestreview-2161502030) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 8th, 2024, 2:33:50 PM
+Last Updated: Monday, July 8th, 2024, 3:20:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
