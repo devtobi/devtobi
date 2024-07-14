@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/raspberrypi-adblock-ansible](https://github.com/devtobi/raspberrypi-adblock-ansible)<br>
-2. ❗️ Opened issue [#1](https://github.com/devtobi/raspberrypi-adblock-ansible/issues/1) in [devtobi/raspberrypi-adblock-ansible](https://github.com/devtobi/raspberrypi-adblock-ansible)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/raspberrypi-adblock-ansible](https://github.com/devtobi/raspberrypi-adblock-ansible)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/raspberrypi-adblock-ansible](https://github.com/devtobi/raspberrypi-adblock-ansible)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/raspberrypi-adblock-ansible](https://github.com/devtobi/raspberrypi-adblock-ansible)<br>
+1. 👍 Approved [#126](https://github.com/devtobi/cv/pull/126#pullrequestreview-2176625243) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 2 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#123](https://github.com/devtobi/cv/pull/123) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. 👍 Approved [#123](https://github.com/devtobi/cv/pull/123#pullrequestreview-2176624793) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 14th, 2024, 12:19:07 PM
+Last Updated: Sunday, July 14th, 2024, 12:40:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
