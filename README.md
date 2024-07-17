@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#35](https://github.com/it-at-m/refarch-templates/issues/35) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ❗️ Opened issue [#34](https://github.com/it-at-m/refarch-templates/issues/34) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ❗️ Opened issue [#33](https://github.com/it-at-m/refarch-templates/issues/33) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ❗️ Opened issue [#32](https://github.com/it-at-m/refarch-templates/issues/32) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ❗️ Opened issue [#31](https://github.com/it-at-m/refarch-templates/issues/31) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#14](https://github.com/it-at-m/refarch-templates/pull/14#discussion_r1681032877) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#14](https://github.com/it-at-m/refarch-templates/pull/14#discussion_r1681064521) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#14](https://github.com/it-at-m/refarch-templates/pull/14#discussion_r1681062647) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#14](https://github.com/it-at-m/refarch-templates/pull/14#discussion_r1681060634) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#14](https://github.com/it-at-m/refarch-templates/pull/14#discussion_r1681055328) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 17th, 2024, 4:16:55 PM
+Last Updated: Wednesday, July 17th, 2024, 4:38:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
