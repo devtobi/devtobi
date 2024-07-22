@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#10](https://github.com/it-at-m/refarch-templates/issues/10#issuecomment-2239001978) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#25](https://github.com/it-at-m/refarch-templates/issues/25#issuecomment-2238985879) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ✔️ Closed issue [#25](https://github.com/it-at-m/refarch-templates/issues/25) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#30](https://github.com/it-at-m/refarch-templates/issues/30#issuecomment-2238983821) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ✔️ Closed issue [#30](https://github.com/it-at-m/refarch-templates/issues/30) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#16](https://github.com/it-at-m/refarch/pull/16#discussion_r1686461109) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 🔴 Requested 2 change(s) for [#16](https://github.com/it-at-m/refarch/pull/16#pullrequestreview-2191425235) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#36](https://github.com/it-at-m/refarch-templates/issues/36#issuecomment-2242821011) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#20](https://github.com/it-at-m/refarch-templates/issues/20#issuecomment-2242818556) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 👍 Approved [#63](https://github.com/it-at-m/refarch-templates/pull/63#pullrequestreview-2191410098) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 22nd, 2024, 2:34:11 PM
+Last Updated: Monday, July 22nd, 2024, 3:20:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
