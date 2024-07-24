@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#20](https://github.com/it-at-m/refarch-templates/issues/20#issuecomment-2244739555) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#61](https://github.com/it-at-m/refarch-templates/pull/61#discussion_r1687689806) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#61](https://github.com/it-at-m/refarch-templates/pull/61#discussion_r1687740924) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#61](https://github.com/it-at-m/refarch-templates/pull/61#discussion_r1687746627) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#61](https://github.com/it-at-m/refarch-templates/pull/61#discussion_r1687742422) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ✔️ Closed issue [#85](https://github.com/it-at-m/refarch-templates/issues/85) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 👍 Approved [#61](https://github.com/it-at-m/refarch-templates/pull/61#pullrequestreview-2195921903) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ❗️ Opened issue [#85](https://github.com/it-at-m/refarch-templates/issues/85) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ❗️ Opened issue [#84](https://github.com/it-at-m/refarch-templates/issues/84) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ❗️ Opened issue [#83](https://github.com/it-at-m/refarch-templates/issues/83) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 24th, 2024, 9:37:10 AM
+Last Updated: Wednesday, July 24th, 2024, 10:21:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
