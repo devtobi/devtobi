@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#33](https://github.com/it-at-m/refarch/pull/33#issuecomment-2256050717) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#11](https://github.com/it-at-m/refarch-templates/issues/11#issuecomment-2256037838) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ❗️ Opened issue [#131](https://github.com/it-at-m/refarch-templates/issues/131) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 🎉 Merged PR [#130](https://github.com/it-at-m/refarch-templates/pull/130) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#30](https://github.com/it-at-m/refarch/pull/30#issuecomment-2256072955) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 👍 Approved [#31](https://github.com/it-at-m/refarch/pull/31#pullrequestreview-2205108321) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#35](https://github.com/it-at-m/refarch/pull/35#discussion_r1695312574) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#33](https://github.com/it-at-m/refarch/pull/33#issuecomment-2256050717) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#11](https://github.com/it-at-m/refarch-templates/issues/11#issuecomment-2256037838) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 29th, 2024, 5:18:53 PM
+Last Updated: Monday, July 29th, 2024, 5:37:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
