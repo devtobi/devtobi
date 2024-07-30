@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#132](https://github.com/it-at-m/refarch-templates/pull/132#pullrequestreview-2205187228) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#112](https://github.com/it-at-m/refarch-templates/pull/112#discussion_r1695344147) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#30](https://github.com/it-at-m/refarch/pull/30#issuecomment-2256072955) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 👍 Approved [#31](https://github.com/it-at-m/refarch/pull/31#pullrequestreview-2205108321) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#35](https://github.com/it-at-m/refarch/pull/35#discussion_r1695312574) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 👍 Approved [#31](https://github.com/it-at-m/refarch/pull/31#pullrequestreview-2207291367) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 👍 Approved [#40](https://github.com/it-at-m/refarch/pull/40#pullrequestreview-2207288716) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#37](https://github.com/it-at-m/helm-charts/pull/37#discussion_r1696716283) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+4. ⭐ Starred [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+5. 👍 Approved [#132](https://github.com/it-at-m/refarch-templates/pull/132#pullrequestreview-2205187228) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 30th, 2024, 12:39:31 PM
+Last Updated: Tuesday, July 30th, 2024, 1:15:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
