@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [it-at-m/renovate-config](https://github.com/it-at-m/renovate-config)<br>
-2. ⭐ Starred [it-at-m/.github](https://github.com/it-at-m/.github)<br>
-3. ⭐ Starred [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
-4. 💬 Commented on [#134](https://github.com/it-at-m/refarch-templates/pull/134#discussion_r1697552179) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#134](https://github.com/it-at-m/refarch-templates/pull/134#discussion_r1697550692) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#113](https://github.com/it-at-m/refarch-templates/issues/113#issuecomment-2259774673) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⭐ Starred [it-at-m/renovate-config](https://github.com/it-at-m/renovate-config)<br>
+3. ⭐ Starred [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+4. ⭐ Starred [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+5. 💬 Commented on [#134](https://github.com/it-at-m/refarch-templates/pull/134#discussion_r1697552179) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 31st, 2024, 8:20:07 AM
+Last Updated: Wednesday, July 31st, 2024, 8:36:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
