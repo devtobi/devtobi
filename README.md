@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed 5 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed 4 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ✔️ Closed issue [#140](https://github.com/it-at-m/refarch-templates/issues/140) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 🎉 Merged PR [#144](https://github.com/it-at-m/refarch-templates/pull/144) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ❗️ Opened issue [#165](https://github.com/it-at-m/muc-patternlab-vue/issues/165) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
+2. ❗️ Opened issue [#149](https://github.com/it-at-m/refarch-templates/issues/149) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ✔️ Closed issue [#113](https://github.com/it-at-m/refarch-templates/issues/113) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed 7 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 🎉 Merged PR [#141](https://github.com/it-at-m/refarch-templates/pull/141) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 1st, 2024, 1:36:50 PM
+Last Updated: Thursday, August 1st, 2024, 2:34:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
