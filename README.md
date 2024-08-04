@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#158](https://github.com/it-at-m/refarch-templates/issues/158) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 👍 Approved [#152](https://github.com/devtobi/cv/pull/152#pullrequestreview-2217826295) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 🎉 Merged PR [#146](https://github.com/devtobi/cv/pull/146) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. 👍 Approved [#146](https://github.com/devtobi/cv/pull/146#pullrequestreview-2217822541) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. 🎉 Merged PR [#151](https://github.com/devtobi/cv/pull/151) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 👍 Approved [#151](https://github.com/devtobi/cv/pull/151#pullrequestreview-2217825632) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 5th, 2024, 12:16:31 AM
+Last Updated: Monday, August 5th, 2024, 12:37:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
