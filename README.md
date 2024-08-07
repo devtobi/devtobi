@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#167](https://github.com/it-at-m/refarch-templates/pull/167#pullrequestreview-2224907598) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 👍 Approved [#176](https://github.com/it-at-m/muc-patternlab-vue/pull/176#pullrequestreview-2224851295) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
-3. 💪 Opened PR [#168](https://github.com/it-at-m/refarch-templates/pull/168) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#167](https://github.com/it-at-m/refarch-templates/pull/167#discussion_r1706837354) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ❗️ Opened issue [#169](https://github.com/it-at-m/refarch-templates/issues/169) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 👍 Approved [#167](https://github.com/it-at-m/refarch-templates/pull/167#pullrequestreview-2224907598) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#176](https://github.com/it-at-m/muc-patternlab-vue/pull/176#pullrequestreview-2224851295) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
+4. 💪 Opened PR [#168](https://github.com/it-at-m/refarch-templates/pull/168) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 7th, 2024, 4:37:52 PM
+Last Updated: Wednesday, August 7th, 2024, 5:18:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
