@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#53](https://github.com/it-at-m/refarch/pull/53#pullrequestreview-2227037181) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#53](https://github.com/it-at-m/refarch/pull/53#discussion_r1708797517) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 👍 Approved [#54](https://github.com/it-at-m/refarch/pull/54#pullrequestreview-2227034706) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#150](https://github.com/it-at-m/refarch-templates/issues/150#issuecomment-2274322726) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ❗️ Opened issue [#169](https://github.com/it-at-m/refarch-templates/issues/169) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#170](https://github.com/it-at-m/refarch-templates/pull/170#discussion_r1708829364) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#170](https://github.com/it-at-m/refarch-templates/pull/170#discussion_r1708829922) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#170](https://github.com/it-at-m/refarch-templates/pull/170#discussion_r1708828896) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#170](https://github.com/it-at-m/refarch-templates/pull/170#discussion_r1708812047) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#170](https://github.com/it-at-m/refarch-templates/pull/170#discussion_r1708802179) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 8th, 2024, 9:16:08 AM
+Last Updated: Thursday, August 8th, 2024, 9:38:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
