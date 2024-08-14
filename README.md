@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#63](https://github.com/it-at-m/refarch/pull/63#pullrequestreview-2237529721) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716533670) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716495607) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716502477) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716491407) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#64](https://github.com/mayope/keycloakmigration/issues/64#issuecomment-2288242711) in [mayope/keycloakmigration](https://github.com/mayope/keycloakmigration)<br>
+2. 👍 Approved [#63](https://github.com/it-at-m/refarch/pull/63#pullrequestreview-2237529721) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716533670) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716495607) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716502477) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 11:18:40 AM
+Last Updated: Wednesday, August 14th, 2024, 11:37:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
