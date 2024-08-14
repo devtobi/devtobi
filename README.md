@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#16](https://github.com/it-at-m/refarch-templates/issues/16#issuecomment-2288043964) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ✔️ Closed issue [#186](https://github.com/it-at-m/refarch-templates/issues/186) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#186](https://github.com/it-at-m/refarch-templates/issues/186#issuecomment-2288031654) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ❗️ Opened issue [#190](https://github.com/it-at-m/refarch-templates/issues/190) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ❗️ Opened issue [#189](https://github.com/it-at-m/refarch-templates/issues/189) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716489019) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#16](https://github.com/it-at-m/refarch-templates/issues/16#issuecomment-2288062482) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#16](https://github.com/it-at-m/refarch-templates/issues/16#issuecomment-2288043964) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ✔️ Closed issue [#186](https://github.com/it-at-m/refarch-templates/issues/186) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#186](https://github.com/it-at-m/refarch-templates/issues/186#issuecomment-2288031654) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 9:37:32 AM
+Last Updated: Wednesday, August 14th, 2024, 10:23:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
