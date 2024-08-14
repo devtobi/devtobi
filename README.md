@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#61](https://github.com/it-at-m/refarch/pull/61#discussion_r1716845506) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 🔴 Requested 1 change(s) for [#61](https://github.com/it-at-m/refarch/pull/61#pullrequestreview-2238031840) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#67](https://github.com/it-at-m/refarch/pull/67#discussion_r1716842512) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#67](https://github.com/it-at-m/refarch/pull/67#discussion_r1716843465) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 🔴 Requested 1 change(s) for [#67](https://github.com/it-at-m/refarch/pull/67#pullrequestreview-2238027106) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 🔴 Requested 1 change(s) for [#196](https://github.com/it-at-m/refarch-templates/pull/196#pullrequestreview-2238043605) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#196](https://github.com/it-at-m/refarch-templates/pull/196#discussion_r1716851440) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#61](https://github.com/it-at-m/refarch/pull/61#pullrequestreview-2238039673) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 👍 Approved [#67](https://github.com/it-at-m/refarch/pull/67#pullrequestreview-2238038783) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#67](https://github.com/it-at-m/refarch/pull/67#discussion_r1716849499) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 3:20:27 PM
+Last Updated: Wednesday, August 14th, 2024, 3:36:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
