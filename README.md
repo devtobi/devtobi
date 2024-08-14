@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716495607) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716502477) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716491407) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716494358) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 🔴 Requested 1 change(s) for [#63](https://github.com/it-at-m/refarch/pull/63#pullrequestreview-2237456314) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 👍 Approved [#63](https://github.com/it-at-m/refarch/pull/63#pullrequestreview-2237529721) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716533670) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716495607) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716502477) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#63](https://github.com/it-at-m/refarch/pull/63#discussion_r1716491407) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 10:40:35 AM
+Last Updated: Wednesday, August 14th, 2024, 11:18:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
