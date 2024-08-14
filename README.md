@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#67](https://github.com/it-at-m/refarch/pull/67#pullrequestreview-2238184671) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 🔴 Requested 2 change(s) for [#196](https://github.com/it-at-m/refarch-templates/pull/196#pullrequestreview-2238167075) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#196](https://github.com/it-at-m/refarch-templates/pull/196#pullrequestreview-2238152671) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#196](https://github.com/it-at-m/refarch-templates/pull/196#discussion_r1716917864) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#196](https://github.com/it-at-m/refarch-templates/pull/196#discussion_r1716851440) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💪 Opened PR [#198](https://github.com/it-at-m/refarch-templates/pull/198) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⬆️ Pushed 4 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#67](https://github.com/it-at-m/refarch/pull/67#pullrequestreview-2238184671) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 🔴 Requested 1 change(s) for [#196](https://github.com/it-at-m/refarch-templates/pull/196#pullrequestreview-2238167075) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 👍 Approved [#196](https://github.com/it-at-m/refarch-templates/pull/196#pullrequestreview-2238152671) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 5:18:15 PM
+Last Updated: Wednesday, August 14th, 2024, 5:37:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
