@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#76](https://github.com/it-at-m/refarch/pull/76#pullrequestreview-2242299888) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 👍 Approved [#76](https://github.com/it-at-m/refarch/pull/76#pullrequestreview-2242247899) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 👍 Approved [#64](https://github.com/it-at-m/refarch/pull/64#pullrequestreview-2242216481) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#64](https://github.com/it-at-m/refarch/pull/64#issuecomment-2293073005) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. ❗️ Opened issue [#200](https://github.com/it-at-m/refarch-templates/issues/200) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 👍 Approved [#79](https://github.com/it-at-m/refarch/pull/79#pullrequestreview-2242359255) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#79](https://github.com/it-at-m/refarch/pull/79#discussion_r1719607215) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 👍 Approved [#76](https://github.com/it-at-m/refarch/pull/76#pullrequestreview-2242299888) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 👍 Approved [#76](https://github.com/it-at-m/refarch/pull/76#pullrequestreview-2242247899) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 👍 Approved [#64](https://github.com/it-at-m/refarch/pull/64#pullrequestreview-2242216481) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 16th, 2024, 11:37:30 AM
+Last Updated: Friday, August 16th, 2024, 12:19:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
