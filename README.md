@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. 💬 Commented on [#73](https://github.com/it-at-m/refarch/pull/73#issuecomment-2293405135) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ❗️ Opened issue [#82](https://github.com/mayope/keycloakmigration/issues/82) in [mayope/keycloakmigration](https://github.com/mayope/keycloakmigration)<br>
-5. ✔️ Closed issue [#93](https://github.com/it-at-m/refarch-templates/issues/93) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#81](https://github.com/it-at-m/refarch/pull/81#discussion_r1721684046) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#14](https://github.com/it-at-m/.github/issues/14#issuecomment-2296411962) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+5. 💬 Commented on [#73](https://github.com/it-at-m/refarch/pull/73#issuecomment-2293405135) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 19th, 2024, 2:34:25 PM
+Last Updated: Monday, August 19th, 2024, 3:21:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
