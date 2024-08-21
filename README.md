@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#64](https://github.com/mayope/keycloakmigration/issues/64#issuecomment-2299162422) in [mayope/keycloakmigration](https://github.com/mayope/keycloakmigration)<br>
-2. 💬 Commented on [#81](https://github.com/it-at-m/refarch/pull/81#discussion_r1721684046) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#14](https://github.com/it-at-m/.github/issues/14#issuecomment-2296411962) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+1. ❗️ Opened issue [#203](https://github.com/it-at-m/refarch-templates/issues/203) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 🎉 Merged PR [#202](https://github.com/it-at-m/refarch-templates/pull/202) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 👍 Approved [#202](https://github.com/it-at-m/refarch-templates/pull/202#pullrequestreview-2249890263) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 21st, 2024, 8:41:44 AM
+Last Updated: Wednesday, August 21st, 2024, 9:16:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
