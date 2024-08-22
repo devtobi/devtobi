@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#93](https://github.com/it-at-m/refarch/issues/93) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 🎉 Merged PR [#97](https://github.com/it-at-m/refarch/pull/97) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed 6 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💪 Opened PR [#97](https://github.com/it-at-m/refarch/pull/97) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ❗️ Opened issue [#198](https://github.com/it-at-m/muc-patternlab-vue/issues/198) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
+2. ✔️ Closed issue [#93](https://github.com/it-at-m/refarch/issues/93) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 🎉 Merged PR [#97](https://github.com/it-at-m/refarch/pull/97) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ⬆️ Pushed 6 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 22nd, 2024, 11:18:23 AM
+Last Updated: Thursday, August 22nd, 2024, 11:36:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
