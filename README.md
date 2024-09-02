@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. 🎉 Merged PR [#166](https://github.com/devtobi/cv/pull/166) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ✔️ Closed issue [#86](https://github.com/devtobi/cv/issues/86) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. 🎉 Merged PR [#167](https://github.com/devtobi/cv/pull/167) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. 🎉 Merged PR [#165](https://github.com/devtobi/cv/pull/165) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. 💪 Opened PR [#167](https://github.com/devtobi/cv/pull/167) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 2nd, 2024, 4:16:53 PM
+Last Updated: Monday, September 2nd, 2024, 4:38:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
