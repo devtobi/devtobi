@@ -96,15 +96,15 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. ✔️ Closed issue [#86](https://github.com/devtobi/cv/issues/86) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. 🎉 Merged PR [#167](https://github.com/devtobi/cv/pull/167) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+4. ✔️ Closed issue [#86](https://github.com/devtobi/cv/issues/86) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 3rd, 2024, 10:42:06 AM
+Last Updated: Tuesday, September 3rd, 2024, 11:19:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
