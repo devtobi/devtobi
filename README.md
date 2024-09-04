@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#281](https://github.com/it-at-m/refarch-templates/pull/281#discussion_r1743547654) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#281](https://github.com/it-at-m/refarch-templates/pull/281#discussion_r1743404781) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#281](https://github.com/it-at-m/refarch-templates/pull/281#discussion_r1743471856) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#281](https://github.com/it-at-m/refarch-templates/pull/281#discussion_r1743402181) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#279](https://github.com/it-at-m/refarch-templates/pull/279#issuecomment-2328464363) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 🔴 Requested 1 change(s) for [#279](https://github.com/it-at-m/refarch-templates/pull/279#pullrequestreview-2280269080) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#279](https://github.com/it-at-m/refarch-templates/pull/279#discussion_r1743833328) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#279](https://github.com/it-at-m/refarch-templates/pull/279#discussion_r1743830886) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#279](https://github.com/it-at-m/refarch-templates/pull/279#discussion_r1743833969) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#279](https://github.com/it-at-m/refarch-templates/pull/279#discussion_r1743829499) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 4th, 2024, 4:39:29 PM
+Last Updated: Wednesday, September 4th, 2024, 5:19:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
