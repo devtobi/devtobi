@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#317](https://github.com/it-at-m/refarch-templates/pull/317) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#317](https://github.com/it-at-m/refarch-templates/pull/317#issuecomment-2341539686) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 🎉 Merged PR [#316](https://github.com/it-at-m/refarch-templates/pull/316) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 👍 Approved [#316](https://github.com/it-at-m/refarch-templates/pull/316#pullrequestreview-2292309739) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#35](https://github.com/it-at-m/refarch-templates/issues/35#issuecomment-2341724986) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⭐ Starred [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. 👍 Approved [#318](https://github.com/it-at-m/refarch-templates/pull/318#pullrequestreview-2293337780) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ❌ Closed PR [#317](https://github.com/it-at-m/refarch-templates/pull/317) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#317](https://github.com/it-at-m/refarch-templates/pull/317#issuecomment-2341539686) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 10th, 2024, 9:38:05 PM
+Last Updated: Tuesday, September 10th, 2024, 10:19:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
