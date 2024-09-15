@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev)<br>
-2. 💬 Commented on [#158](https://github.com/it-at-m/refarch-templates/issues/158#issuecomment-2348828004) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ❗️ Opened issue [#333](https://github.com/it-at-m/refarch-templates/issues/333) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💪 Opened PR [#332](https://github.com/it-at-m/refarch-templates/pull/332) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 👍 Approved [#156](https://github.com/it-at-m/refarch/pull/156#pullrequestreview-2305412593) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 🎉 Merged PR [#155](https://github.com/it-at-m/refarch/pull/155) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 👍 Approved [#155](https://github.com/it-at-m/refarch/pull/155#pullrequestreview-2305399804) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 15th, 2024, 5:37:07 PM
+Last Updated: Sunday, September 15th, 2024, 6:22:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
