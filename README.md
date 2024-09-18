@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#42](https://github.com/it-at-m/helm-charts/pull/42) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-2. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 🎉 Merged PR [#341](https://github.com/it-at-m/refarch-templates/pull/341) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 👍 Approved [#341](https://github.com/it-at-m/refarch-templates/pull/341#pullrequestreview-2311917694) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#342](https://github.com/it-at-m/refarch-templates/pull/342) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#342](https://github.com/it-at-m/refarch-templates/pull/342#pullrequestreview-2312045898) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💪 Opened PR [#42](https://github.com/it-at-m/helm-charts/pull/42) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 5. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 18th, 2024, 11:20:27 AM
+Last Updated: Wednesday, September 18th, 2024, 11:39:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
