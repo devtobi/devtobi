@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#44](https://github.com/it-at-m/helm-charts/issues/44#issuecomment-2361045906) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-2. ❗️ Opened issue [#358](https://github.com/it-at-m/refarch-templates/issues/358) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#357](https://github.com/it-at-m/refarch-templates/issues/357#issuecomment-2361025205) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ❗️ Opened issue [#357](https://github.com/it-at-m/refarch-templates/issues/357) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#333](https://github.com/it-at-m/refarch-templates/issues/333#issuecomment-2360997222) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#175](https://github.com/it-at-m/refarch/pull/175#discussion_r1768127646) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#175](https://github.com/it-at-m/refarch/pull/175#discussion_r1768114137) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#175](https://github.com/it-at-m/refarch/pull/175#discussion_r1768119385) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#175](https://github.com/it-at-m/refarch/pull/175#discussion_r1768115673) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 20th, 2024, 9:19:05 AM
+Last Updated: Friday, September 20th, 2024, 9:37:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
