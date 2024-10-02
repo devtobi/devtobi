@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#issuecomment-2387759692) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
-2. 💬 Commented on [#384](https://github.com/it-at-m/refarch-templates/pull/384#issuecomment-2386071661) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 🎉 Merged PR [#382](https://github.com/it-at-m/refarch-templates/pull/382) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 👍 Approved [#382](https://github.com/it-at-m/refarch-templates/pull/382#pullrequestreview-2340429174) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#368](https://github.com/it-at-m/refarch-templates/pull/368) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#368](https://github.com/it-at-m/refarch-templates/pull/368#pullrequestreview-2342048800) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#issuecomment-2387759692) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+5. 💬 Commented on [#384](https://github.com/it-at-m/refarch-templates/pull/384#issuecomment-2386071661) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 2nd, 2024, 11:20:13 AM
+Last Updated: Wednesday, October 2nd, 2024, 11:39:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
