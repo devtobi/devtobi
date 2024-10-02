@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#187](https://github.com/it-at-m/refarch/pull/187) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 👍 Approved [#187](https://github.com/it-at-m/refarch/pull/187#pullrequestreview-2342718517) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388449065) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388446399) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#199](https://github.com/it-at-m/muc-patternlab-vue/issues/199#issuecomment-2388494971) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
+2. 🎉 Merged PR [#187](https://github.com/it-at-m/refarch/pull/187) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 👍 Approved [#187](https://github.com/it-at-m/refarch/pull/187#pullrequestreview-2342718517) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388449065) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 2nd, 2024, 4:39:58 PM
+Last Updated: Wednesday, October 2nd, 2024, 5:21:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
