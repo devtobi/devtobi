@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388449065) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388446399) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 🎉 Merged PR [#189](https://github.com/it-at-m/refarch/pull/189) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#52](https://github.com/devtobi/cv/issues/52#issuecomment-2388407522) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. 🎉 Merged PR [#187](https://github.com/it-at-m/refarch/pull/187) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 👍 Approved [#187](https://github.com/it-at-m/refarch/pull/187#pullrequestreview-2342718517) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388449065) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388446399) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 2nd, 2024, 4:16:56 PM
+Last Updated: Wednesday, October 2nd, 2024, 4:39:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
