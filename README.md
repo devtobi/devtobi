@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#199](https://github.com/it-at-m/muc-patternlab-vue/issues/199#issuecomment-2388494971) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
-2. 🎉 Merged PR [#187](https://github.com/it-at-m/refarch/pull/187) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 👍 Approved [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#pullrequestreview-2342920766) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+2. 💬 Commented on [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#issuecomment-2388626404) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
 3. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 👍 Approved [#187](https://github.com/it-at-m/refarch/pull/187#pullrequestreview-2342718517) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#192](https://github.com/it-at-m/refarch/pull/192#issuecomment-2388449065) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 🎉 Merged PR [#192](https://github.com/it-at-m/refarch/pull/192) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 👍 Approved [#192](https://github.com/it-at-m/refarch/pull/192#pullrequestreview-2342904108) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 2nd, 2024, 5:40:29 PM
+Last Updated: Wednesday, October 2nd, 2024, 6:24:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
