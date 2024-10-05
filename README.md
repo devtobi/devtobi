@@ -97,14 +97,14 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. 👍 Approved [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#pullrequestreview-2342920766) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
-4. 💬 Commented on [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#issuecomment-2388626404) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
-5. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+4. 👍 Approved [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#pullrequestreview-2342920766) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+5. 💬 Commented on [#234](https://github.com/it-at-m/opensource.muenchen.de/pull/234#issuecomment-2388626404) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 5th, 2024, 12:39:39 PM
+Last Updated: Saturday, October 5th, 2024, 1:15:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
