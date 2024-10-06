@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#394](https://github.com/it-at-m/refarch-templates/pull/394) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#394](https://github.com/it-at-m/refarch-templates/pull/394#issuecomment-2395610094) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#393](https://github.com/it-at-m/refarch-templates/pull/393#issuecomment-2395609053) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ❌ Closed PR [#393](https://github.com/it-at-m/refarch-templates/pull/393) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#392](https://github.com/it-at-m/refarch-templates/pull/392#issuecomment-2395607847) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#395](https://github.com/it-at-m/refarch-templates/issues/395#issuecomment-2395623992) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#395](https://github.com/it-at-m/refarch-templates/issues/395#issuecomment-2395621796) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ❗️ Opened issue [#396](https://github.com/it-at-m/refarch-templates/issues/396) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ❗️ Opened issue [#395](https://github.com/it-at-m/refarch-templates/issues/395) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ❌ Closed PR [#394](https://github.com/it-at-m/refarch-templates/pull/394) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 7th, 2024, 12:39:09 AM
+Last Updated: Monday, October 7th, 2024, 1:17:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
