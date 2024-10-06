@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#187156](https://github.com/Homebrew/homebrew-cask/pull/187156#issuecomment-2395593645) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
-2. 💬 Commented on [#187156](https://github.com/Homebrew/homebrew-cask/pull/187156#issuecomment-2395586092) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/homebrew-cask](https://github.com/devtobi/homebrew-cask)<br>
-4. 💪 Opened PR [#187672](https://github.com/Homebrew/homebrew-cask/pull/187672) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/homebrew-cask](https://github.com/devtobi/homebrew-cask)<br>
+1. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#389](https://github.com/it-at-m/refarch-templates/pull/389) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#389](https://github.com/it-at-m/refarch-templates/pull/389#pullrequestreview-2350612157) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 🎉 Merged PR [#388](https://github.com/it-at-m/refarch-templates/pull/388) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 6th, 2024, 11:37:26 PM
+Last Updated: Monday, October 7th, 2024, 12:17:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
