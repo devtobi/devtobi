@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#187670](https://github.com/Homebrew/homebrew-cask/pull/187670) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
-2. 💪 Opened PR [#187670](https://github.com/Homebrew/homebrew-cask/pull/187670) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
-3. ⬆️ Pushed 15 commit(s) to [devtobi/homebrew-cask](https://github.com/devtobi/homebrew-cask)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/homebrew-cask](https://github.com/devtobi/homebrew-cask)<br>
+2. 💪 Opened PR [#187672](https://github.com/Homebrew/homebrew-cask/pull/187672) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/homebrew-cask](https://github.com/devtobi/homebrew-cask)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/homebrew-cask](https://github.com/devtobi/homebrew-cask)<br>
-5. 🔱 Forked [devtobi/homebrew-cask](undefined) from [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
+5. ❌ Closed PR [#187670](https://github.com/Homebrew/homebrew-cask/pull/187670) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 6th, 2024, 6:21:54 PM
+Last Updated: Sunday, October 6th, 2024, 6:41:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
