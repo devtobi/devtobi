@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#199](https://github.com/it-at-m/refarch/pull/199#issuecomment-2396146688) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#178](https://github.com/it-at-m/refarch/issues/178#issuecomment-2396129601) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#187672](https://github.com/Homebrew/homebrew-cask/pull/187672#discussion_r1789674905) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
-4. 👍 Approved [#200](https://github.com/it-at-m/refarch/pull/200#pullrequestreview-2351095298) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#199](https://github.com/it-at-m/refarch/pull/199#issuecomment-2396105114) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 👍 Approved [#397](https://github.com/it-at-m/refarch-templates/pull/397#pullrequestreview-2351227017) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#397](https://github.com/it-at-m/refarch-templates/pull/397#issuecomment-2396200692) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#199](https://github.com/it-at-m/refarch/pull/199#pullrequestreview-2351192485) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#199](https://github.com/it-at-m/refarch/pull/199#issuecomment-2396176234) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#199](https://github.com/it-at-m/refarch/pull/199#issuecomment-2396171635) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 7th, 2024, 9:37:43 AM
+Last Updated: Monday, October 7th, 2024, 10:25:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
