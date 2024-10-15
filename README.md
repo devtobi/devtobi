@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#207](https://github.com/it-at-m/refarch/pull/207#pullrequestreview-2368527719) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#206](https://github.com/it-at-m/refarch/pull/206#discussion_r1800677987) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#206](https://github.com/it-at-m/refarch/pull/206#discussion_r1800673689) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-5. 💬 Commented on [#187156](https://github.com/Homebrew/homebrew-cask/pull/187156#issuecomment-2402337265) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)<br>
+1. 👍 Approved [#206](https://github.com/it-at-m/refarch/pull/206#pullrequestreview-2368930833) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 👍 Approved [#207](https://github.com/it-at-m/refarch/pull/207#pullrequestreview-2368527719) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#206](https://github.com/it-at-m/refarch/pull/206#discussion_r1800677987) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#206](https://github.com/it-at-m/refarch/pull/206#discussion_r1800673689) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 15th, 2024, 1:38:03 PM
+Last Updated: Tuesday, October 15th, 2024, 2:38:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
