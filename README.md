@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#60](https://github.com/it-at-m/helm-charts/pull/60#pullrequestreview-2371532558) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-2. 💬 Commented on [#60](https://github.com/it-at-m/helm-charts/pull/60#discussion_r1802534786) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-3. 👍 Approved [#210](https://github.com/it-at-m/refarch/pull/210#pullrequestreview-2371329686) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 👍 Approved [#210](https://github.com/it-at-m/refarch/pull/210#pullrequestreview-2369317862) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. ✔️ Closed issue [#211](https://github.com/it-at-m/refarch-templates/issues/211) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 🔴 Requested 1 change(s) for [#349](https://github.com/it-at-m/refarch-templates/pull/349#pullrequestreview-2371593357) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#349](https://github.com/it-at-m/refarch-templates/pull/349#discussion_r1802619093) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#349](https://github.com/it-at-m/refarch-templates/pull/349#discussion_r1802689670) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#349](https://github.com/it-at-m/refarch-templates/pull/349#discussion_r1802668672) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#349](https://github.com/it-at-m/refarch-templates/pull/349#discussion_r1802665449) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 16th, 2024, 1:16:43 PM
+Last Updated: Wednesday, October 16th, 2024, 1:37:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
