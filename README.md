@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#239](https://github.com/it-at-m/refarch-templates/issues/239#issuecomment-2445524433) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#47](https://github.com/it-at-m/.github/pull/47#discussion_r1820542749) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
-3. 💬 Commented on [#68](https://github.com/it-at-m/refarch-templates/issues/68#issuecomment-2442736751) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 👍 Approved [#236](https://github.com/it-at-m/refarch/pull/236#pullrequestreview-2399435316) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#47](https://github.com/it-at-m/.github/pull/47#discussion_r1819273546) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+1. 👍 Approved [#455](https://github.com/it-at-m/refarch-templates/pull/455#pullrequestreview-2403800733) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 👍 Approved [#454](https://github.com/it-at-m/refarch-templates/pull/454#pullrequestreview-2403796172) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#237](https://github.com/it-at-m/refarch/pull/237#pullrequestreview-2403789495) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 👍 Approved [#453](https://github.com/it-at-m/refarch-templates/pull/453#pullrequestreview-2403756410) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 👍 Approved [#452](https://github.com/it-at-m/refarch-templates/pull/452#pullrequestreview-2403745243) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 30th, 2024, 4:40:30 PM
+Last Updated: Wednesday, October 30th, 2024, 5:24:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
