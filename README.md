@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#42](https://github.com/it-at-m/.github/pull/42#issuecomment-2448016172) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
-2. 💬 Commented on [#297](https://github.com/it-at-m/muc-patternlab-vue/pull/297#discussion_r1823126420) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
-3. 👍 Approved [#465](https://github.com/it-at-m/refarch-templates/pull/465#pullrequestreview-2405640345) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 👍 Approved [#52](https://github.com/it-at-m/.github/pull/52#pullrequestreview-2405382033) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
-5. 👍 Approved [#462](https://github.com/it-at-m/refarch-templates/pull/462#pullrequestreview-2405164245) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#463](https://github.com/it-at-m/refarch-templates/pull/463#discussion_r1823905434) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#463](https://github.com/it-at-m/refarch-templates/pull/463#discussion_r1823902831) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#463](https://github.com/it-at-m/refarch-templates/pull/463#discussion_r1823903085) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 🔴 Requested 1 change(s) for [#463](https://github.com/it-at-m/refarch-templates/pull/463#pullrequestreview-2407084979) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 👍 Approved [#297](https://github.com/it-at-m/muc-patternlab-vue/pull/297#pullrequestreview-2407065059) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 31st, 2024, 9:39:42 PM
+Last Updated: Thursday, October 31st, 2024, 10:18:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
