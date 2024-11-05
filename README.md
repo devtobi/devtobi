@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#248](https://github.com/it-at-m/refarch/pull/248#pullrequestreview-2414947557) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 🎉 Merged PR [#36](https://github.com/devtobi/clean-commits-example/pull/36) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
-3. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
-4. 👍 Approved [#36](https://github.com/devtobi/clean-commits-example/pull/36#pullrequestreview-2411889186) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
-5. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+1. ❗️ Opened issue [#488](https://github.com/it-at-m/refarch-templates/issues/488) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 👍 Approved [#248](https://github.com/it-at-m/refarch/pull/248#pullrequestreview-2414947557) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 🎉 Merged PR [#36](https://github.com/devtobi/clean-commits-example/pull/36) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+4. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+5. 👍 Approved [#36](https://github.com/devtobi/clean-commits-example/pull/36#pullrequestreview-2411889186) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 5th, 2024, 5:24:55 PM
+Last Updated: Tuesday, November 5th, 2024, 5:43:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
