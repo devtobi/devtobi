@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#225](https://github.com/devtobi/cv/issues/225) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. ❗️ Opened issue [#488](https://github.com/it-at-m/refarch-templates/issues/488) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#248](https://github.com/it-at-m/refarch/pull/248#pullrequestreview-2414947557) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 🎉 Merged PR [#36](https://github.com/devtobi/clean-commits-example/pull/36) in [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
-5. ⬆️ Pushed 2 commit(s) to [devtobi/clean-commits-example](https://github.com/devtobi/clean-commits-example)<br>
+1. ✔️ Closed issue [#225](https://github.com/devtobi/cv/issues/225) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. 🎉 Merged PR [#226](https://github.com/devtobi/cv/pull/226) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 💪 Opened PR [#226](https://github.com/devtobi/cv/pull/226) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. ⬆️ Pushed 4 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 5th, 2024, 9:39:18 PM
+Last Updated: Tuesday, November 5th, 2024, 10:17:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
