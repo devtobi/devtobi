@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#116](https://github.com/it-at-m/refarch-templates/issues/116#issuecomment-2462244700) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ✔️ Closed issue [#116](https://github.com/it-at-m/refarch-templates/issues/116) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#474](https://github.com/it-at-m/refarch-templates/pull/474#issuecomment-2461671665) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ❌ Closed PR [#474](https://github.com/it-at-m/refarch-templates/pull/474) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ❌ Closed PR [#475](https://github.com/it-at-m/refarch-templates/pull/475) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#354](https://github.com/it-at-m/refarch-templates/issues/354#issuecomment-2462297985) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#289](https://github.com/it-at-m/refarch-templates/issues/289#issuecomment-2462292935) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#200](https://github.com/it-at-m/refarch-templates/issues/200#issuecomment-2462267889) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#116](https://github.com/it-at-m/refarch-templates/issues/116#issuecomment-2462244700) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ✔️ Closed issue [#116](https://github.com/it-at-m/refarch-templates/issues/116) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 7th, 2024, 10:37:09 PM
+Last Updated: Thursday, November 7th, 2024, 11:17:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
