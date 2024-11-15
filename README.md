@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [it-at-m/oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template)<br>
-2. ✔️ Closed issue [#28](https://github.com/it-at-m/oss-repository-en-template/issues/28) in [it-at-m/oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template)<br>
-3. 🎉 Merged PR [#29](https://github.com/it-at-m/oss-repository-en-template/pull/29) in [it-at-m/oss-repository-en-template](https://github.com/it-at-m/oss-repository-en-template)<br>
-4. ⬆️ Pushed 4 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 🎉 Merged PR [#514](https://github.com/it-at-m/refarch-templates/pull/514) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#518](https://github.com/it-at-m/refarch-templates/pull/518) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#518](https://github.com/it-at-m/refarch-templates/pull/518#pullrequestreview-2437842984) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 🎉 Merged PR [#517](https://github.com/it-at-m/refarch-templates/pull/517) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 15th, 2024, 2:26:52 PM
+Last Updated: Friday, November 15th, 2024, 2:42:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
