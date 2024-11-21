@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#268](https://github.com/it-at-m/refarch/pull/268#pullrequestreview-2450527609) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. ❗️ Opened issue [#988](https://github.com/topgrade-rs/topgrade/issues/988) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
-4. ❗️ Opened issue [#987](https://github.com/topgrade-rs/topgrade/issues/987) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
-5. ⭐ Starred [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)<br>
+1. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ❌ Closed PR [#269](https://github.com/it-at-m/refarch/pull/269) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 👍 Approved [#136](https://github.com/it-at-m/refarch/pull/136#pullrequestreview-2450962295) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 👍 Approved [#268](https://github.com/it-at-m/refarch/pull/268#pullrequestreview-2450527609) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 21st, 2024, 11:41:31 PM
+Last Updated: Friday, November 22nd, 2024, 12:19:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
