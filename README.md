@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)<br>
-2. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)<br>
-3. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ✔️ Closed issue [#289](https://github.com/it-at-m/refarch-templates/issues/289) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 🎉 Merged PR [#539](https://github.com/it-at-m/refarch-templates/pull/539) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+2. ❗️ Opened issue [#988](https://github.com/topgrade-rs/topgrade/issues/988) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+3. ❗️ Opened issue [#987](https://github.com/topgrade-rs/topgrade/issues/987) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+4. ⭐ Starred [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)<br>
+5. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 21st, 2024, 12:37:53 PM
+Last Updated: Thursday, November 21st, 2024, 1:40:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
