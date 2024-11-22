@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#417](https://github.com/it-at-m/appswitcher-vue/issues/417) in [it-at-m/appswitcher-vue](https://github.com/it-at-m/appswitcher-vue)<br>
-2. ⬆️ Pushed 4 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 🎉 Merged PR [#269](https://github.com/it-at-m/refarch/pull/269) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 👍 Approved [#269](https://github.com/it-at-m/refarch/pull/269#pullrequestreview-2450983341) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. ⬆️ Pushed 3 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#417](https://github.com/it-at-m/appswitcher-vue/issues/417#issuecomment-2491540349) in [it-at-m/appswitcher-vue](https://github.com/it-at-m/appswitcher-vue)<br>
+3. ❗️ Opened issue [#417](https://github.com/it-at-m/appswitcher-vue/issues/417) in [it-at-m/appswitcher-vue](https://github.com/it-at-m/appswitcher-vue)<br>
+4. ⬆️ Pushed 4 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 🎉 Merged PR [#269](https://github.com/it-at-m/refarch/pull/269) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 22nd, 2024, 6:41:09 AM
+Last Updated: Friday, November 22nd, 2024, 7:28:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
