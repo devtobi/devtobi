@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#626](https://github.com/it-at-m/refarch-templates/pull/626#pullrequestreview-2484966412) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1873414451) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ✔️ Closed issue [#535](https://github.com/it-at-m/refarch-templates/issues/535) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ✔️ Closed issue [#311](https://github.com/it-at-m/refarch-templates/issues/311) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ✔️ Closed issue [#304](https://github.com/it-at-m/refarch/issues/304) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#568](https://github.com/it-at-m/refarch-templates/issues/568#issuecomment-2523674166) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1873653529) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1873651328) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1873649060) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 🔴 Requested 1 change(s) for [#626](https://github.com/it-at-m/refarch-templates/pull/626#pullrequestreview-2484966412) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 7th, 2024, 4:49:59 AM
+Last Updated: Saturday, December 7th, 2024, 5:24:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
