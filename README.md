@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#631](https://github.com/it-at-m/refarch-templates/pull/631#issuecomment-2527766286) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#320](https://github.com/it-at-m/refarch/pull/320#issuecomment-2527760094) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 👍 Approved [#320](https://github.com/it-at-m/refarch/pull/320#pullrequestreview-2488619748) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 👍 Approved [#319](https://github.com/it-at-m/refarch/pull/319#pullrequestreview-2488618254) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#320](https://github.com/it-at-m/refarch/pull/320#discussion_r1875870421) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⭐ Starred [facebook/jscodeshift](https://github.com/facebook/jscodeshift)<br>
+2. ⭐ Starred [openrewrite/rewrite](https://github.com/openrewrite/rewrite)<br>
+3. ⭐ Starred [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph)<br>
+4. 💬 Commented on [#631](https://github.com/it-at-m/refarch-templates/pull/631#issuecomment-2527766286) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#320](https://github.com/it-at-m/refarch/pull/320#issuecomment-2527760094) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 9th, 2024, 6:41:12 PM
+Last Updated: Monday, December 9th, 2024, 7:29:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
