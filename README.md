@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877874428) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877871911) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#633](https://github.com/it-at-m/refarch-templates/pull/633#issuecomment-2531044170) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877702273) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-2530945046) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+1. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-2531597963) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+2. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-2531583855) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+3. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877874428) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877871911) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#633](https://github.com/it-at-m/refarch-templates/pull/633#issuecomment-2531044170) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 10th, 2024, 6:41:18 PM
+Last Updated: Tuesday, December 10th, 2024, 7:29:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
