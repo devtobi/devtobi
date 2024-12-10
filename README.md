@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/jscodeshift](https://github.com/facebook/jscodeshift)<br>
-2. ⭐ Starred [openrewrite/rewrite](https://github.com/openrewrite/rewrite)<br>
-3. ⭐ Starred [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph)<br>
-4. 💬 Commented on [#631](https://github.com/it-at-m/refarch-templates/pull/631#issuecomment-2527766286) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#320](https://github.com/it-at-m/refarch/pull/320#issuecomment-2527760094) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877702273) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-2530945046) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+3. 💬 Commented on [#633](https://github.com/it-at-m/refarch-templates/pull/633#discussion_r1877656065) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#633](https://github.com/it-at-m/refarch-templates/pull/633#issuecomment-2530885642) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⭐ Starred [facebook/jscodeshift](https://github.com/facebook/jscodeshift)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 10th, 2024, 12:38:17 PM
+Last Updated: Tuesday, December 10th, 2024, 1:42:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
