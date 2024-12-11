@@ -95,16 +95,16 @@
 <h2 align="center">🕗 Recent activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-2532175570) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
-2. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-2531597963) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
-3. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-2531583855) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
-4. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877874428) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#626](https://github.com/it-at-m/refarch-templates/pull/626#discussion_r1877871911) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 🎉 Merged PR [#629](https://github.com/it-at-m/refarch-templates/pull/629) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#629](https://github.com/it-at-m/refarch-templates/pull/629#pullrequestreview-2494529647) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 🎉 Merged PR [#630](https://github.com/it-at-m/refarch-templates/pull/630) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 11th, 2024, 1:41:49 PM
+Last Updated: Wednesday, December 11th, 2024, 2:29:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 
