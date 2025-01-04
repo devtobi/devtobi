@@ -119,7 +119,7 @@ Last Updated: Saturday, January 4th, 2025, 6:36:48 PM
 </p>
 
 <!-- Statistics -->
-<details>
+<details align="center">
   <summary>
     <h2 align="center">📈 Statistics</h2>
   </summary>
