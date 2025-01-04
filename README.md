@@ -1,14 +1,13 @@
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY2cjhxdmdxdjFpaWhodnZsNDg2Mjk4djdzZzRhZmtyZGpzbWh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Tobias</h1>
 
-<!--<p align="center">
-  <img align="center" alt="Coder GIF" width="30%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-</p>-->
-
 <h3 align="center">A curious full stack developer from Munich, Germany<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRkc3Z5ZDE4MDN5bDBzZmo0Y3FsNnRwYjVoanJsNGw1bnZpejQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y1qXsL95elvZwKXtPd/giphy.gif" width="50"></h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devtobi&label=Profile%20views&color=4fafda&style=for-the-badge" alt="devtobi" />
   <!--<img alt="GitHub followers" src="https://img.shields.io/github/followers/devtobi?label=Followers&style=flat-square&logoColor=4fafda">-->
+  <a href="https://linkedin.com/in/tobias-stadler" target="_blank">
+    <img alt="LinkedIn page of Tobias Stadler" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <!-- About me -->
@@ -16,18 +15,15 @@
 <h2 align="center">ℹ️ About me</h2>
 <ul>
   <li>🔭 I’m currently working on: <strong>My neovim setup</strong></li>
-  <li>🌱 I’m currently learning: <strong>GitHub actions</strong></li>
+  <!--<li>🌱 I’m currently learning: <strong>GitHub actions</strong></li>-->
   <li>👨‍💻 All of my projects are available at: <a href="https://github.com/devtobi/projects">https://github.com/devtobi/projects</a></li>
-  <li>💬 Ask me about: <strong>java, spring, javascript, typescript, vue, devops</strong></li>
+  <li>💬 Ask me about: <strong>Java, Spring, JavaScript, TypeScript, Vue, DevOps and more.</strong></li>
   <!--<li>📫 How to reach me: <strong>---</strong></li>-->
-  <li>⚡️ Fun fact: <strong>I love rollercoasters</strong></li>
+  <li>🎢 Fun fact: <strong>I love rollercoasters</strong></li>
 </ul>
-
-<!--<p align="center"><img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>-->
 
 <!-- Languages and Tools -->
 <h2 align="center">🛠️ Tech stack</h2>
-<h4 align="center">Currently working with</h4>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3" alt="css3" width="40" height="40"/> </a> 
@@ -73,16 +69,6 @@
 Last Updated: Saturday, January 4th, 2025, 7:24:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
-
-<!-- Contact -->
-<h2 align="center">📫 Connect with me</h3>
-<p align="center">
-  <!--<a href="https://codepen.io/devtobi_" target="blank"><img align="center" src="https://cdn.simpleicons.org/codepen" alt="devtobi_" height="60" width="60" /></a>-->
-  <!--<a href="https://dev.to/devtobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/dev.to" alt="devtobi" height="60" width="60" /></a>-->
-  <a href="https://linkedin.com/in/tobias-stadler" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="tobias-stadler" height="60" width="60" /></a>
-  <!--<a href="https://stackoverflow.com/users/22441798" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="22441798" height="60" width="60" /></a>-->
-  <!--<a href="https://x.com/nurdertobi" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="nurdertobi" height="60" width="60" /></a>-->
-</p>
 
 <!-- Statistics -->
 <details align="center">
