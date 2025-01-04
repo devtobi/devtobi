@@ -15,6 +15,11 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+    <img alt="Random developer quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  </picture>
 <img alt="Random developer quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
 
