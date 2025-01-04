@@ -128,7 +128,7 @@ Last Updated: Saturday, January 4th, 2025, 6:36:48 PM
         <!-- GitHub statistics -->
         <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent&hide_border=true"/>
         <!-- Most used languages -->
-        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent&hide_border=true" />
+        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut&hide=tex&theme=transparent&hide_border=true" />
     </p>
   </div>
   <!-- Streaks -->
