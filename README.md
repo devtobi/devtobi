@@ -150,5 +150,10 @@ Last Updated: Saturday, January 4th, 2025, 1:35:35 PM
   </picture>
 </p>
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F343F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <img alt="What are you doing down here? Start coding!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F343F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+  </picture>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F343F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" alt="Typing SVG" /></a>
 </p>
