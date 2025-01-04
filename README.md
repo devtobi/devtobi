@@ -126,19 +126,23 @@ Last Updated: Saturday, January 4th, 2025, 6:15:02 PM
   <p align="center">
       <!-- GitHub statistics -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&hide_border=true&theme=catppuccin_mocha" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=catppuccin_latte" />
-        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=catppuccin_latte"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&hide_border=true&theme=dracula" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=default" />
+        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=default"/>
       </picture>
       <!-- Most used languages -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&hide_border=true&theme=catppuccin_mocha" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=catppuccin_latte" />
-        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=catppuccin_latte" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&hide_border=true&theme=dracula" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=default" />
+        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=default" />
       </picture>
   </p>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devtobi&theme=nord&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="devtobi" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&theme=dracula&no-frame=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&theme=flat" />
+      <img alt="GitHub trophies of devtobi" src="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&no-frame=true&title=-Followers,-Repositories,-Stars&theme=flat" />
+    </picture>
   </p>
   <p align="center">
     <img align="center" src="https://streak-stats.demolab.com?user=devtobi&theme=nord" alt="devtobi" />
@@ -157,8 +161,8 @@ Last Updated: Saturday, January 4th, 2025, 6:15:02 PM
 <!-- Animated text -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=EFF1F5&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1E1E2E&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
-    <img alt="What are you doing down here? Start coding!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1E1E2E&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F8F8F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=EFF1F5&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <img alt="What are you doing down here? Start coding!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=EFF1F5&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
   </picture>
 </p>
