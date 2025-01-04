@@ -124,24 +124,18 @@ Last Updated: Saturday, January 4th, 2025, 1:35:35 PM
     <h2 align="center">📈 Statistics</h2>
   </summary>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show_icons=true&locale=en&theme=nord" alt="devtobi" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=transparent" alt="GitHub stats of devtobi" />
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&show_icons=true&locale=en&layout=compact&theme=nord" alt="devtobi" />
-    </a>
   </p>
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=devtobi&theme=nord&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="devtobi" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=devtobi&theme=nord&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="devtobi" />
   </p>
   <p align="center">
-    <a href="https://streak-stats.demolab.com">
-      <img align="center" src="https://streak-stats.demolab.com?user=devtobi&theme=nord" alt="devtobi" />
-    </a>
+    <img align="center" src="https://streak-stats.demolab.com?user=devtobi&theme=nord" alt="devtobi" />
   </p>
 </details>
+
+<!-- Snake animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtobi/devtobi/snake/github-snake-dark.svg" />
@@ -149,6 +143,8 @@ Last Updated: Saturday, January 4th, 2025, 1:35:35 PM
     <img alt="github-snake" src="https://raw.githubusercontent.com/devtobi/devtobi/snake/github-snake.svg" />
   </picture>
 </p>
+
+<!-- Animated text -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
