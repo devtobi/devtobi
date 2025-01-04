@@ -125,33 +125,17 @@ Last Updated: Saturday, January 4th, 2025, 6:36:48 PM
   </summary>
   <p align="center">
       <!-- GitHub statistics -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent" />
-        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent"/>
-      </picture>
+      <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent"/>
       <!-- Most used languages -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
-        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
-      </picture>
+      <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
   </p>
   <!-- Trophies -->
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&no-bg=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&no-bg=true" />
-      <img alt="GitHub trophies of devtobi" src="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&no-frame=true&title=-Followers,-Repositories,-Stars&no-bg=true" />
-    </picture>
+    <img alt="GitHub trophies of devtobi" src="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&no-frame=true&title=-Followers,-Repositories,-Stars&no-bg=true" />
   </p>
   <!-- Streaks -->
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
-      <img alt="GitHub streak of devtobi" src="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
-    </picture>
+    <img alt="GitHub streak of devtobi" src="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
   </p>
 </details>
 
@@ -167,8 +151,8 @@ Last Updated: Saturday, January 4th, 2025, 6:36:48 PM
 <!-- Animated text -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F8F8F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=EFF1F5&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
-    <img alt="What are you doing down here? Start coding!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=EFF1F5&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=000000&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <img alt="What are you doing down here? Start coding!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=000000&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
   </picture>
 </p>
