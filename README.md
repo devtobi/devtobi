@@ -26,24 +26,15 @@
 <!--<p align="center"><img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>-->
 
 <!-- Languages and Tools -->
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Tech stack</h2>
 <h4 align="center">Currently working with</h4>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/confluence" alt="confluence" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cypress" alt="cypress" width="40" height="40"/> </a>  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker" alt="docker" width="40" height="40"/> </a>
-  <a href="https://eslint.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/eslint" alt="eslint" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/figma" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/github" alt="github" width="40" height="40"/> </a>
-  <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gitlab" alt="gitlab" width="40" height="40"/> </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/grafana" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hibernate" alt="hibernate" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/javascript" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jirasoftware" alt="jira" width="40" height="40"/> </a>
   <a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/junit5" alt="junit" width="40" height="40"/> </a>
   <a href="https://www.json.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/json" alt="json" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/kubernetes" alt="kubernetes" width="40" height="40"/> </a> 
@@ -52,38 +43,18 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/node.js" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/npm" alt="npm" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postman" alt="postman" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sass" alt="sass" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/spring" alt="spring" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/springboot" alt="springboot" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vite" alt="vite" width="40" height="40"/> </a>
-  <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vitest" alt="vitest" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vue.js" alt="vue.js" width="40" height="40"/> </a> 
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuetify" alt="vuetify" width="40" height="40"/> </a> 
-</p>
-<h4 align="center">Previously worked with</h4>
-<p align="center">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bootstrap" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bulma" alt="bulma" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/dart" alt="dart" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/electron" alt="electron" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/express" alt="express" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/flutter" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/heroku" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jest" alt="jest" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mariadb" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/selenium" width="40" height="40"/> </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sketch" alt="sketch" width="40" height="40"/> </a>
   <a href="https://swift.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/swift" alt="swift" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tailwindcss" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/terraform" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/webpack" alt="webpack" width="40" height="40"/> </a>
+  <!-- TODO ADD JAVA -->
 </p>
-<!--<h4 align="center">Currently learning</h4>-->
 
 <!-- Recent activity -->
 <img align="right" alt="Coder GIF" width="35%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
