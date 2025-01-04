@@ -123,19 +123,21 @@ Last Updated: Saturday, January 4th, 2025, 6:36:48 PM
   <summary>
     <h2 align="center">📈 Statistics</h2>
   </summary>
+  <div style="display: flex; flex-direction: column; align-items: center; height: 400px; justify-content: center;">
+    <p align="center">
+        <!-- GitHub statistics -->
+        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent&hide_border=true"/>
+        <!-- Most used languages -->
+        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent&hide_border=true" />
+    </p>
+  </div>
+  <!-- Streaks -->
   <p align="center">
-      <!-- GitHub statistics -->
-      <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent"/>
-      <!-- Most used languages -->
-      <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
+    <img alt="GitHub streak of devtobi" src="https://streak-stats.demolab.com?user=devtobi&theme=transparent&hide_border=true" />
   </p>
   <!-- Trophies -->
   <p align="center">
-    <img alt="GitHub trophies of devtobi" src="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&no-frame=true&title=-Followers,-Repositories,-Stars&no-bg=true" />
-  </p>
-  <!-- Streaks -->
-  <p align="center">
-    <img alt="GitHub streak of devtobi" src="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
+    <img alt="GitHub trophies of devtobi" src="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&no-bg=true&no-frame=true" />
   </p>
 </details>
 
