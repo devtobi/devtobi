@@ -42,7 +42,6 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/grafana" alt="grafana" width="40" height="40"/> </a>
   <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hibernate" alt="hibernate" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5" alt="html5" width="40" height="40"/> </a> 
-  <!--<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/java" alt="java" width="40" height="40"/> </a>-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/javascript" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jirasoftware" alt="jira" width="40" height="40"/> </a>
   <a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/junit5" alt="junit" width="40" height="40"/> </a>
@@ -61,13 +60,10 @@
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vite" alt="vite" width="40" height="40"/> </a>
   <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vitest" alt="vitest" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vue.js" alt="vue.js" width="40" height="40"/> </a> 
-  <!--<a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuepress" alt="vuepress" width="40" height="40"/> </a>-->
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vuetify" alt="vuetify" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/adobexd" alt="xd" width="40" height="40"/> </a> 
 </p>
 <h4 align="center">Previously worked with</h4>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/amazonaws" alt="amazonaws" width="40" height="40"/> </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bootstrap" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/bulma" alt="bulma" width="40" height="40"/> </a>
@@ -80,7 +76,6 @@
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mariadb" alt="mariadb" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/nuxt.js" alt="nuxtjs" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/selenium" width="40" height="40"/> </a>
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sketch" alt="sketch" width="40" height="40"/> </a>
   <a href="https://swift.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/swift" alt="swift" width="40" height="40"/> </a>
