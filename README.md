@@ -124,15 +124,17 @@ Last Updated: Saturday, January 4th, 2025, 2:37:27 PM
     <h2 align="center">📈 Statistics</h2>
   </summary>
   <p align="center">
+      <!-- GitHub statistics -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=catppuccin_mocha" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=catppuccin_latte" />
-        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=catppuccin_latte"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&hide_border=true&theme=catppuccin_mocha" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&hide_border=true&theme=catppuccin_latte" />
+        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&hide_border=true&theme=catppuccin_latte"/>
       </picture>
+      <!-- Most used languages -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=catppuccin_mocha" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=catppuccin_latte" />
-        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=catppuccin_latte" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&hide_border=true&theme=catppuccin_mocha" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&hide_border=true&theme=catppuccin_latte" />
+        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&hide_border=true&theme=catppuccin_latte" />
       </picture>
   </p>
   <p align="center">
