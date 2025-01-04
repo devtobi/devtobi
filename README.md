@@ -126,26 +126,32 @@ Last Updated: Saturday, January 4th, 2025, 6:36:48 PM
   <p align="center">
       <!-- GitHub statistics -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&hide_border=true&theme=dracula" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=default" />
-        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=default"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent" />
+        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&rank_icon=percentile&theme=transparent"/>
       </picture>
       <!-- Most used languages -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&hide_border=true&theme=dracula" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=default" />
-        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=default" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
+        <img alt="Most used programming languages of devtobi" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&layout=donut-vertical&hide=tex&theme=transparent" />
       </picture>
   </p>
+  <!-- Trophies -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&theme=dracula&no-frame=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&theme=flat" />
-      <img alt="GitHub trophies of devtobi" src="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&no-frame=true&title=-Followers,-Repositories,-Stars&theme=flat" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&no-bg=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&title=-Followers,-Repositories,-Stars&no-bg=true" />
+      <img alt="GitHub trophies of devtobi" src="https://github-profile-trophy.vercel.app/?username=devtobi&column=-1&margin-w=15&margin-h=15&no-frame=true&title=-Followers,-Repositories,-Stars&no-bg=true" />
     </picture>
   </p>
+  <!-- Streaks -->
   <p align="center">
-    <img align="center" src="https://streak-stats.demolab.com?user=devtobi&theme=nord" alt="devtobi" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
+      <img alt="GitHub streak of devtobi" src="https://streak-stats.demolab.com?user=devtobi&theme=transparent" />
+    </picture>
   </p>
 </details>
 
