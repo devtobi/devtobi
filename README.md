@@ -124,7 +124,11 @@ Last Updated: Saturday, January 4th, 2025, 1:35:35 PM
     <h2 align="center">📈 Statistics</h2>
   </summary>
   <p align="center">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics" alt="GitHub statistics of devtobi" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&theme=catppuccin_mocha" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&theme=catppuccin_latte" />
+        <img alt="GitHub statistics of devtobi" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics&theme=catppuccin_latte"/>
+      </picture>
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&show_icons=true&locale=en&layout=compact&theme=nord" alt="devtobi" />
   </p>
   <p align="center">
@@ -140,15 +144,15 @@ Last Updated: Saturday, January 4th, 2025, 1:35:35 PM
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtobi/devtobi/snake/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devtobi/devtobi/snake/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/devtobi/devtobi/snake/github-snake.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/devtobi/devtobi/snake/github-snake.svg" />
   </picture>
 </p>
 
 <!-- Animated text -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F343F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
-    <img alt="What are you doing down here? Start coding!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F343F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=EFF1F5&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1E1E2E&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
+    <img alt="What are you doing down here? Start coding!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1E1E2E&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" />
   </picture>
 </p>
