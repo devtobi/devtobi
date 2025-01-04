@@ -142,9 +142,12 @@ Last Updated: Saturday, January 4th, 2025, 12:37:22 PM
     </a>
   </p>
 </details>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtobi/devtobi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devtobi/devtobi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/devtobi/devtobi/output/github-snake.svg" />
+  </picture>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2F343F&center=true&vCenter=true&width=550&lines=What+are+you+doing+down+here%3F!;Start+coding!" alt="Typing SVG" /></a>
