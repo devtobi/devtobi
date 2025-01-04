@@ -13,11 +13,14 @@
   </a>
 </p>
 
-<img align="center" alt="Random developer quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+<p align="center">
+<img alt="Random developer quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+</p>
+
 
 <!-- About me -->
 <h2 align="center">ℹ️ About me</h2>
-<ul>
+<ul align="center" style="list-style: none;">
   <li>🔭 I’m currently working on: <strong>My neovim setup</strong></li>
   <!--<li>🌱 I’m currently learning: <strong>GitHub actions</strong></li>-->
   <li>👨‍💻 All of my projects are available at: <a href="https://github.com/devtobi/projects">https://github.com/devtobi/projects</a></li>
@@ -58,6 +61,7 @@
 
 <h2 align="center">🕗 Recent activity</h2>
 
+<p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
@@ -65,12 +69,15 @@
 4. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
 <!--RECENT_ACTIVITY:end-->
+</p>
 
+<p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, January 4th, 2025, 7:42:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
+</p>
 
 <!-- Statistics -->
 <details align="center">
