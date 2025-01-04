@@ -124,7 +124,7 @@ Last Updated: Saturday, January 4th, 2025, 1:35:35 PM
     <h2 align="center">📈 Statistics</h2>
   </summary>
   <p align="center">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=transparent" alt="GitHub stats of devtobi" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devtobi&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&custom_title=devtobi's+GitHub+statistics" alt="GitHub statistics of devtobi" />
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobi&show_icons=true&locale=en&layout=compact&theme=nord" alt="devtobi" />
   </p>
   <p align="center">
