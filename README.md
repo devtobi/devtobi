@@ -1,6 +1,9 @@
+<img alt="Coder GIF" width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<p></p>
+
+<!-- Landing section -->
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY2cjhxdmdxdjFpaWhodnZsNDg2Mjk4djdzZzRhZmtyZGpzbWh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Tobias</h1>
-
 <h3 align="center">A curious full stack developer from Munich, Germany<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRkc3Z5ZDE4MDN5bDBzZmo0Y3FsNnRwYjVoanJsNGw1bnZpejQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y1qXsL95elvZwKXtPd/giphy.gif" width="50"></h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devtobi&label=Profile%20views&color=4fafda&style=for-the-badge" alt="devtobi" />
@@ -10,8 +13,9 @@
   </a>
 </p>
 
+<img align="center" alt="Random developer quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+
 <!-- About me -->
-<img align="right" alt="Random developer quote" width="28%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
 <h2 align="center">ℹ️ About me</h2>
 <ul>
   <li>🔭 I’m currently working on: <strong>My neovim setup</strong></li>
@@ -52,9 +56,7 @@
   <!-- TODO ADD JAVA -->
 </p>
 
-<!-- Recent activity -->
-<img align="right" alt="Coder GIF" width="35%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-<h2 align="center">🕗 Recent activity</h3>
+<h2 align="center">🕗 Recent activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
