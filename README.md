@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lshqqytiger/ZLUDA](https://github.com/lshqqytiger/ZLUDA)<br>
-2. ⭐ Starred [lshqqytiger/stable-diffusion-webui-amdgpu-forge](https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu-forge)<br>
-3. ⭐ Starred [lshqqytiger/stable-diffusion-webui-amdgpu](https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu)<br>
-4. 💬 Commented on [#678](https://github.com/it-at-m/refarch-templates/pull/678#issuecomment-2577877634) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ❌ Closed PR [#341](https://github.com/it-at-m/refarch/pull/341) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⭐ Starred [lshqqytiger/ZLUDA](https://github.com/lshqqytiger/ZLUDA)<br>
+3. ⭐ Starred [lshqqytiger/stable-diffusion-webui-amdgpu-forge](https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu-forge)<br>
+4. ⭐ Starred [lshqqytiger/stable-diffusion-webui-amdgpu](https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu)<br>
+5. 💬 Commented on [#678](https://github.com/it-at-m/refarch-templates/pull/678#issuecomment-2577877634) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 9th, 2025, 11:40:14 PM
+Last Updated: Friday, January 10th, 2025, 12:18:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
