@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+1. ❌ Closed PR [#357](https://github.com/it-at-m/refarch/pull/357) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ❌ Closed PR [#356](https://github.com/it-at-m/refarch/pull/356) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 3. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 4. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-5. ✔️ Closed issue [#33](https://github.com/it-at-m/refarch-templates/issues/33) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 22nd, 2025, 1:37:50 PM
+Last Updated: Wednesday, January 22nd, 2025, 2:23:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
