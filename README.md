@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#373](https://github.com/it-at-m/refarch/pull/373) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💪 Opened PR [#79](https://github.com/it-at-m/helm-charts/pull/79) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-3. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 🎉 Merged PR [#372](https://github.com/it-at-m/refarch/pull/372) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 👍 Approved [#372](https://github.com/it-at-m/refarch/pull/372#pullrequestreview-2572364356) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⬆️ Pushed 2 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. 🎉 Merged PR [#79](https://github.com/it-at-m/helm-charts/pull/79) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+3. ❌ Closed PR [#373](https://github.com/it-at-m/refarch/pull/373) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💪 Opened PR [#79](https://github.com/it-at-m/helm-charts/pull/79) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 25th, 2025, 5:22:04 AM
+Last Updated: Saturday, January 25th, 2025, 5:41:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
