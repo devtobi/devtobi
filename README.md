@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 🎉 Merged PR [#845](https://github.com/it-at-m/refarch-templates/pull/845) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#845](https://github.com/it-at-m/refarch-templates/pull/845#pullrequestreview-2660157428) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 🎉 Merged PR [#844](https://github.com/it-at-m/refarch-templates/pull/844) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 👍 Approved [#422](https://github.com/it-at-m/refarch/pull/422#pullrequestreview-2660169953) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 🎉 Merged PR [#845](https://github.com/it-at-m/refarch-templates/pull/845) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 👍 Approved [#845](https://github.com/it-at-m/refarch-templates/pull/845#pullrequestreview-2660157428) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 5th, 2025, 8:19:02 AM
+Last Updated: Wednesday, March 5th, 2025, 8:39:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
