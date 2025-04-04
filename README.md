@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💪 Opened PR [#944](https://github.com/it-at-m/refarch-templates/pull/944) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ✔️ Closed issue [#62](https://github.com/it-at-m/lhm_actions/issues/62) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ❗️ Opened issue [#476](https://github.com/it-at-m/refarch/issues/476) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ❗️ Opened issue [#475](https://github.com/it-at-m/refarch/issues/475) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💪 Opened PR [#945](https://github.com/it-at-m/refarch-templates/pull/945) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed 998 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ❗️ Opened issue [#63](https://github.com/it-at-m/lhm_actions/issues/63) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 4th, 2025, 1:41:01 AM
+Last Updated: Friday, April 4th, 2025, 3:41:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
