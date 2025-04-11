@@ -69,17 +69,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#65](https://github.com/it-at-m/lhm_actions/pull/65#issuecomment-2796055326) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-3. 💬 Commented on [#65](https://github.com/it-at-m/lhm_actions/pull/65#discussion_r2038875415) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-4. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#issuecomment-2795183327) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-5. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#issuecomment-2795178025) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#65](https://github.com/it-at-m/lhm_actions/pull/65#issuecomment-2796055326) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+4. 💬 Commented on [#65](https://github.com/it-at-m/lhm_actions/pull/65#discussion_r2038875415) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+5. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#issuecomment-2795183327) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 11th, 2025, 6:47:37 PM
+Last Updated: Friday, April 11th, 2025, 7:18:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
