@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#966](https://github.com/it-at-m/refarch-templates/issues/966#issuecomment-2803000985) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#966](https://github.com/it-at-m/refarch-templates/issues/966#issuecomment-2802958090) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#966](https://github.com/it-at-m/refarch-templates/issues/966#issuecomment-2802949372) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#495](https://github.com/it-at-m/refarch/pull/495#discussion_r2043635444) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#966](https://github.com/it-at-m/refarch-templates/issues/966#issuecomment-2803000985) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#966](https://github.com/it-at-m/refarch-templates/issues/966#issuecomment-2802958090) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#966](https://github.com/it-at-m/refarch-templates/issues/966#issuecomment-2802949372) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 15th, 2025, 7:42:09 AM
+Last Updated: Tuesday, April 15th, 2025, 8:30:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
