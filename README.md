@@ -69,17 +69,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-2. 👍 Approved [#997](https://github.com/it-at-m/refarch-templates/pull/997#pullrequestreview-2793114247) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. 🎉 Merged PR [#50](https://github.com/devtobi/aigelb/pull/50) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. 👍 Approved [#995](https://github.com/it-at-m/refarch-templates/pull/995#pullrequestreview-2793393320) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#995](https://github.com/it-at-m/refarch-templates/pull/995#discussion_r2059809207) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+5. 👍 Approved [#997](https://github.com/it-at-m/refarch-templates/pull/997#pullrequestreview-2793114247) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 25th, 2025, 1:38:13 PM
+Last Updated: Friday, April 25th, 2025, 2:42:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
