@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-2. 👍 Approved [#995](https://github.com/it-at-m/refarch-templates/pull/995#pullrequestreview-2793393320) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#995](https://github.com/it-at-m/refarch-templates/pull/995#discussion_r2059809207) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-5. 👍 Approved [#997](https://github.com/it-at-m/refarch-templates/pull/997#pullrequestreview-2793114247) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed 8 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+3. 👍 Approved [#995](https://github.com/it-at-m/refarch-templates/pull/995#pullrequestreview-2793393320) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#995](https://github.com/it-at-m/refarch-templates/pull/995#discussion_r2059809207) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 25th, 2025, 8:29:08 PM
+Last Updated: Friday, April 25th, 2025, 8:48:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
