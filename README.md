@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1001](https://github.com/it-at-m/refarch-templates/pull/1001#pullrequestreview-2796315975) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 👍 Approved [#1000](https://github.com/it-at-m/refarch-templates/pull/1000#pullrequestreview-2796308036) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#999](https://github.com/it-at-m/refarch-templates/pull/999#pullrequestreview-2796299958) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. 🎉 Merged PR [#52](https://github.com/devtobi/aigelb/pull/52) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💪 Opened PR [#1004](https://github.com/it-at-m/refarch-templates/pull/1004) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#520](https://github.com/it-at-m/refarch/pull/520#pullrequestreview-2796453993) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 27th, 2025, 3:50:52 AM
+Last Updated: Sunday, April 27th, 2025, 5:10:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
