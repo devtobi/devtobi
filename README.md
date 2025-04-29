@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#discussion_r2063689862) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-2. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+1. 👍 Approved [#505](https://github.com/it-at-m/refarch/pull/505#pullrequestreview-2802268402) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#discussion_r2063689862) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 3. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-4. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#issuecomment-2835280774) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-5. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#discussion_r2063635493) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+5. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#issuecomment-2835280774) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 29th, 2025, 3:34:28 PM
+Last Updated: Tuesday, April 29th, 2025, 4:21:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
