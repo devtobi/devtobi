@@ -68,10 +68,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#276](https://github.com/devtobi/cv/pull/276) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. 🎉 Merged PR [#275](https://github.com/devtobi/cv/pull/275) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. 🎉 Merged PR [#277](https://github.com/devtobi/cv/pull/277) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. 🎉 Merged PR [#276](https://github.com/devtobi/cv/pull/276) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 2nd, 2025, 7:40:45 PM
+Last Updated: Friday, May 2nd, 2025, 8:29:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
