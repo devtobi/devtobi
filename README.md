@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 🎉 Merged PR [#1011](https://github.com/it-at-m/refarch-templates/pull/1011) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#1011](https://github.com/it-at-m/refarch-templates/pull/1011#pullrequestreview-2811387210) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ❗️ Opened issue [#1010](https://github.com/it-at-m/refarch-templates/issues/1010) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 3 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. 🎉 Merged PR [#230](https://github.com/devtobi/cv/pull/230) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. ⬆️ Pushed 2 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 2nd, 2025, 1:39:22 PM
+Last Updated: Friday, May 2nd, 2025, 2:41:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
