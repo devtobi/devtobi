@@ -69,9 +69,9 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. 💪 Opened PR [#295](https://github.com/devtobi/cv/pull/295) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. ✔️ Closed issue [#283](https://github.com/devtobi/cv/issues/283) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. 🎉 Merged PR [#295](https://github.com/devtobi/cv/pull/295) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 3rd, 2025, 3:26:03 PM
+Last Updated: Saturday, May 3rd, 2025, 3:40:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
