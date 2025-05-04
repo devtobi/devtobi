@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#298](https://github.com/devtobi/cv/issues/298) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 🎉 Merged PR [#299](https://github.com/devtobi/cv/pull/299) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. 💪 Opened PR [#299](https://github.com/devtobi/cv/pull/299) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. 🎉 Merged PR [#58](https://github.com/devtobi/aigelb/pull/58) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. ✔️ Closed issue [#298](https://github.com/devtobi/cv/issues/298) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. 🎉 Merged PR [#299](https://github.com/devtobi/cv/pull/299) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 4th, 2025, 10:43:28 AM
+Last Updated: Sunday, May 4th, 2025, 11:20:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
