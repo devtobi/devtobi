@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 🎉 Merged PR [#1017](https://github.com/it-at-m/refarch-templates/pull/1017) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#1017](https://github.com/it-at-m/refarch-templates/pull/1017#pullrequestreview-2815618851) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#73](https://github.com/it-at-m/lhm_actions/pull/73#issuecomment-2851036240) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-5. 👍 Approved [#531](https://github.com/it-at-m/refarch/pull/531#pullrequestreview-2814708098) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#87](https://github.com/it-at-m/helm-charts/pull/87#issuecomment-2854657775) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 🎉 Merged PR [#1017](https://github.com/it-at-m/refarch-templates/pull/1017) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 👍 Approved [#1017](https://github.com/it-at-m/refarch-templates/pull/1017#pullrequestreview-2815618851) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#73](https://github.com/it-at-m/lhm_actions/pull/73#issuecomment-2851036240) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 6th, 2025, 10:41:59 PM
+Last Updated: Tuesday, May 6th, 2025, 11:20:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
