@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 🎉 Merged PR [#64](https://github.com/devtobi/aigelb/pull/64) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 💬 Commented on [#657](https://github.com/it-at-m/refarch-templates/issues/657#issuecomment-2867949686) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⭐ Starred [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ❌ Closed PR [#22](https://github.com/it-at-m/sitzverteilung/pull/22) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. 🎉 Merged PR [#301](https://github.com/devtobi/cv/pull/301) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. 🎉 Merged PR [#64](https://github.com/devtobi/aigelb/pull/64) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. 💬 Commented on [#657](https://github.com/it-at-m/refarch-templates/issues/657#issuecomment-2867949686) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 11th, 2025, 12:41:08 PM
+Last Updated: Sunday, May 11th, 2025, 1:15:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
