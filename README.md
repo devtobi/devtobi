@@ -68,10 +68,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 🎉 Merged PR [#39](https://github.com/it-at-m/sitzverteilung/pull/39) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💬 Commented on [#39](https://github.com/it-at-m/sitzverteilung/pull/39#discussion_r2086909830) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 👍 Approved [#124](https://github.com/it-at-m/helm-charts/pull/124#pullrequestreview-2842400285) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 🎉 Merged PR [#39](https://github.com/it-at-m/sitzverteilung/pull/39) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#39](https://github.com/it-at-m/sitzverteilung/pull/39#discussion_r2086909830) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 5. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 15th, 2025, 3:31:48 PM
+Last Updated: Thursday, May 15th, 2025, 4:22:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
