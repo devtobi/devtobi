@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1027](https://github.com/it-at-m/refarch-templates/pull/1027) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 👍 Approved [#124](https://github.com/it-at-m/helm-charts/pull/124#pullrequestreview-2842400285) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 💬 Commented on [#546](https://github.com/it-at-m/refarch/pull/546#discussion_r2090556605) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#546](https://github.com/it-at-m/refarch/pull/546#discussion_r2090560009) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 🔴 Requested 1 change(s) for [#546](https://github.com/it-at-m/refarch/pull/546#pullrequestreview-2842695610) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#1027](https://github.com/it-at-m/refarch-templates/pull/1027#discussion_r2090540454) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 15th, 2025, 4:43:52 PM
+Last Updated: Thursday, May 15th, 2025, 5:21:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
