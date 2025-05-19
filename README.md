@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#43](https://github.com/it-at-m/sitzverteilung/pull/43#pullrequestreview-2849855505) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 🎉 Merged PR [#44](https://github.com/it-at-m/sitzverteilung/pull/44) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 👍 Approved [#44](https://github.com/it-at-m/sitzverteilung/pull/44#pullrequestreview-2849835967) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#1041](https://github.com/it-at-m/refarch-templates/pull/1041) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#1041](https://github.com/it-at-m/refarch-templates/pull/1041#pullrequestreview-2849919151) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 🎉 Merged PR [#1040](https://github.com/it-at-m/refarch-templates/pull/1040) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 19th, 2025, 10:31:15 AM
+Last Updated: Monday, May 19th, 2025, 11:25:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
