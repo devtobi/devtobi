@@ -69,9 +69,9 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 🎉 Merged PR [#74](https://github.com/devtobi/aigelb/pull/74) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-4. 💬 Commented on [#128](https://github.com/it-at-m/helm-charts/pull/128#discussion_r2099462766) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. 🎉 Merged PR [#75](https://github.com/devtobi/aigelb/pull/75) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. 🎉 Merged PR [#74](https://github.com/devtobi/aigelb/pull/74) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 5. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 21st, 2025, 9:17:27 PM
+Last Updated: Wednesday, May 21st, 2025, 9:38:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
