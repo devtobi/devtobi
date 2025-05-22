@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101721735) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101726134) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101718335) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101719674) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101718047) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ✔️ Closed issue [#89](https://github.com/it-at-m/refarch-templates/issues/89) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101721735) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101726134) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101718335) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101719674) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 22nd, 2025, 8:31:41 AM
+Last Updated: Thursday, May 22nd, 2025, 9:40:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
