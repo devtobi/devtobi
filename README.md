@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#555](https://github.com/it-at-m/refarch/pull/555) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ✔️ Closed issue [#89](https://github.com/it-at-m/refarch-templates/issues/89) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101721735) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#1042](https://github.com/it-at-m/refarch-templates/pull/1042#discussion_r2101726134) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#128](https://github.com/it-at-m/helm-charts/pull/128#discussion_r2101942251) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. 🔴 Requested 1 change(s) for [#128](https://github.com/it-at-m/helm-charts/pull/128#pullrequestreview-2860257734) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+3. 💪 Opened PR [#555](https://github.com/it-at-m/refarch/pull/555) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ✔️ Closed issue [#89](https://github.com/it-at-m/refarch-templates/issues/89) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 22nd, 2025, 10:54:06 AM
+Last Updated: Thursday, May 22nd, 2025, 11:24:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
