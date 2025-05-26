@@ -69,17 +69,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 🎉 Merged PR [#319](https://github.com/devtobi/cv/pull/319) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. 🎉 Merged PR [#318](https://github.com/devtobi/cv/pull/318) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. 💪 Opened PR [#51](https://github.com/it-at-m/sitzverteilung/pull/51) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 26th, 2025, 8:33:11 AM
+Last Updated: Monday, May 26th, 2025, 9:30:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
