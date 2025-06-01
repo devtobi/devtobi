@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 🎉 Merged PR [#86](https://github.com/devtobi/aigelb/pull/86) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. 🎉 Merged PR [#85](https://github.com/devtobi/aigelb/pull/85) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. 🎉 Merged PR [#332](https://github.com/devtobi/cv/pull/332) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#327](https://github.com/devtobi/cv/pull/327) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 1st, 2025, 4:18:30 PM
+Last Updated: Sunday, June 1st, 2025, 4:42:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
