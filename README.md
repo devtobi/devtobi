@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#62](https://github.com/it-at-m/sitzverteilung/pull/62#discussion_r2138121166) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 💬 Commented on [#62](https://github.com/it-at-m/sitzverteilung/pull/62#discussion_r2138110543) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💬 Commented on [#62](https://github.com/it-at-m/sitzverteilung/pull/62#discussion_r2138124291) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 🎉 Merged PR [#101](https://github.com/devtobi/aigelb/pull/101) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. ⬆️ Pushed 5 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 💬 Commented on [#62](https://github.com/it-at-m/sitzverteilung/pull/62#discussion_r2138121166) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#62](https://github.com/it-at-m/sitzverteilung/pull/62#discussion_r2138110543) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 💬 Commented on [#62](https://github.com/it-at-m/sitzverteilung/pull/62#discussion_r2138124291) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 11th, 2025, 3:34:31 PM
+Last Updated: Wednesday, June 11th, 2025, 4:20:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
