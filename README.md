@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 💬 Commented on [#116](https://github.com/it-at-m/refarch-templates/issues/116#issuecomment-2963333143) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ✔️ Closed issue [#116](https://github.com/it-at-m/refarch-templates/issues/116) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 3. ⬆️ Pushed 2 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ⬆️ Pushed 5 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. ⬆️ Pushed 2 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 11th, 2025, 8:32:08 PM
+Last Updated: Wednesday, June 11th, 2025, 9:17:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
