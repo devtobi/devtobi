@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 👍 Approved [#77](https://github.com/it-at-m/sitzverteilung/pull/77#pullrequestreview-2961811720) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 2. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. ⬆️ Pushed 3 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 🎉 Merged PR [#78](https://github.com/it-at-m/sitzverteilung/pull/78) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 🎉 Merged PR [#76](https://github.com/it-at-m/sitzverteilung/pull/76) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 👍 Approved [#76](https://github.com/it-at-m/sitzverteilung/pull/76#pullrequestreview-2961809987) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 26th, 2025, 9:17:51 PM
+Last Updated: Thursday, June 26th, 2025, 9:38:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
