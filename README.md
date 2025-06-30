@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 🎉 Merged PR [#352](https://github.com/devtobi/cv/pull/352) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. 🎉 Merged PR [#134](https://github.com/devtobi/aigelb/pull/134) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. 👍 Approved [#147](https://github.com/it-at-m/helm-charts/pull/147#pullrequestreview-2970927299) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#352](https://github.com/devtobi/cv/pull/352) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 30th, 2025, 4:22:27 PM
+Last Updated: Monday, June 30th, 2025, 4:46:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
