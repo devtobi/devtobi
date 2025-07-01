@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 🎉 Merged PR [#583](https://github.com/it-at-m/refarch/pull/583) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 👍 Approved [#583](https://github.com/it-at-m/refarch/pull/583#pullrequestreview-2973560281) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. 🎉 Merged PR [#358](https://github.com/devtobi/cv/pull/358) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ❗️ Opened issue [#2214](https://github.com/slidevjs/slidev/issues/2214) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 🎉 Merged PR [#583](https://github.com/it-at-m/refarch/pull/583) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 👍 Approved [#583](https://github.com/it-at-m/refarch/pull/583#pullrequestreview-2973560281) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 1st, 2025, 10:44:00 PM
+Last Updated: Tuesday, July 1st, 2025, 11:20:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
