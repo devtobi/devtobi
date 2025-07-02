@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1101](https://github.com/it-at-m/refarch-templates/pull/1101#pullrequestreview-2974669630) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ❗️ Opened issue [#2214](https://github.com/slidevjs/slidev/issues/2214) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-3. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 🎉 Merged PR [#583](https://github.com/it-at-m/refarch/pull/583) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 👍 Approved [#583](https://github.com/it-at-m/refarch/pull/583#pullrequestreview-2973560281) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. 🎉 Merged PR [#140](https://github.com/devtobi/aigelb/pull/140) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. 👍 Approved [#1101](https://github.com/it-at-m/refarch-templates/pull/1101#pullrequestreview-2974669630) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ❗️ Opened issue [#2214](https://github.com/slidevjs/slidev/issues/2214) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 2nd, 2025, 8:31:50 PM
+Last Updated: Wednesday, July 2nd, 2025, 9:17:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
