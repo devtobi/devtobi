@@ -69,17 +69,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed 4 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#28](https://github.com/it-at-m/refarch/pull/28#issuecomment-3030988171) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#86](https://github.com/it-at-m/sitzverteilung/pull/86#discussion_r2181924396) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ⬆️ Pushed 7 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. ⬆️ Pushed 4 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#28](https://github.com/it-at-m/refarch/pull/28#issuecomment-3030988171) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#86](https://github.com/it-at-m/sitzverteilung/pull/86#discussion_r2181924396) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 3rd, 2025, 10:30:06 AM
+Last Updated: Thursday, July 3rd, 2025, 10:53:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
