@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 🎉 Merged PR [#559](https://github.com/it-at-m/refarch/pull/559) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 🎉 Merged PR [#86](https://github.com/it-at-m/sitzverteilung/pull/86) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. 🎉 Merged PR [#150](https://github.com/it-at-m/helm-charts/pull/150) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+3. 💪 Opened PR [#150](https://github.com/it-at-m/helm-charts/pull/150) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+5. ⬆️ Pushed 1 commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 3rd, 2025, 1:40:39 PM
+Last Updated: Thursday, July 3rd, 2025, 2:45:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
