@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 🎉 Merged PR [#91](https://github.com/it-at-m/sitzverteilung/pull/91) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 👍 Approved [#91](https://github.com/it-at-m/sitzverteilung/pull/91#pullrequestreview-2980394147) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. ⬆️ Pushed 7 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#584](https://github.com/it-at-m/refarch/pull/584#issuecomment-3030839044) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. ❌ Closed PR [#584](https://github.com/it-at-m/refarch/pull/584) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 🎉 Merged PR [#90](https://github.com/it-at-m/sitzverteilung/pull/90) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 🎉 Merged PR [#91](https://github.com/it-at-m/sitzverteilung/pull/91) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 3rd, 2025, 7:25:43 AM
+Last Updated: Thursday, July 3rd, 2025, 7:47:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
