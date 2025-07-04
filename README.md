@@ -69,17 +69,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 🎉 Merged PR [#144](https://github.com/devtobi/aigelb/pull/144) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 💪 Opened PR [#92](https://github.com/it-at-m/sitzverteilung/pull/92) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 🎉 Merged PR [#146](https://github.com/devtobi/aigelb/pull/146) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. 🎉 Merged PR [#145](https://github.com/devtobi/aigelb/pull/145) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 4th, 2025, 5:19:48 AM
+Last Updated: Friday, July 4th, 2025, 6:02:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
