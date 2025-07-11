@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 🎉 Merged PR [#99](https://github.com/it-at-m/sitzverteilung/pull/99) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. ⬆️ Pushed 2 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 🎉 Merged PR [#98](https://github.com/it-at-m/sitzverteilung/pull/98) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 💬 Commented on [#101](https://github.com/it-at-m/sitzverteilung/pull/101#discussion_r2200347833) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#101](https://github.com/it-at-m/sitzverteilung/pull/101#discussion_r2200352911) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 💬 Commented on [#101](https://github.com/it-at-m/sitzverteilung/pull/101#discussion_r2200345692) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#101](https://github.com/it-at-m/sitzverteilung/pull/101#discussion_r2200345089) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 💬 Commented on [#101](https://github.com/it-at-m/sitzverteilung/pull/101#discussion_r2200343670) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 11th, 2025, 9:40:23 PM
+Last Updated: Friday, July 11th, 2025, 10:25:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
