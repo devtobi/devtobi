@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 🎉 Merged PR [#171](https://github.com/devtobi/aigelb/pull/171) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 💪 Opened PR [#171](https://github.com/devtobi/aigelb/pull/171) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. 💬 Commented on [#170](https://github.com/devtobi/aigelb/pull/170#issuecomment-3124550952) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. 🎉 Merged PR [#382](https://github.com/devtobi/cv/pull/382) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. 🎉 Merged PR [#171](https://github.com/devtobi/aigelb/pull/171) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. 💪 Opened PR [#171](https://github.com/devtobi/aigelb/pull/171) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 27th, 2025, 11:41:50 PM
+Last Updated: Monday, July 28th, 2025, 12:22:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
