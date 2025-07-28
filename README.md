@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-2. 🎉 Merged PR [#383](https://github.com/devtobi/cv/pull/383) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 💬 Commented on [#3266](https://github.com/huggingface/huggingface_hub/issues/3266#issuecomment-3126293343) in [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. 🎉 Merged PR [#382](https://github.com/devtobi/cv/pull/382) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 🎉 Merged PR [#108](https://github.com/it-at-m/sitzverteilung/pull/108) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 👍 Approved [#108](https://github.com/it-at-m/sitzverteilung/pull/108#pullrequestreview-3062563172) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 🎉 Merged PR [#107](https://github.com/it-at-m/sitzverteilung/pull/107) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 28th, 2025, 10:48:09 PM
+Last Updated: Monday, July 28th, 2025, 11:22:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
