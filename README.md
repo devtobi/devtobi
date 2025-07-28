@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 🎉 Merged PR [#108](https://github.com/it-at-m/sitzverteilung/pull/108) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 👍 Approved [#108](https://github.com/it-at-m/sitzverteilung/pull/108#pullrequestreview-3062563172) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#1147](https://github.com/it-at-m/refarch-templates/pull/1147) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#1147](https://github.com/it-at-m/refarch-templates/pull/1147#pullrequestreview-3062823126) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 🎉 Merged PR [#107](https://github.com/it-at-m/sitzverteilung/pull/107) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 🎉 Merged PR [#108](https://github.com/it-at-m/sitzverteilung/pull/108) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 29th, 2025, 12:49:23 AM
+Last Updated: Tuesday, July 29th, 2025, 1:24:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
