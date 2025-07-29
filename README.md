@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [devtobi/huggingface-xet-example](https://github.com/devtobi/huggingface-xet-example)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-3. 🎉 Merged PR [#385](https://github.com/devtobi/cv/pull/385) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. 🎉 Merged PR [#384](https://github.com/devtobi/cv/pull/384) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. 💬 Commented on [#3266](https://github.com/huggingface/huggingface_hub/issues/3266#issuecomment-3133458307) in [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub)<br>
+2. 📔 Created new repository [devtobi/huggingface-xet-example](https://github.com/devtobi/huggingface-xet-example)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#385](https://github.com/devtobi/cv/pull/385) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 30th, 2025, 12:47:28 AM
+Last Updated: Wednesday, July 30th, 2025, 1:23:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
