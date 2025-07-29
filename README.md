@@ -68,10 +68,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 🎉 Merged PR [#176](https://github.com/devtobi/aigelb/pull/176) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 💪 Opened PR [#176](https://github.com/devtobi/aigelb/pull/176) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+2. 🎉 Merged PR [#385](https://github.com/devtobi/cv/pull/385) in [devtobi/cv](https://github.com/devtobi/cv)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+4. 🎉 Merged PR [#384](https://github.com/devtobi/cv/pull/384) in [devtobi/cv](https://github.com/devtobi/cv)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 29th, 2025, 7:48:19 PM
+Last Updated: Tuesday, July 29th, 2025, 8:36:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
