@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3266](https://github.com/huggingface/huggingface_hub/issues/3266#issuecomment-3133458307) in [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub)<br>
-2. 📔 Created new repository [devtobi/huggingface-xet-example](https://github.com/devtobi/huggingface-xet-example)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
-4. 🎉 Merged PR [#385](https://github.com/devtobi/cv/pull/385) in [devtobi/cv](https://github.com/devtobi/cv)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/cv](https://github.com/devtobi/cv)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. 💪 Opened PR [#178](https://github.com/devtobi/aigelb/pull/178) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. ⬆️ Pushed 2 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. 💬 Commented on [#3266](https://github.com/huggingface/huggingface_hub/issues/3266#issuecomment-3133458307) in [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 30th, 2025, 5:51:46 AM
+Last Updated: Wednesday, July 30th, 2025, 6:48:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
