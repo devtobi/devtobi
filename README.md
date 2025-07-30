@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 🎉 Merged PR [#179](https://github.com/devtobi/aigelb/pull/179) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 💪 Opened PR [#179](https://github.com/devtobi/aigelb/pull/179) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed 3 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#1149](https://github.com/it-at-m/refarch-templates/pull/1149) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#1149](https://github.com/it-at-m/refarch-templates/pull/1149#pullrequestreview-3070131622) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 🎉 Merged PR [#1148](https://github.com/it-at-m/refarch-templates/pull/1148) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 30th, 2025, 5:26:36 PM
+Last Updated: Wednesday, July 30th, 2025, 5:48:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
