@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 🎉 Merged PR [#113](https://github.com/it-at-m/sitzverteilung/pull/113) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💪 Opened PR [#113](https://github.com/it-at-m/sitzverteilung/pull/113) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. 🎉 Merged PR [#181](https://github.com/devtobi/aigelb/pull/181) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. 💬 Commented on [#3266](https://github.com/huggingface/huggingface_hub/issues/3266#issuecomment-3141369106) in [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub)<br>
 4. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 🎉 Merged PR [#113](https://github.com/it-at-m/sitzverteilung/pull/113) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 1st, 2025, 9:48:39 AM
+Last Updated: Friday, August 1st, 2025, 10:33:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
