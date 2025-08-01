@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 🎉 Merged PR [#181](https://github.com/devtobi/aigelb/pull/181) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. 💬 Commented on [#3266](https://github.com/huggingface/huggingface_hub/issues/3266#issuecomment-3141369106) in [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 🎉 Merged PR [#115](https://github.com/it-at-m/sitzverteilung/pull/115) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. ⬆️ Pushed 1 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 🎉 Merged PR [#114](https://github.com/it-at-m/sitzverteilung/pull/114) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 1st, 2025, 5:47:08 PM
+Last Updated: Friday, August 1st, 2025, 6:31:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
