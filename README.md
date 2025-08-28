@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. ⬆️ Pushed 3 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ❗️ Opened issue [#239](https://github.com/devtobi/aigelb/issues/239) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. ✌️ Released [Maintenance: Added instruction close protection when onboarding](https://github.com/devtobi/aigelb/releases/tag/v0.1.1) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. 🎉 Merged PR [#236](https://github.com/devtobi/aigelb/pull/236) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ❗️ Opened issue [#237](https://github.com/devtobi/aigelb/issues/237) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. ✔️ Closed issue [#237](https://github.com/devtobi/aigelb/issues/237) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. 🎉 Merged PR [#238](https://github.com/devtobi/aigelb/pull/238) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 28th, 2025, 5:41:34 PM
+Last Updated: Thursday, August 28th, 2025, 6:27:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
