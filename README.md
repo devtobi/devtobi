@@ -68,10 +68,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.3.0: Feature: Added interactive uninstall to instructions](https://github.com/devtobi/aigelb/releases/tag/v0.3.0) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 🎉 Merged PR [#250](https://github.com/devtobi/aigelb/pull/250) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. 💪 Opened PR [#250](https://github.com/devtobi/aigelb/pull/250) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. 🎉 Merged PR [#254](https://github.com/devtobi/aigelb/pull/254) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. 👍 Approved [#254](https://github.com/devtobi/aigelb/pull/254#pullrequestreview-3171217741) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. ✌️ Released [v0.3.0: Feature: Added interactive uninstall to instructions](https://github.com/devtobi/aigelb/releases/tag/v0.3.0) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 31st, 2025, 1:38:09 AM
+Last Updated: Sunday, August 31st, 2025, 3:48:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
