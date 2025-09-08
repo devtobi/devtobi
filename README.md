@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#279](https://github.com/devtobi/aigelb/pull/279) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ✌️ Released [v0.8.0: Usage instructions](https://github.com/devtobi/aigelb/releases/tag/v0.8.0) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 2. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ⬆️ Pushed 4 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. ✔️ Closed issue [#245](https://github.com/devtobi/aigelb/issues/245) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. 🎉 Merged PR [#279](https://github.com/devtobi/aigelb/pull/279) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. 🔴 Requested 1 change(s) for [#149](https://github.com/it-at-m/sitzverteilung/pull/149#pullrequestreview-3195694244) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 8th, 2025, 5:41:31 PM
+Last Updated: Monday, September 8th, 2025, 6:26:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
