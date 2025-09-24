@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1219](https://github.com/it-at-m/refarch-templates/pull/1219#pullrequestreview-3262553442) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#1220](https://github.com/it-at-m/refarch-templates/pull/1220#pullrequestreview-3262530027) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🎉 Merged PR [#1212](https://github.com/it-at-m/refarch-templates/pull/1212) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#172](https://github.com/it-at-m/sitzverteilung/pull/172#pullrequestreview-3262702745) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 4. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 👍 Approved [#171](https://github.com/it-at-m/sitzverteilung/pull/171#pullrequestreview-3262517370) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 👍 Approved [#1219](https://github.com/it-at-m/refarch-templates/pull/1219#pullrequestreview-3262553442) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 24th, 2025, 5:41:47 PM
+Last Updated: Wednesday, September 24th, 2025, 6:27:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
