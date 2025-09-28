@@ -68,10 +68,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 🎉 Merged PR [#318](https://github.com/devtobi/aigelb/pull/318) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. 🎉 Merged PR [#317](https://github.com/devtobi/aigelb/pull/317) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ✌️ Released [v0.8.2: Dependency Updates](https://github.com/devtobi/aigelb/releases/tag/v0.8.2) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. 🎉 Merged PR [#319](https://github.com/devtobi/aigelb/pull/319) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 5. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 28th, 2025, 9:37:39 PM
+Last Updated: Sunday, September 28th, 2025, 10:20:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
