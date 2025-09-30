@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#176](https://github.com/it-at-m/sitzverteilung/pull/176#discussion_r2391577497) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 👍 Approved [#120](https://github.com/it-at-m/lhm_actions/pull/120#pullrequestreview-3284845751) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-3. 💬 Commented on [#120](https://github.com/it-at-m/lhm_actions/pull/120#issuecomment-3352195149) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-4. 💬 Commented on [#176](https://github.com/it-at-m/sitzverteilung/pull/176#discussion_r2391445996) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ✌️ Released [v0.8.2: Dependency Updates](https://github.com/devtobi/aigelb/releases/tag/v0.8.2) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. 💬 Commented on [#49](https://github.com/it-at-m/itm-prettier-codeformat/pull/49#issuecomment-3352751472) in [it-at-m/itm-prettier-codeformat](https://github.com/it-at-m/itm-prettier-codeformat)<br>
+2. 💬 Commented on [#176](https://github.com/it-at-m/sitzverteilung/pull/176#discussion_r2391577497) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 👍 Approved [#120](https://github.com/it-at-m/lhm_actions/pull/120#pullrequestreview-3284845751) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+4. 💬 Commented on [#120](https://github.com/it-at-m/lhm_actions/pull/120#issuecomment-3352195149) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+5. 💬 Commented on [#176](https://github.com/it-at-m/sitzverteilung/pull/176#discussion_r2391445996) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 30th, 2025, 8:28:39 PM
+Last Updated: Tuesday, September 30th, 2025, 8:48:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
