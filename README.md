@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#665](https://github.com/it-at-m/refarch/issues/665) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#662](https://github.com/it-at-m/refarch/pull/662#issuecomment-3355573759) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ❗️ Opened issue [#1670](https://github.com/minio/minio-java/issues/1670) in [minio/minio-java](https://github.com/minio/minio-java)<br>
-5. ❗️ Opened issue [#664](https://github.com/it-at-m/refarch/issues/664) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#176](https://github.com/it-at-m/sitzverteilung/pull/176#discussion_r2397276171) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#176](https://github.com/it-at-m/sitzverteilung/pull/176#discussion_r2397272817) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 🔴 Requested 1 change(s) for [#176](https://github.com/it-at-m/sitzverteilung/pull/176#pullrequestreview-3292753931) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. ❗️ Opened issue [#665](https://github.com/it-at-m/refarch/issues/665) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#662](https://github.com/it-at-m/refarch/pull/662#issuecomment-3355573759) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 2nd, 2025, 8:31:12 AM
+Last Updated: Thursday, October 2nd, 2025, 9:19:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
