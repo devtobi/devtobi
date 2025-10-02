@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2397643972) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2397646272) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2397636896) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 🔴 Requested 1 change(s) for [#185](https://github.com/it-at-m/sitzverteilung/pull/185#pullrequestreview-3293169721) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2397621476) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 💬 Commented on [#176](https://github.com/it-at-m/sitzverteilung/pull/176#discussion_r2397661831) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2397643972) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2397646272) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2397636896) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 🔴 Requested 1 change(s) for [#185](https://github.com/it-at-m/sitzverteilung/pull/185#pullrequestreview-3293169721) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 2nd, 2025, 11:21:26 AM
+Last Updated: Thursday, October 2nd, 2025, 11:40:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
