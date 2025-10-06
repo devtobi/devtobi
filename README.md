@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 💬 Commented on [#185](https://github.com/it-at-m/sitzverteilung/pull/185#discussion_r2398833863) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💬 Commented on [#186](https://github.com/it-at-m/sitzverteilung/pull/186#discussion_r2398814890) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 💬 Commented on [#186](https://github.com/it-at-m/sitzverteilung/pull/186#discussion_r2398811029) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 💬 Commented on [#186](https://github.com/it-at-m/sitzverteilung/pull/186#discussion_r2398809453) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 💬 Commented on [#186](https://github.com/it-at-m/sitzverteilung/pull/186#discussion_r2405086500) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 🔴 Requested 1 change(s) for [#186](https://github.com/it-at-m/sitzverteilung/pull/186#pullrequestreview-3303024954) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 👍 Approved [#156](https://github.com/it-at-m/.github/pull/156#pullrequestreview-3303006614) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+4. 💬 Commented on [#156](https://github.com/it-at-m/.github/pull/156#discussion_r2405066092) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+5. ⬆️ Pushed 2 commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 6th, 2025, 1:17:08 PM
+Last Updated: Monday, October 6th, 2025, 1:37:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
