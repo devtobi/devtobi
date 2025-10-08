@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6](https://github.com/safijari/Decky-KDE-Connect/issues/6#issuecomment-3373743276) in [safijari/Decky-KDE-Connect](https://github.com/safijari/Decky-KDE-Connect)<br>
-2. 👍 Approved [#185](https://github.com/it-at-m/sitzverteilung/pull/185#pullrequestreview-3303868176) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 👍 Approved [#186](https://github.com/it-at-m/sitzverteilung/pull/186#pullrequestreview-3303759208) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. ⬆️ Pushed 1 commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. 🎉 Merged PR [#331](https://github.com/devtobi/aigelb/pull/331) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed 2 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#671](https://github.com/it-at-m/refarch/pull/671#discussion_r2412831455) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#671](https://github.com/it-at-m/refarch/pull/671#discussion_r2412835581) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#671](https://github.com/it-at-m/refarch/pull/671#discussion_r2412829579) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#671](https://github.com/it-at-m/refarch/pull/671#discussion_r2412826196) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 8th, 2025, 3:31:11 PM
+Last Updated: Wednesday, October 8th, 2025, 4:22:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
