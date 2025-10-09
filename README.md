@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1249](https://github.com/it-at-m/refarch-templates/pull/1249) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ✔️ Closed issue [#1130](https://github.com/it-at-m/refarch-templates/issues/1130) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#1130](https://github.com/it-at-m/refarch-templates/issues/1130#issuecomment-3385285671) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed 1 commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#191](https://github.com/it-at-m/sitzverteilung/pull/191#discussion_r2416720954) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#191](https://github.com/it-at-m/sitzverteilung/pull/191#discussion_r2416819964) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 💬 Commented on [#191](https://github.com/it-at-m/sitzverteilung/pull/191#discussion_r2416823863) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#191](https://github.com/it-at-m/sitzverteilung/pull/191#discussion_r2416803406) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 💬 Commented on [#191](https://github.com/it-at-m/sitzverteilung/pull/191#discussion_r2416805892) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 9th, 2025, 10:23:43 PM
+Last Updated: Thursday, October 9th, 2025, 10:41:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
