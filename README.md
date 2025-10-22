@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#691](https://github.com/it-at-m/refarch/pull/691#pullrequestreview-3361504367) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 👍 Approved [#1270](https://github.com/it-at-m/refarch-templates/pull/1270#pullrequestreview-3360949946) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. 👍 Approved [#160](https://github.com/it-at-m/.github/pull/160#pullrequestreview-3363971650) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#1271](https://github.com/it-at-m/refarch-templates/pull/1271#pullrequestreview-3363955704) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 👍 Approved [#1266](https://github.com/it-at-m/refarch-templates/pull/1266#pullrequestreview-3363907953) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 22nd, 2025, 8:33:41 AM
+Last Updated: Wednesday, October 22nd, 2025, 9:21:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
