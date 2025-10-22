@@ -69,9 +69,9 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 👍 Approved [#208](https://github.com/it-at-m/sitzverteilung/pull/208#pullrequestreview-3364860941) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 👍 Approved [#205](https://github.com/it-at-m/sitzverteilung/pull/205#pullrequestreview-3364836887) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 22nd, 2025, 1:19:02 PM
+Last Updated: Wednesday, October 22nd, 2025, 1:39:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
