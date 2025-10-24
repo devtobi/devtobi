@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#210](https://github.com/it-at-m/sitzverteilung/pull/210#pullrequestreview-3369977818) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2455265856) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2455263147) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2455250100) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2455249667) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 👍 Approved [#688](https://github.com/it-at-m/refarch/pull/688#pullrequestreview-3374717069) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 🔴 Requested 1 change(s) for [#688](https://github.com/it-at-m/refarch/pull/688#pullrequestreview-3374697318) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#688](https://github.com/it-at-m/refarch/pull/688#discussion_r2459008598) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#688](https://github.com/it-at-m/refarch/pull/688#discussion_r2459005127) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 👍 Approved [#690](https://github.com/it-at-m/refarch/pull/690#pullrequestreview-3374692881) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 24th, 2025, 7:40:59 AM
+Last Updated: Friday, October 24th, 2025, 8:31:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
