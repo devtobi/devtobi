@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#366](undefined) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. 🔴 Requested 1 change(s) for [#210](https://github.com/it-at-m/sitzverteilung/pull/210#pullrequestreview-3388642902) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2469548109) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2469543233) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2469510872) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2469505073) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 28th, 2025, 1:46:36 PM
+Last Updated: Tuesday, October 28th, 2025, 2:32:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
