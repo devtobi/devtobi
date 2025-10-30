@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#212](https://github.com/it-at-m/sitzverteilung/pull/212#issuecomment-3467667332) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💬 Commented on [#428](https://github.com/it-at-m/opensource.muenchen.de/pull/428#discussion_r2477842380) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
-4. 💬 Commented on [#428](https://github.com/it-at-m/opensource.muenchen.de/pull/428#discussion_r2477841944) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#212](https://github.com/it-at-m/sitzverteilung/pull/212#issuecomment-3467667332) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#428](https://github.com/it-at-m/opensource.muenchen.de/pull/428#discussion_r2477842380) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+5. 💬 Commented on [#428](https://github.com/it-at-m/opensource.muenchen.de/pull/428#discussion_r2477841944) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 30th, 2025, 1:47:07 PM
+Last Updated: Thursday, October 30th, 2025, 2:32:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
