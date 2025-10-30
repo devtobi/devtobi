@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#210](https://github.com/it-at-m/sitzverteilung/pull/210#pullrequestreview-3398157325) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2476914585) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 🔴 Requested 1 change(s) for [#210](https://github.com/it-at-m/sitzverteilung/pull/210#pullrequestreview-3397673735) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 👍 Approved [#427](https://github.com/it-at-m/opensource.muenchen.de/pull/427#pullrequestreview-3398637223) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+2. 💬 Commented on [#427](https://github.com/it-at-m/opensource.muenchen.de/pull/427#discussion_r2477271643) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+3. 💬 Commented on [#427](https://github.com/it-at-m/opensource.muenchen.de/pull/427#discussion_r2477269742) in [it-at-m/opensource.muenchen.de](https://github.com/it-at-m/opensource.muenchen.de)<br>
+4. 👍 Approved [#210](https://github.com/it-at-m/sitzverteilung/pull/210#pullrequestreview-3398157325) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 💬 Commented on [#210](https://github.com/it-at-m/sitzverteilung/pull/210#discussion_r2476914585) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 30th, 2025, 10:42:45 AM
+Last Updated: Thursday, October 30th, 2025, 11:24:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
