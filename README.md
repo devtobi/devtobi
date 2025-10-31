@@ -70,8 +70,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 2. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. ❗️ Opened issue [#1285](https://github.com/it-at-m/refarch-templates/issues/1285) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. ❗️ Opened issue [#1285](https://github.com/it-at-m/refarch-templates/issues/1285) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 5. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 31st, 2025, 11:43:58 AM
+Last Updated: Friday, October 31st, 2025, 12:18:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
