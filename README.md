@@ -69,17 +69,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 👍 Approved [#213](https://github.com/it-at-m/sitzverteilung/pull/213#pullrequestreview-3404602098) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 1st, 2025, 12:37:48 PM
+Last Updated: Saturday, November 1st, 2025, 1:40:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
