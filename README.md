@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511981612) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-2. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511972666) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-3. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511967571) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-4. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511965114) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
-5. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511960757) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+1. 🔴 Requested 1 change(s) for [#223](https://github.com/it-at-m/sitzverteilung/pull/223#pullrequestreview-3445055379) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+2. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2512004672) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+3. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511981612) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+4. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511972666) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. 💬 Commented on [#223](https://github.com/it-at-m/sitzverteilung/pull/223#discussion_r2511967571) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 10th, 2025, 10:19:58 PM
+Last Updated: Monday, November 10th, 2025, 10:39:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
