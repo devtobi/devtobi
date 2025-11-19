@@ -68,9 +68,9 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2214](https://github.com/slidevjs/slidev/issues/2214#issuecomment-3542973429) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-2. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 👍 Approved [#1301](https://github.com/it-at-m/refarch-templates/pull/1301#pullrequestreview-3481248271) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#2214](https://github.com/slidevjs/slidev/issues/2214#issuecomment-3542973429) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
 4. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 5. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 19th, 2025, 8:22:08 AM
+Last Updated: Wednesday, November 19th, 2025, 8:40:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
