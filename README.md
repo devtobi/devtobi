@@ -68,10 +68,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.9.0: Fixes, Dependency Updates and Integration of Evaluation Results](https://github.com/devtobi/aigelb/releases/tag/v0.9.0) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 💪 Opened PR [#504](undefined) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+2. ✌️ Released [v0.9.0: Fixes, Dependency Updates and Integration of Evaluation Results](https://github.com/devtobi/aigelb/releases/tag/v0.9.0) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+4. 💪 Opened PR [#504](undefined) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 5. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 16th, 2026, 10:30:19 AM
+Last Updated: Friday, January 16th, 2026, 11:28:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
