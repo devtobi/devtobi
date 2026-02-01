@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. 💪 Opened PR [#532](undefined) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. ✌️ Released [v1.0.0: Stable release!](https://github.com/devtobi/aigelb/releases/tag/v1.0.0) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. ✌️ Released [v1.0.1: Overlay styling fixes](https://github.com/devtobi/aigelb/releases/tag/v1.0.1) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+2. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+3. 💪 Opened PR [#533](undefined) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 4. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. 💪 Opened PR [#531](undefined) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+5. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 1st, 2026, 3:29:45 PM
+Last Updated: Sunday, February 1st, 2026, 3:54:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
