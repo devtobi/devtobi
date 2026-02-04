@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.1: Overlay styling fixes](https://github.com/devtobi/aigelb/releases/tag/v1.0.1) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-2. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-3. 💪 Opened PR [#533](undefined) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-4. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
-5. ⬆️ Pushed undefined commit(s) to [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
+1. 👍 Approved [#749](https://github.com/it-at-m/refarch/pull/749#pullrequestreview-3750040915) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 👍 Approved [#1353](https://github.com/it-at-m/refarch-templates/pull/1353#pullrequestreview-3749842813) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#1373](https://github.com/it-at-m/refarch-templates/issues/1373#issuecomment-3846193315) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#749](https://github.com/it-at-m/refarch/pull/749#issuecomment-3846150623) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ✌️ Released [v1.0.1: Overlay styling fixes](https://github.com/devtobi/aigelb/releases/tag/v1.0.1) in [devtobi/aigelb](https://github.com/devtobi/aigelb)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 4th, 2026, 9:49:34 AM
+Last Updated: Wednesday, February 4th, 2026, 10:50:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
