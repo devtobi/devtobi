@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. ❗️ Opened issue [#776](https://github.com/it-at-m/refarch/issues/776) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ❗️ Opened issue [#775](https://github.com/it-at-m/refarch/issues/775) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 👍 Approved [#1093](https://github.com/it-at-m/refarch-templates/pull/1093#pullrequestreview-3937291404) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 👍 Approved [#1448](https://github.com/it-at-m/refarch-templates/pull/1448#pullrequestreview-3952038937) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 👍 Approved [#1447](https://github.com/it-at-m/refarch-templates/pull/1447#pullrequestreview-3952007237) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 👍 Approved [#742](https://github.com/it-at-m/refarch/pull/742#pullrequestreview-3951994449) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 16th, 2026, 7:52:12 AM
+Last Updated: Monday, March 16th, 2026, 9:08:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
