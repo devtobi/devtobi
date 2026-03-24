@@ -68,10 +68,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#92](https://github.com/cssninjaStudio/unplugin-fonts/pull/92#issuecomment-4113696851) in [cssninjaStudio/unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#92](https://github.com/cssninjaStudio/unplugin-fonts/pull/92#issuecomment-4113696851) in [cssninjaStudio/unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts)<br>
 3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 24th, 2026, 8:35:20 AM
+Last Updated: Tuesday, March 24th, 2026, 9:56:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
