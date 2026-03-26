@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994868938) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994836717) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994832125) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994802769) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994778783) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 🔴 Requested 1 change(s) for [#794](https://github.com/it-at-m/refarch/pull/794#pullrequestreview-4013655756) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994942862) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994940305) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994919398) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r2994899418) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 26th, 2026, 2:25:05 PM
+Last Updated: Thursday, March 26th, 2026, 3:47:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
