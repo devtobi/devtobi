@@ -69,17 +69,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💪 Opened PR [#10](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 👍 Approved [#8](https://github.com/it-at-m/foerdermittel/pull/8#pullrequestreview-4036020392) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 👍 Approved [#12](https://github.com/it-at-m/foerdermittel/pull/12#pullrequestreview-4036561207) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. ❌ Closed PR [#9](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 31st, 2026, 12:56:37 PM
+Last Updated: Tuesday, March 31st, 2026, 1:54:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
