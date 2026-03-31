@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#92](https://github.com/cssninjaStudio/unplugin-fonts/pull/92#issuecomment-4157824390) in [cssninjaStudio/unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts)<br>
-2. 💬 Commented on [#801](https://github.com/it-at-m/refarch/pull/801#issuecomment-4142426800) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ❌ Closed PR [#801](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 👍 Approved [#803](https://github.com/it-at-m/refarch/pull/803#pullrequestreview-4020966864) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 🔴 Requested 1 change(s) for [#794](https://github.com/it-at-m/refarch/pull/794#pullrequestreview-4034985417) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r3013776117) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#794](https://github.com/it-at-m/refarch/pull/794#discussion_r3013775736) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#6](https://github.com/it-at-m/foerdermittel/pull/6#discussion_r3013750967) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 31st, 2026, 7:24:39 AM
+Last Updated: Tuesday, March 31st, 2026, 8:49:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
