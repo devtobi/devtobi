@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#1490](https://github.com/it-at-m/refarch-templates/pull/1490#discussion_r3026916245) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 🔴 Requested 1 change(s) for [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#pullrequestreview-4042215006) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3027797404) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3027781634) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3027773312) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3027764965) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 2nd, 2026, 1:49:09 PM
+Last Updated: Thursday, April 2nd, 2026, 3:22:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
