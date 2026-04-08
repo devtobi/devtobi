@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3049603391) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3049590724) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3049578718) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r3049568290) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 🔴 Requested 1 change(s) for [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#pullrequestreview-4073722103) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+2. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050157571) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+3. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050155683) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+4. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050153522) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+5. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050151955) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 8th, 2026, 9:26:22 AM
+Last Updated: Wednesday, April 8th, 2026, 10:42:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
