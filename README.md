@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#pullrequestreview-4074998546) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-2. 🔴 Requested 1 change(s) for [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#pullrequestreview-4073722103) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-3. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050157571) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-4. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050155683) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-5. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050153522) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+1. ❗️ Opened issue [#1190](https://github.com/OpenAPITools/openapi-generator-cli/issues/1190) in [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli)<br>
+2. 👍 Approved [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#pullrequestreview-4074998546) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+3. 🔴 Requested 1 change(s) for [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#pullrequestreview-4073722103) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+4. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050157571) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+5. 💬 Commented on [#751](https://github.com/it-at-m/Praktikumsplaner/pull/751#discussion_r3050155683) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 8th, 2026, 4:52:58 PM
+Last Updated: Wednesday, April 8th, 2026, 6:16:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
