@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-2. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-3. 💬 Commented on [#8](https://github.com/safijari/Decky-KDE-Connect/pull/8#issuecomment-4208115083) in [safijari/Decky-KDE-Connect](https://github.com/safijari/Decky-KDE-Connect)<br>
-4. 💬 Commented on [#169](https://github.com/AikidoSec/safe-chain/issues/169#issuecomment-4208100625) in [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)<br>
-5. 💬 Commented on [#988](https://github.com/topgrade-rs/topgrade/issues/988#issuecomment-4208093500) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+1. 🔴 Requested 1 change(s) for [#1504](https://github.com/it-at-m/refarch-templates/pull/1504#pullrequestreview-4080891128) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#1504](https://github.com/it-at-m/refarch-templates/pull/1504#discussion_r3056537676) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#1504](https://github.com/it-at-m/refarch-templates/pull/1504#discussion_r3056536734) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
+5. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 9th, 2026, 9:00:31 AM
+Last Updated: Thursday, April 9th, 2026, 10:50:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
