@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#229](https://github.com/it-at-m/lhm_actions/pull/229#pullrequestreview-4111378343) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-2. 💬 Commented on [#229](https://github.com/it-at-m/lhm_actions/pull/229#discussion_r3084907385) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-3. 💬 Commented on [#229](https://github.com/it-at-m/lhm_actions/pull/229#discussion_r3084898139) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-4. 💬 Commented on [#229](https://github.com/it-at-m/lhm_actions/pull/229#discussion_r3084891278) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-5. 💬 Commented on [#229](https://github.com/it-at-m/lhm_actions/pull/229#discussion_r3084874564) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+1. 💬 Commented on [#36](https://github.com/it-at-m/foerdermittel/pull/36#issuecomment-4250868484) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#36](https://github.com/it-at-m/foerdermittel/pull/36#issuecomment-4250836404) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#36](https://github.com/it-at-m/foerdermittel/pull/36#discussion_r3085386378) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#36](https://github.com/it-at-m/foerdermittel/pull/36#discussion_r3085380573) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#36](https://github.com/it-at-m/foerdermittel/pull/36#discussion_r3085378116) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 15th, 2026, 10:12:30 AM
+Last Updated: Wednesday, April 15th, 2026, 11:56:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
