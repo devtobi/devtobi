@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#44](https://github.com/it-at-m/sps/pull/44#discussion_r3130472871) in [it-at-m/sps](https://github.com/it-at-m/sps)<br>
-2. 💬 Commented on [#44](https://github.com/it-at-m/sps/pull/44#discussion_r3130426572) in [it-at-m/sps](https://github.com/it-at-m/sps)<br>
-3. 💬 Commented on [#44](https://github.com/it-at-m/sps/pull/44#discussion_r3130423727) in [it-at-m/sps](https://github.com/it-at-m/sps)<br>
-4. 💬 Commented on [#44](https://github.com/it-at-m/sps/pull/44#discussion_r3130413965) in [it-at-m/sps](https://github.com/it-at-m/sps)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+3. 💬 Commented on [#773](https://github.com/it-at-m/Praktikumsplaner/pull/773#discussion_r3131060516) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+4. 👍 Approved [#229](https://github.com/it-at-m/lhm_actions/pull/229#pullrequestreview-4162648374) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+5. 💬 Commented on [#229](https://github.com/it-at-m/lhm_actions/pull/229#discussion_r3130959645) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 23rd, 2026, 1:39:37 PM
+Last Updated: Thursday, April 23rd, 2026, 3:52:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
