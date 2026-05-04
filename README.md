@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="Coder GIF" height=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-</p>
-
 <!-- Landing section -->
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY2cjhxdmdxdjFpaWhodnZsNDg2Mjk4djdzZzRhZmtyZGpzbWh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Tobias</h1>
