@@ -26,8 +26,8 @@
 <!-- About me -->
 <h2 align="center">ℹ️ About me</h2>
 <ul align="center" style="list-style: none;">
-  <li>🔭 I’m currently working on: <strong>My neovim setup</strong></li>
-  <!--<li>🌱 I’m currently learning: <strong>GitHub actions</strong></li>-->
+  <li>🔭 I’m currently working on: <strong>My OpenCode setup</strong></li>
+  <!--<li>🌱 I’m currently learning: <strong>Agentic coding</strong></li>-->
   <li>👨‍💻 All of my projects are available at: <a href="https://github.com/devtobi/projects">https://github.com/devtobi/projects</a></li>
   <li>💬 Ask me about: <strong>Java, Spring, JavaScript, TypeScript, Vue, DevOps and more.</strong></li>
   <!--<li>📫 How to reach me: <strong>---</strong></li>-->
