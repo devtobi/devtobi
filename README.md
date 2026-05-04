@@ -68,18 +68,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 👍 Approved [#868](https://github.com/it-at-m/refarch/pull/868#pullrequestreview-4219350438) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 👍 Approved [#867](https://github.com/it-at-m/refarch/pull/867#pullrequestreview-4219140522) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💪 Opened PR [#70](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 👍 Approved [#330](https://github.com/it-at-m/sitzverteilung/pull/330#pullrequestreview-4221399942) in [it-at-m/sitzverteilung](https://github.com/it-at-m/sitzverteilung)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 4th, 2026, 5:30:02 PM
+Last Updated: Monday, May 4th, 2026, 7:14:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
