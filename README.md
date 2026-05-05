@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#62](https://github.com/it-at-m/foerdermittel/pull/62#pullrequestreview-4226292032) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💬 Commented on [#62](https://github.com/it-at-m/foerdermittel/pull/62#discussion_r3186917208) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. 💬 Commented on [#62](https://github.com/it-at-m/foerdermittel/pull/62#discussion_r3186542687) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. ⬆️ Pushed undefined commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
-5. ⬆️ Pushed undefined commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+1. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3187675147) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+2. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3187672147) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+3. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3187659629) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+4. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3187647099) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+5. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3187644123) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 11:27:26 AM
+Last Updated: Tuesday, May 5th, 2026, 1:03:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
