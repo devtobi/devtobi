@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
-2. ⬆️ Pushed undefined commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💪 Opened PR [#70](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 🔴 Requested 1 change(s) for [#62](https://github.com/it-at-m/foerdermittel/pull/62#pullrequestreview-4225869254) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#62](https://github.com/it-at-m/foerdermittel/pull/62#discussion_r3186542687) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. ⬆️ Pushed undefined commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+4. ⬆️ Pushed undefined commit(s) to [devtobi/devtobi](https://github.com/devtobi/devtobi)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 6:42:38 AM
+Last Updated: Tuesday, May 5th, 2026, 9:19:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
