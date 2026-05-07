@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#871](https://github.com/it-at-m/refarch/pull/871#discussion_r3201025673) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#871](https://github.com/it-at-m/refarch/pull/871#discussion_r3199760766) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#871](https://github.com/it-at-m/refarch/pull/871#discussion_r3199694931) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#871](https://github.com/it-at-m/refarch/pull/871#discussion_r3199692227) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💬 Commented on [#871](https://github.com/it-at-m/refarch/pull/871#discussion_r3199652668) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#1560](https://github.com/it-at-m/refarch-templates/issues/1560#issuecomment-4398235333) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#1560](https://github.com/it-at-m/refarch-templates/issues/1560#issuecomment-4398125113) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ❗️ Opened issue [#1460](https://github.com/CycloneDX/cyclonedx-node-npm/issues/1460) in [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm)<br>
+4. 💬 Commented on [#871](https://github.com/it-at-m/refarch/pull/871#discussion_r3201021602) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 7th, 2026, 2:17:19 PM
+Last Updated: Thursday, May 7th, 2026, 5:12:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
