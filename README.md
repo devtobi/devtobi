@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#260](undefined) in [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 👍 Approved [#871](https://github.com/it-at-m/refarch/pull/871#pullrequestreview-4252581312) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#871](https://github.com/it-at-m/refarch/pull/871#discussion_r3208853483) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 8th, 2026, 1:53:40 PM
+Last Updated: Friday, May 8th, 2026, 3:57:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
