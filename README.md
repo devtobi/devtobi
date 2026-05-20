@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1460](https://github.com/CycloneDX/cyclonedx-node-npm/issues/1460#issuecomment-4495734141) in [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm)<br>
-2. 💬 Commented on [#672](https://github.com/libxmljs/libxmljs/issues/672#issuecomment-4495711561) in [libxmljs/libxmljs](https://github.com/libxmljs/libxmljs)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💪 Opened PR [#884](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 👍 Approved [#1603](https://github.com/it-at-m/refarch-templates/pull/1603#pullrequestreview-4327723763) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#1602](https://github.com/it-at-m/refarch-templates/pull/1602#pullrequestreview-4327701500) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#1460](https://github.com/CycloneDX/cyclonedx-node-npm/issues/1460#issuecomment-4495734141) in [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm)<br>
+5. 💬 Commented on [#672](https://github.com/libxmljs/libxmljs/issues/672#issuecomment-4495711561) in [libxmljs/libxmljs](https://github.com/libxmljs/libxmljs)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 20th, 2026, 10:26:39 AM
+Last Updated: Wednesday, May 20th, 2026, 1:28:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
