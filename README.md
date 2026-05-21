@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#93](https://github.com/it-at-m/foerdermittel/pull/93#pullrequestreview-4329046422) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 👍 Approved [#1603](https://github.com/it-at-m/refarch-templates/pull/1603#pullrequestreview-4327723763) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3279601310) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+2. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3279594634) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+3. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3279582825) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+4. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3279569252) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+5. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3279482962) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 21st, 2026, 6:03:58 AM
+Last Updated: Thursday, May 21st, 2026, 10:07:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
