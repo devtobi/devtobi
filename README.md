@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1624](https://github.com/it-at-m/refarch-templates/pull/1624#pullrequestreview-4402291537) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#1625](https://github.com/it-at-m/refarch-templates/pull/1625#pullrequestreview-4402300047) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#107](https://github.com/it-at-m/foerdermittel/pull/107#issuecomment-4593749735) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 👍 Approved [#1623](https://github.com/it-at-m/refarch-templates/pull/1623#pullrequestreview-4408964261) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3340310234) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 2nd, 2026, 8:50:15 AM
+Last Updated: Tuesday, June 2nd, 2026, 1:19:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
