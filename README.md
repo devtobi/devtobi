@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1415](https://github.com/it-at-m/refarch-templates/pull/1415#issuecomment-4603711473) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 💬 Commented on [#812](https://github.com/it-at-m/Praktikumsplaner/pull/812#discussion_r3342119077) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💪 Opened PR [#108](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 3rd, 2026, 7:26:48 AM
+Last Updated: Wednesday, June 3rd, 2026, 12:21:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
