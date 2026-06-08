@@ -64,9 +64,9 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#1631](https://github.com/it-at-m/refarch-templates/pull/1631#discussion_r3371612784) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
@@ -75,7 +75,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 8th, 2026, 1:59:43 PM
+Last Updated: Monday, June 8th, 2026, 6:12:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
