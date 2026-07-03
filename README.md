@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3506619528) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3506617421) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 🔴 Requested 1 change(s) for [#134](https://github.com/it-at-m/foerdermittel/pull/134#pullrequestreview-4622878699) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517670825) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517645825) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517600033) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517573271) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 3rd, 2026, 6:25:19 AM
+Last Updated: Friday, July 3rd, 2026, 9:45:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
