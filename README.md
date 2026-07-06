@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#134](https://github.com/it-at-m/foerdermittel/pull/134#pullrequestreview-4622878699) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517670825) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517645825) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517600033) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3517573271) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3526944699) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3526944070) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3526934543) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3526933830) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#134](https://github.com/it-at-m/foerdermittel/pull/134#discussion_r3526921717) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 6th, 2026, 6:51:49 AM
+Last Updated: Monday, July 6th, 2026, 11:01:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
