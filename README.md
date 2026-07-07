@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#158](https://github.com/it-at-m/foerdermittel/pull/158#discussion_r3530327134) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💬 Commented on [#158](https://github.com/it-at-m/foerdermittel/pull/158#discussion_r3530316056) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. 💬 Commented on [#158](https://github.com/it-at-m/foerdermittel/pull/158#discussion_r3530301824) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#158](https://github.com/it-at-m/foerdermittel/pull/158#discussion_r3530285805) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💬 Commented on [#158](https://github.com/it-at-m/foerdermittel/pull/158#discussion_r3530268737) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 👍 Approved [#136](https://github.com/it-at-m/foerdermittel/pull/136#pullrequestreview-4644120972) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#137](https://github.com/it-at-m/foerdermittel/pull/137#discussion_r3534861545) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 🔴 Requested 1 change(s) for [#137](https://github.com/it-at-m/foerdermittel/pull/137#pullrequestreview-4642843254) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#137](https://github.com/it-at-m/foerdermittel/pull/137#discussion_r3534797012) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#137](https://github.com/it-at-m/foerdermittel/pull/137#discussion_r3534810236) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 7th, 2026, 9:41:39 AM
+Last Updated: Tuesday, July 7th, 2026, 1:10:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
