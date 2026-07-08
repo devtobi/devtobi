@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#160](https://github.com/it-at-m/foerdermittel/pull/160#discussion_r3537445281) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💬 Commented on [#160](https://github.com/it-at-m/foerdermittel/pull/160#discussion_r3537403436) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 🔴 Requested 1 change(s) for [#160](https://github.com/it-at-m/foerdermittel/pull/160#pullrequestreview-4646255846) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 👍 Approved [#161](https://github.com/it-at-m/foerdermittel/pull/161#pullrequestreview-4651316154) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 🔴 Requested 1 change(s) for [#161](https://github.com/it-at-m/foerdermittel/pull/161#pullrequestreview-4651285658) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#161](https://github.com/it-at-m/foerdermittel/pull/161#discussion_r3541533345) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#160](https://github.com/it-at-m/foerdermittel/pull/160#discussion_r3537445281) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#160](https://github.com/it-at-m/foerdermittel/pull/160#discussion_r3537403436) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 8th, 2026, 5:35:58 AM
+Last Updated: Wednesday, July 8th, 2026, 8:30:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
