@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 👍 Approved [#176](https://github.com/it-at-m/foerdermittel/pull/176#pullrequestreview-4723836859) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. 💬 Commented on [#1713](https://github.com/it-at-m/refarch-templates/pull/1713#discussion_r3604151683) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💪 Opened PR [#1713](undefined) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#1521](https://github.com/it-at-m/refarch-templates/pull/1521#discussion_r3612600260) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#1564](https://github.com/it-at-m/refarch-templates/issues/1564#issuecomment-5019571326) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#1563](https://github.com/it-at-m/refarch-templates/issues/1563#issuecomment-5019570722) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#1562](https://github.com/it-at-m/refarch-templates/issues/1562#issuecomment-5019570053) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#1659](https://github.com/it-at-m/refarch-templates/pull/1659#issuecomment-5019565757) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 20th, 2026, 6:21:56 AM
+Last Updated: Monday, July 20th, 2026, 9:40:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
