@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#416](https://github.com/it-at-m/muc-patternlab-vue/issues/416) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
-2. 💬 Commented on [#275](https://github.com/it-at-m/lhm_actions/issues/275#issuecomment-5035983704) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 👍 Approved [#948](https://github.com/it-at-m/refarch/pull/948#pullrequestreview-4745424823) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ✔️ Closed issue [#416](https://github.com/it-at-m/muc-patternlab-vue/issues/416) in [it-at-m/muc-patternlab-vue](https://github.com/it-at-m/muc-patternlab-vue)<br>
+5. 💬 Commented on [#275](https://github.com/it-at-m/lhm_actions/issues/275#issuecomment-5035983704) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 22nd, 2026, 5:56:54 AM
+Last Updated: Wednesday, July 22nd, 2026, 8:37:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
