@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 💬 Commented on [#1314](https://github.com/it-at-m/refarch-templates/pull/1314#issuecomment-5057815602) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#924](https://github.com/it-at-m/refarch/pull/924#discussion_r3637086771) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#924](https://github.com/it-at-m/refarch/pull/924#discussion_r3637082374) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#924](https://github.com/it-at-m/refarch/pull/924#discussion_r3637072465) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 23rd, 2026, 11:25:43 AM
+Last Updated: Thursday, July 23rd, 2026, 1:25:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
