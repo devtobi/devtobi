@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💪 Opened PR [#196](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 💬 Commented on [#940](https://github.com/it-at-m/refarch/pull/940#discussion_r3664490129) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. 💬 Commented on [#195](https://github.com/it-at-m/foerdermittel/pull/195#discussion_r3672870412) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#195](https://github.com/it-at-m/foerdermittel/pull/195#discussion_r3672842197) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#195](https://github.com/it-at-m/foerdermittel/pull/195#discussion_r3672647008) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#195](https://github.com/it-at-m/foerdermittel/pull/195#discussion_r3672633298) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#195](https://github.com/it-at-m/foerdermittel/pull/195#discussion_r3672618628) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 29th, 2026, 9:20:12 AM
+Last Updated: Wednesday, July 29th, 2026, 12:09:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
