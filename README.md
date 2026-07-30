@@ -64,10 +64,10 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 🔱 Forked [devtobi/openapi-generator](https://github.com/devtobi/openapi-generator) from [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
+2. ❗️ Opened issue [#24531](https://github.com/OpenAPITools/openapi-generator/issues/24531) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
 3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💪 Opened PR [#198](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
@@ -75,7 +75,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 30th, 2026, 1:09:01 PM
+Last Updated: Thursday, July 30th, 2026, 3:06:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
