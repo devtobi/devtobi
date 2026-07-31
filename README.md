@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devtobi/openapi-generator](https://github.com/devtobi/openapi-generator)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 2. ⬆️ Pushed undefined commit(s) to [devtobi/openapi-generator](https://github.com/devtobi/openapi-generator)<br>
-3. 💪 Opened PR [#24533](undefined) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
-4. ⬆️ Pushed undefined commit(s) to [devtobi/openapi-generator](https://github.com/devtobi/openapi-generator)<br>
-5. 🔱 Forked [devtobi/openapi-generator](https://github.com/devtobi/openapi-generator) from [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
+3. ⬆️ Pushed undefined commit(s) to [devtobi/openapi-generator](https://github.com/devtobi/openapi-generator)<br>
+4. 💪 Opened PR [#24533](undefined) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
+5. ⬆️ Pushed undefined commit(s) to [devtobi/openapi-generator](https://github.com/devtobi/openapi-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 31st, 2026, 9:21:58 AM
+Last Updated: Friday, July 31st, 2026, 12:05:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
