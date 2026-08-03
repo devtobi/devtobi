@@ -65,17 +65,17 @@
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 👍 Approved [#965](https://github.com/it-at-m/refarch/pull/965#pullrequestreview-4844422343) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 🔴 Requested 1 change(s) for [#940](https://github.com/it-at-m/refarch/pull/940#pullrequestreview-4843763530) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#199](https://github.com/it-at-m/foerdermittel/pull/199#issuecomment-5168666556) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 3rd, 2026, 5:25:47 PM
+Last Updated: Monday, August 3rd, 2026, 7:25:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
