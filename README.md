@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 👍 Approved [#362](https://github.com/it-at-m/lhm_actions/pull/362#pullrequestreview-4907916629) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-3. 💬 Commented on [#362](https://github.com/it-at-m/lhm_actions/pull/362#discussion_r3758580699) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-4. 💬 Commented on [#362](https://github.com/it-at-m/lhm_actions/pull/362#discussion_r3758572561) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 👍 Approved [#362](https://github.com/it-at-m/lhm_actions/pull/362#pullrequestreview-4907916629) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+4. 💬 Commented on [#362](https://github.com/it-at-m/lhm_actions/pull/362#discussion_r3758580699) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+5. 💬 Commented on [#362](https://github.com/it-at-m/lhm_actions/pull/362#discussion_r3758572561) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 12th, 2026, 11:13:46 AM
+Last Updated: Wednesday, August 12th, 2026, 12:34:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
