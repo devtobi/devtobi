@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#994](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. ❌ Closed PR [#992](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💪 Opened PR [#994](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 19th, 2026, 5:33:47 PM
+Last Updated: Wednesday, August 19th, 2026, 6:33:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
