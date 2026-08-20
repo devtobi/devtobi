@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3820678664) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3820671237) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#999](https://github.com/it-at-m/refarch/pull/999#discussion_r3821023371) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#999](https://github.com/it-at-m/refarch/pull/999#discussion_r3820992215) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+4. 💬 Commented on [#999](https://github.com/it-at-m/refarch/pull/999#discussion_r3820956217) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 💬 Commented on [#999](https://github.com/it-at-m/refarch/pull/999#discussion_r3820942699) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 20th, 2026, 12:32:59 PM
+Last Updated: Thursday, August 20th, 2026, 1:28:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
