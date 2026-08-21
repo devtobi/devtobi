@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3828338514) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3828332524) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3828312219) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3827912327) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3827881100) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 💬 Commented on [#1678](https://github.com/it-at-m/refarch-templates/pull/1678#discussion_r3828748390) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#1678](https://github.com/it-at-m/refarch-templates/pull/1678#discussion_r3828745586) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 🔴 Requested 1 change(s) for [#229](https://github.com/it-at-m/foerdermittel/pull/229#pullrequestreview-4981630743) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3828671272) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#229](https://github.com/it-at-m/foerdermittel/pull/229#discussion_r3828668723) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 21st, 2026, 9:44:49 AM
+Last Updated: Friday, August 21st, 2026, 10:42:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
