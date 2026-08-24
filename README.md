@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+1. 👍 Approved [#1005](https://github.com/it-at-m/refarch/pull/1005#pullrequestreview-5005154255) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 👍 Approved [#1812](https://github.com/it-at-m/refarch-templates/pull/1812#pullrequestreview-5005140151) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 👍 Approved [#1007](https://github.com/it-at-m/refarch/pull/1007#pullrequestreview-5005134651) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 24th, 2026, 7:39:36 AM
+Last Updated: Monday, August 24th, 2026, 9:03:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
