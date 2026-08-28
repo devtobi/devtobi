@@ -66,16 +66,16 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#1816](https://github.com/it-at-m/refarch-templates/pull/1816#issuecomment-5427100936) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💪 Opened PR [#260](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#988](https://github.com/it-at-m/refarch/pull/988#issuecomment-5452861286) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. ❌ Closed PR [#988](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 28th, 2026, 7:32:31 AM
+Last Updated: Friday, August 28th, 2026, 8:21:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
