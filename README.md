@@ -68,14 +68,14 @@
 2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ❗️ Opened issue [#380](https://github.com/it-at-m/lhm_actions/issues/380) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 31st, 2026, 6:17:58 PM
+Last Updated: Monday, August 31st, 2026, 11:33:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
