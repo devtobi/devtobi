@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901390093) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-2. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901308860) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-3. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901304013) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-4. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901287659) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-5. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901278224) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+1. 👍 Approved [#1020](https://github.com/it-at-m/refarch/pull/1020#pullrequestreview-5075330484) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 🔴 Requested 1 change(s) for [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#pullrequestreview-5074395589) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+3. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901426739) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+4. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901420741) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+5. 💬 Commented on [#877](https://github.com/it-at-m/Praktikumsplaner/pull/877#discussion_r3901410371) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 1st, 2026, 8:37:46 AM
+Last Updated: Tuesday, September 1st, 2026, 2:25:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
