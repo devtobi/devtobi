@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3912364663) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3912403286) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3912142832) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3912129949) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3912093618) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914768944) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914767317) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914765952) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914760420) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914602348) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 3rd, 2026, 1:06:36 AM
+Last Updated: Thursday, September 3rd, 2026, 3:19:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
