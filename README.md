@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914894307) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914852492) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3914811392) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 👍 Approved [#242](https://github.com/it-at-m/foerdermittel/pull/242#pullrequestreview-5100664249) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 👍 Approved [#1024](https://github.com/it-at-m/refarch/pull/1024#pullrequestreview-5100649121) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+3. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#issuecomment-5523638715) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3923102853) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 🔴 Requested 1 change(s) for [#1024](https://github.com/it-at-m/refarch/pull/1024#pullrequestreview-5100099928) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 3rd, 2026, 8:17:24 AM
+Last Updated: Thursday, September 3rd, 2026, 1:33:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
