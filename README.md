@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#242](https://github.com/it-at-m/foerdermittel/pull/242#pullrequestreview-5100664249) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 👍 Approved [#1024](https://github.com/it-at-m/refarch/pull/1024#pullrequestreview-5100649121) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#issuecomment-5523638715) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3923102853) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 🔴 Requested 1 change(s) for [#1024](https://github.com/it-at-m/refarch/pull/1024#pullrequestreview-5100099928) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+2. 💬 Commented on [#1836](https://github.com/it-at-m/refarch-templates/pull/1836#issuecomment-5527035343) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💪 Opened PR [#1836](undefined) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#242](https://github.com/it-at-m/foerdermittel/pull/242#discussion_r3923285973) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. ❌ Closed PR [#1835](undefined) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 3rd, 2026, 1:33:50 PM
+Last Updated: Thursday, September 3rd, 2026, 6:03:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
