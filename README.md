@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+1. 💬 Commented on [#202](https://github.com/it-at-m/foerdermittel/pull/202#issuecomment-5537121458) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. ❌ Closed PR [#202](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#264](https://github.com/it-at-m/foerdermittel/pull/264#issuecomment-5537116247) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. ❌ Closed PR [#264](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 4th, 2026, 5:38:36 AM
+Last Updated: Friday, September 4th, 2026, 10:38:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
