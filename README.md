@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 👍 Approved [#276](https://github.com/it-at-m/foerdermittel/pull/276#pullrequestreview-5176463953) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 💬 Commented on [#281](https://github.com/it-at-m/foerdermittel/pull/281#issuecomment-5620554540) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 🔴 Requested 1 change(s) for [#884](https://github.com/it-at-m/Praktikumsplaner/pull/884#pullrequestreview-5168319853) in [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
+4. 👍 Approved [#207](https://github.com/it-at-m/foerdermittel/pull/207#pullrequestreview-5176324681) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 👍 Approved [#254](https://github.com/it-at-m/foerdermittel/pull/254#pullrequestreview-5176247976) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 11th, 2026, 7:01:58 AM
+Last Updated: Friday, September 11th, 2026, 11:55:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
