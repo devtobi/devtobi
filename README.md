@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/openapi-generator](https://github.com/it-at-m/openapi-generator)<br>
 2. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
 3. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
-4. 💬 Commented on [#1460](https://github.com/CycloneDX/cyclonedx-node-npm/issues/1460#issuecomment-5717375671) in [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+4. ⬆️ Pushed undefined commit(s) to [it-at-m/helm-charts](https://github.com/it-at-m/helm-charts)<br>
+5. 💬 Commented on [#1460](https://github.com/CycloneDX/cyclonedx-node-npm/issues/1460#issuecomment-5717375671) in [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 18th, 2026, 11:59:17 AM
+Last Updated: Friday, September 18th, 2026, 4:22:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
