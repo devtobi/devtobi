@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Kyle-Hosman/xdj-az-mods](https://github.com/Kyle-Hosman/xdj-az-mods)<br>
-2. ⭐ Starred [Deep-Symmetry/beat-link-trigger](https://github.com/Deep-Symmetry/beat-link-trigger)<br>
-3. ⭐ Starred [flesniak/python-prodj-link](https://github.com/flesniak/python-prodj-link)<br>
-4. ⭐ Starred [Deep-Symmetry/beat-link](https://github.com/Deep-Symmetry/beat-link)<br>
-5. ⭐ Starred [anweiss/prodjlink-rs](https://github.com/anweiss/prodjlink-rs)<br>
+1. ⭐ Starred [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3)<br>
+2. ⭐ Starred [chrisle/rbxport](https://github.com/chrisle/rbxport)<br>
+3. ⭐ Starred [Kyle-Hosman/xdj-az-mods](https://github.com/Kyle-Hosman/xdj-az-mods)<br>
+4. ⭐ Starred [Deep-Symmetry/beat-link-trigger](https://github.com/Deep-Symmetry/beat-link-trigger)<br>
+5. ⭐ Starred [flesniak/python-prodj-link](https://github.com/flesniak/python-prodj-link)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 7th, 2026, 3:15:17 AM
+Last Updated: Wednesday, October 7th, 2026, 9:35:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
