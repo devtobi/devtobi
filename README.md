@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ❗️ Opened issue [#1912](https://github.com/it-at-m/refarch-templates/issues/1912) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 👍 Approved [#2](https://github.com/it-at-m/keycloak-terraform/pull/2#pullrequestreview-5517896422) in [it-at-m/keycloak-terraform](https://github.com/it-at-m/keycloak-terraform)<br>
-4. 💬 Commented on [#1505](https://github.com/it-at-m/refarch-templates/pull/1505#issuecomment-6165647753) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. 👍 Approved [#1906](https://github.com/it-at-m/refarch-templates/pull/1906#pullrequestreview-5514159014) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 💬 Commented on [#1060](https://github.com/it-at-m/refarch/pull/1060#discussion_r4284363853) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ❗️ Opened issue [#1912](https://github.com/it-at-m/refarch-templates/issues/1912) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 👍 Approved [#2](https://github.com/it-at-m/keycloak-terraform/pull/2#pullrequestreview-5517896422) in [it-at-m/keycloak-terraform](https://github.com/it-at-m/keycloak-terraform)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 15th, 2026, 2:46:39 PM
+Last Updated: Thursday, October 15th, 2026, 7:39:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
