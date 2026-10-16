@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r4293912661) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r4293904649) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r4293838335) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. 👍 Approved [#7](https://github.com/it-at-m/keycloak-terraform/pull/7#pullrequestreview-5547094755) in [it-at-m/keycloak-terraform](https://github.com/it-at-m/keycloak-terraform)<br>
-5. 💬 Commented on [#1505](https://github.com/it-at-m/refarch-templates/pull/1505#discussion_r4292538417) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 👍 Approved [#1067](https://github.com/it-at-m/refarch/pull/1067#pullrequestreview-5545812471) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#1505](https://github.com/it-at-m/refarch-templates/pull/1505#issuecomment-6195050085) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r4293912661) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r4293904649) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. 💬 Commented on [#1387](https://github.com/it-at-m/refarch-templates/pull/1387#discussion_r4293838335) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 16th, 2026, 3:48:18 PM
+Last Updated: Friday, October 16th, 2026, 7:51:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
