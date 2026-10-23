@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#340](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/Praktikumsplaner](https://github.com/it-at-m/Praktikumsplaner)<br>
-4. 👍 Approved [#1926](https://github.com/it-at-m/refarch-templates/pull/1926#pullrequestreview-5609864348) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-5. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)<br>
+1. 👍 Approved [#315](https://github.com/it-at-m/foerdermittel/pull/315#pullrequestreview-5624397189) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 👍 Approved [#310](https://github.com/it-at-m/foerdermittel/pull/310#pullrequestreview-5624374030) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 👍 Approved [#341](https://github.com/it-at-m/foerdermittel/pull/341#pullrequestreview-5624298435) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. ❌ Closed PR [#295](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. ❌ Closed PR [#301](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 23rd, 2026, 3:46:00 AM
+Last Updated: Friday, October 23rd, 2026, 9:10:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
