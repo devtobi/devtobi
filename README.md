@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-2. ⭐ Starred [get-bb/bb](https://github.com/get-bb/bb)<br>
-3. 💬 Commented on [#340](https://github.com/it-at-m/foerdermittel/pull/340#issuecomment-6363458416) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-4. 👍 Approved [#336](https://github.com/it-at-m/foerdermittel/pull/336#pullrequestreview-5624110154) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#282](https://github.com/it-at-m/foerdermittel/pull/282#issuecomment-6360026595) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#299](https://github.com/it-at-m/foerdermittel/pull/299#issuecomment-6358118693) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 24th, 2026, 1:55:48 AM
+Last Updated: Saturday, October 24th, 2026, 6:02:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
