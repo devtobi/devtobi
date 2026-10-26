@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
-2. ⭐ Starred [backnotprop/pstack](https://github.com/backnotprop/pstack)<br>
-3. ⭐ Starred [johnnycoombes/prolink-monitor](https://github.com/johnnycoombes/prolink-monitor)<br>
-4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 💬 Commented on [#347](https://github.com/it-at-m/foerdermittel/pull/347#discussion_r4377344806) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#347](https://github.com/it-at-m/foerdermittel/pull/347#discussion_r4377288634) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#347](https://github.com/it-at-m/foerdermittel/pull/347#discussion_r4377225255) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#347](https://github.com/it-at-m/foerdermittel/pull/347#discussion_r4377534296) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 🔴 Requested 1 change(s) for [#347](https://github.com/it-at-m/foerdermittel/pull/347#pullrequestreview-5651961126) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 26th, 2026, 8:32:52 AM
+Last Updated: Monday, October 26th, 2026, 3:56:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
