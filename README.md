@@ -64,9 +64,9 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [johnnycoombes/prolink-monitor](https://github.com/johnnycoombes/prolink-monitor)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
+2. ⭐ Starred [backnotprop/pstack](https://github.com/backnotprop/pstack)<br>
+3. ⭐ Starred [johnnycoombes/prolink-monitor](https://github.com/johnnycoombes/prolink-monitor)<br>
 4. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
@@ -75,7 +75,7 @@
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 26th, 2026, 12:04:20 AM
+Last Updated: Monday, October 26th, 2026, 2:30:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
