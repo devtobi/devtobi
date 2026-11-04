@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2479](https://github.com/topgrade-rs/topgrade/issues/2479) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
-2. ⭐ Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)<br>
-3. ⭐ Starred [thesysdev/openui](https://github.com/thesysdev/openui)<br>
-4. ⭐ Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br>
-5. ⭐ Starred [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)<br>
+1. ⭐ Starred [rashidrazak/opencode-status-line](https://github.com/rashidrazak/opencode-status-line)<br>
+2. ❗️ Opened issue [#2479](https://github.com/topgrade-rs/topgrade/issues/2479) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+3. ⭐ Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)<br>
+4. ⭐ Starred [thesysdev/openui](https://github.com/thesysdev/openui)<br>
+5. ⭐ Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 4th, 2026, 2:05:49 AM
+Last Updated: Wednesday, November 4th, 2026, 8:52:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
