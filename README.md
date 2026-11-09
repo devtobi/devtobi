@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
-2. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)<br>
-3. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-4. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
-5. ⭐ Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br>
+1. 💬 Commented on [#377](https://github.com/it-at-m/foerdermittel/pull/377#discussion_r4514465105) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 💬 Commented on [#377](https://github.com/it-at-m/foerdermittel/pull/377#discussion_r4513863920) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 💬 Commented on [#377](https://github.com/it-at-m/foerdermittel/pull/377#discussion_r4513856199) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 👍 Approved [#1089](https://github.com/it-at-m/refarch/pull/1089#pullrequestreview-5828811642) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+5. 👍 Approved [#1101](https://github.com/it-at-m/refarch/pull/1101#pullrequestreview-5828776441) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 9th, 2026, 8:43:34 AM
+Last Updated: Monday, November 9th, 2026, 7:29:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
