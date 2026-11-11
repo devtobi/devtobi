@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anomalyco/hex](https://github.com/anomalyco/hex)<br>
-2. ⭐ Starred [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac)<br>
-3. ⭐ Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)<br>
-4. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
-5. ⭐ Starred [renjfk/opencode-voice](https://github.com/renjfk/opencode-voice)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
+2. 💬 Commented on [#368](https://github.com/tsconfig/bases/issues/368#issuecomment-6791610088) in [tsconfig/bases](https://github.com/tsconfig/bases)<br>
+3. ❗️ Opened issue [#368](https://github.com/tsconfig/bases/issues/368) in [tsconfig/bases](https://github.com/tsconfig/bases)<br>
+4. ⭐ Starred [lirantal/npq](https://github.com/lirantal/npq)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 11th, 2026, 3:09:26 AM
+Last Updated: Wednesday, November 11th, 2026, 10:44:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
