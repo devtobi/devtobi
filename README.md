@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-2. 💬 Commented on [#379](https://github.com/it-at-m/foerdermittel/pull/379#discussion_r4525022461) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⭐ Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)<br>
-5. ⭐ Starred [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)<br>
+1. ⭐ Starred [anomalyco/hex](https://github.com/anomalyco/hex)<br>
+2. ⭐ Starred [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac)<br>
+3. ⭐ Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)<br>
+4. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
+5. ⭐ Starred [renjfk/opencode-voice](https://github.com/renjfk/opencode-voice)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 10th, 2026, 11:28:22 PM
+Last Updated: Wednesday, November 11th, 2026, 3:09:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
