@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#379](https://github.com/it-at-m/foerdermittel/pull/379#pullrequestreview-5842027353) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. ✔️ Closed issue [#303](https://github.com/it-at-m/foerdermittel/issues/303) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. 💪 Opened PR [#1104](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-4. 💪 Opened PR [#1103](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. 💪 Opened PR [#1959](undefined) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. 💬 Commented on [#303](https://github.com/it-at-m/foerdermittel/issues/303#issuecomment-6826108230) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 👍 Approved [#379](https://github.com/it-at-m/foerdermittel/pull/379#pullrequestreview-5842027353) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. ✔️ Closed issue [#303](https://github.com/it-at-m/foerdermittel/issues/303) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💪 Opened PR [#1104](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 12th, 2026, 5:39:31 PM
+Last Updated: Thursday, November 12th, 2026, 11:37:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
