@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nguyenphutrong/opencode-caffeinate](https://github.com/nguyenphutrong/opencode-caffeinate)<br>
-2. ⭐ Starred [MasuRii/opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)<br>
-3. ⭐ Starred [kdcokenny/ocx](https://github.com/kdcokenny/ocx)<br>
-4. ⭐ Starred [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth)<br>
-5. ⭐ Starred [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty)<br>
+1. 💪 Opened PR [#382](undefined) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 👍 Approved [#1537](https://github.com/CycloneDX/cyclonedx-node-npm/pull/1537#pullrequestreview-5888429811) in [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm)<br>
+3. ⭐ Starred [nguyenphutrong/opencode-caffeinate](https://github.com/nguyenphutrong/opencode-caffeinate)<br>
+4. ⭐ Starred [MasuRii/opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)<br>
+5. ⭐ Starred [kdcokenny/ocx](https://github.com/kdcokenny/ocx)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 13th, 2026, 4:15:24 AM
+Last Updated: Friday, November 13th, 2026, 12:24:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
