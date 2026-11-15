@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. ⬆️ Pushed undefined commit(s) to [devtobi/dotfiles](https://github.com/devtobi/dotfiles)<br>
-4. ⭐ Starred [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)<br>
-5. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+4. ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)<br>
+5. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 15th, 2026, 11:39:25 AM
+Last Updated: Sunday, November 15th, 2026, 6:36:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
