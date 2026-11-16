@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1962](https://github.com/it-at-m/refarch-templates/pull/1962#pullrequestreview-5917200037) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💪 Opened PR [#190](undefined) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
-3. 👍 Approved [#1961](https://github.com/it-at-m/refarch-templates/pull/1961#pullrequestreview-5916462159) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ⭐ Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)<br>
-5. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+1. 👍 Approved [#437](https://github.com/it-at-m/lhm_actions/pull/437#pullrequestreview-5923308812) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+2. 👍 Approved [#1962](https://github.com/it-at-m/refarch-templates/pull/1962#pullrequestreview-5917200037) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+3. 💪 Opened PR [#190](undefined) in [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+4. 👍 Approved [#1961](https://github.com/it-at-m/refarch-templates/pull/1961#pullrequestreview-5916462159) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+5. ⭐ Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 16th, 2026, 11:47:09 AM
+Last Updated: Monday, November 16th, 2026, 9:50:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
