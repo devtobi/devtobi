@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-3. ⭐ Starred [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox)<br>
-4. ⭐ Starred [huggingface/safeagents](https://github.com/huggingface/safeagents)<br>
-5. 👍 Approved [#437](https://github.com/it-at-m/lhm_actions/pull/437#pullrequestreview-5923308812) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+1. 👍 Approved [#385](https://github.com/it-at-m/foerdermittel/pull/385#pullrequestreview-5938141564) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 👍 Approved [#384](https://github.com/it-at-m/foerdermittel/pull/384#pullrequestreview-5938069662) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
+4. 👍 Approved [#313](https://github.com/it-at-m/foerdermittel/pull/313#pullrequestreview-5937794564) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#1968](https://github.com/it-at-m/refarch-templates/pull/1968#issuecomment-6946648850) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 17th, 2026, 4:29:56 AM
+Last Updated: Tuesday, November 17th, 2026, 1:22:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
