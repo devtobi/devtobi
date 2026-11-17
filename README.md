@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#385](https://github.com/it-at-m/foerdermittel/pull/385#pullrequestreview-5938141564) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-2. 👍 Approved [#384](https://github.com/it-at-m/foerdermittel/pull/384#pullrequestreview-5938069662) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-3. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-4. 👍 Approved [#313](https://github.com/it-at-m/foerdermittel/pull/313#pullrequestreview-5937794564) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
-5. 💬 Commented on [#1968](https://github.com/it-at-m/refarch-templates/pull/1968#issuecomment-6946648850) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+2. ⬆️ Pushed undefined commit(s) to [it-at-m/.github](https://github.com/it-at-m/.github)<br>
+3. ⬆️ Pushed undefined commit(s) to [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. 💬 Commented on [#383](https://github.com/it-at-m/foerdermittel/pull/383#discussion_r4598695295) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+5. 💬 Commented on [#383](https://github.com/it-at-m/foerdermittel/pull/383#discussion_r4598679301) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 17th, 2026, 1:22:07 PM
+Last Updated: Tuesday, November 17th, 2026, 10:13:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
