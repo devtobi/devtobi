@@ -64,18 +64,18 @@
 
 <p align="center">
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-2. 💪 Opened PR [#1124](undefined) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-3. 💬 Commented on [#1994](https://github.com/it-at-m/refarch-templates/pull/1994#issuecomment-7165733368) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
-4. ❗️ Opened issue [#1123](https://github.com/it-at-m/refarch/issues/1123) in [it-at-m/refarch](https://github.com/it-at-m/refarch)<br>
-5. ✔️ Closed issue [#1999](https://github.com/it-at-m/refarch-templates/issues/1999) in [it-at-m/refarch-templates](https://github.com/it-at-m/refarch-templates)<br>
+1. 👍 Approved [#402](https://github.com/it-at-m/foerdermittel/pull/402#pullrequestreview-6076336866) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+2. 👍 Approved [#411](https://github.com/it-at-m/foerdermittel/pull/411#pullrequestreview-6076175335) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+3. 👍 Approved [#419](https://github.com/it-at-m/foerdermittel/pull/419#pullrequestreview-6075689741) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
+4. ❗️ Opened issue [#461](https://github.com/it-at-m/lhm_actions/issues/461) in [it-at-m/lhm_actions](https://github.com/it-at-m/lhm_actions)<br>
+5. 👍 Approved [#393](https://github.com/it-at-m/foerdermittel/pull/393#pullrequestreview-6074327356) in [it-at-m/foerdermittel](https://github.com/it-at-m/foerdermittel)<br>
 <!--RECENT_ACTIVITY:end-->
 </p>
 
 <p align="center">
 <em>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 26th, 2026, 6:18:40 AM
+Last Updated: Thursday, November 26th, 2026, 4:36:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </em>
 </p>
